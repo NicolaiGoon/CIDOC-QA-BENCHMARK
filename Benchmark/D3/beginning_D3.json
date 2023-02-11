@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 2501,
+    "question": "When Hypnotic: GOOD SWEET WOMAN started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.81>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2502,
+    "question": "When Largo (Sierra Nevada) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.22>",
+    "answers": [
+      "1925-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2503,
+    "question": "When For the Pleasure of Fashion started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.13>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2504,
+    "question": "When A Pine Tree started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.158>",
+    "answers": [
+      "1816-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2505,
+    "question": "When Dayton's Poster started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.108.65>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2506,
+    "question": "When My Body Sees You started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.50.7>",
+    "answers": [
+      "1992-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2507,
+    "question": "When Hot Dog Stand started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.88.5>",
+    "answers": [
+      "1994-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2508,
+    "question": "When Forest (In the Forest) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.60>",
+    "answers": [
+      "1931-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2509,
+    "question": "When There is no Buddha Out There started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.25>",
+    "answers": [
+      "1999-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2510,
+    "question": "When Wealth started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.70>",
+    "answers": [
+      "1997-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2511,
+    "question": "When Mother of Henry O. Tanner started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.213>",
+    "answers": [
+      "1859-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2512,
+    "question": "When Autumn, Staten Island started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.161>",
+    "answers": [
+      "1906-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2513,
+    "question": "When Bouillabaisse, Barcelona started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.80.1>",
+    "answers": [
+      "1948-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2514,
+    "question": "When Three for the Price of a Dog started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.124.23>",
+    "answers": [
+      "1992-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2515,
+    "question": "When La Maison started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.84.7>",
+    "answers": [
+      "1931-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2516,
+    "question": "When Major General Lee started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.152.28>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2517,
+    "question": "When Black and White Tipped Flower started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.52>",
+    "answers": [
+      "1982-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2518,
+    "question": "When Horeb, Egypt started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.202>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2519,
+    "question": "When Baltit, Hunza, Pakistan started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.95.4>",
+    "answers": [
+      "1982-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2520,
+    "question": "When General started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.105.6>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2521,
+    "question": "When Central Park and the Plaza started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1936.12.3>",
+    "answers": [
+      "1855-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2522,
+    "question": "When Louisa Powers' Hand started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.128>",
+    "answers": [
+      "1839-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2523,
+    "question": "When African Head Carving started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.70>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2524,
+    "question": "When Hitchhiker, Iowa started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.384>",
+    "answers": [
+      "1976-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2525,
+    "question": "When Boy in a Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.152.1>",
+    "answers": [
+      "1840-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2526,
+    "question": "When Sacred Heart of Healing started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.7A-C>",
+    "answers": [
+      "2000-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2527,
+    "question": "When Sheepyard, Moonlight started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.71>",
+    "answers": [
+      "1906-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2528,
+    "question": "When Study in Auburn started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.17>",
+    "answers": [
+      "1904-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2529,
+    "question": "When Snowballs started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.91>",
+    "answers": [
+      "1891-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2530,
+    "question": "When The Court Room Scene started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.79>",
+    "answers": [
+      "1904-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2531,
+    "question": "When Dawnscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.25>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2532,
+    "question": "When Dogwood Blossoms started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.57>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2533,
+    "question": "When Cloud Study started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.59>",
+    "answers": [
+      "1925-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2534,
+    "question": "When Boy Sitting on Cot started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.318>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2535,
+    "question": "When Plainsman's Dream started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.50.14>",
+    "answers": [
+      "1898-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2536,
+    "question": "When Elsie Clough Street started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.47>",
+    "answers": [
+      "1898-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2537,
+    "question": "When Cement Mixer started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.69.15>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2538,
+    "question": "When City Hall started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.48.79>",
+    "answers": [
+      "1826-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2539,
+    "question": "When Fat and Stylish started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.81>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2540,
+    "question": "When Yellow Moon started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.81.27>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2541,
+    "question": "When Beulah Appleton started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1942.11.7>",
+    "answers": [
+      "1840-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2542,
+    "question": "When At Home started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.156>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2543,
+    "question": "When Humus started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.74>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2544,
+    "question": "When Riverside Church, New York started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.387>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2545,
+    "question": "When A New England Scene started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.180>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2546,
+    "question": "When Macas, Paraguay started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.7.4>",
+    "answers": [
+      "1885-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2547,
+    "question": "When Town Wharf started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.64.20>",
+    "answers": [
+      "1964-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2548,
+    "question": "When Woman Phone Booth started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.15.3>",
+    "answers": [
+      "1981-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2549,
+    "question": "When Greek Beaker started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.89.6>",
+    "answers": [
+      "1992-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2550,
+    "question": "When View of Artist's Home started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.8.23>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2551,
+    "question": "When Buick Housecar started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.693>",
+    "answers": [
+      "1971-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2552,
+    "question": "When Winterberries started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.433>",
+    "answers": [
+      "1863-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2553,
+    "question": "When Sophia started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.26.1>",
+    "answers": [
+      "2002-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2554,
+    "question": "When Dag Hammarskjold College started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.168.32>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2555,
+    "question": "When The Long Rows started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.3.1>",
+    "answers": [
+      "1966-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2556,
+    "question": "When Rabbi Newman, San Francisco started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.27>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2557,
+    "question": "When El Fireboy y El Mingo started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.147>",
+    "answers": [
+      "1988-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2558,
+    "question": "When Devil's Lake started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.105.63>",
+    "answers": [
+      "1919-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2559,
+    "question": "When Fountain Maquette started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.42.8>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2560,
+    "question": "When Nubien (Baouab) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.71>",
+    "answers": [
+      "1813-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2561,
+    "question": "When The Forces of Evil started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.46.11>",
+    "answers": [
+      "1914-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2562,
+    "question": "When The Puppy-cat and the Baby started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.36>",
+    "answers": [
+      "1904-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2563,
+    "question": "When Setting a Beaver Trap started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.31>",
+    "answers": [
+      "1887-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2564,
+    "question": "When The Hitchhiker started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.70.7>",
+    "answers": [
+      "1940-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2565,
+    "question": "When Victime started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.34>",
+    "answers": [
+      "1943-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2566,
+    "question": "When Child Reading started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.19.11>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2567,
+    "question": "When Lotus started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.8.2>",
+    "answers": [
+      "2006-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2568,
+    "question": "When Chestnut Tree, West Virginia started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.57>",
+    "answers": [
+      "2002-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2569,
+    "question": "When Pleasure and Power started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.29>",
+    "answers": [
+      "1986-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2570,
+    "question": "When German Lady started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.274>",
+    "answers": [
+      "1912-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2571,
+    "question": "When Portrait of Elizabeth Taylor started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.30.2>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2572,
+    "question": "When Mount Chocorua started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.81>",
+    "answers": [
+      "1856-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2573,
+    "question": "When Innocent Age started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.51.3>",
+    "answers": [
+      "2006-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2574,
+    "question": "When Models and Cat Mobile started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.10>",
+    "answers": [
+      "1961-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2575,
+    "question": "When Open Action started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.66.9>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2576,
+    "question": "When Homes and Garden, Kerteminde started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.724>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2577,
+    "question": "When Hexatryst started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.49.4>",
+    "answers": [
+      "1979-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2578,
+    "question": "When Cloudy Moon started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.21.2>",
+    "answers": [
+      "1883-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2579,
+    "question": "When Fishermen at Sea started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.215>",
+    "answers": [
+      "1913-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2580,
+    "question": "When Confidences started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.42>",
+    "answers": [
+      "1906-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2581,
+    "question": "When Monekana started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.3>",
+    "answers": [
+      "2001-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2582,
+    "question": "When White Tanks started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.81.22>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2583,
+    "question": "When Ragpicker's Shop, Florence started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.489>",
+    "answers": [
+      "1916-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2584,
+    "question": "When Die Kaiserpalasre in Rom started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.61>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2585,
+    "question": "When Sky Totem started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.6.67>",
+    "answers": [
+      "1956-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2586,
+    "question": "When Prince Abu Zabi y Su Jardin started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.84>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2587,
+    "question": "When Wyatt Eaton started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.16>",
+    "answers": [
+      "1883-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2588,
+    "question": "When Shifting States: Iraq started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.52>",
+    "answers": [
+      "2011-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2589,
+    "question": "When Road through the Labyrinth started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.35>",
+    "answers": [
+      "1979-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2590,
+    "question": "When Canary Yellow started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.26.5>",
+    "answers": [
+      "1990-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2591,
+    "question": "When Selena started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.126.6>",
+    "answers": [
+      "1996-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2592,
+    "question": "When The Indian Ghost Dancer started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.11.28>",
+    "answers": [
+      "1888-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2593,
+    "question": "When A Delightful Evening started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.23>",
+    "answers": [
+      "1906-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2594,
+    "question": "When Dr. Edward R. Baldwin started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1953.11.1>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2595,
+    "question": "When Andre Joseph Villard started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1961.9.1>",
+    "answers": [
+      "1810-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2596,
+    "question": "When The Unbelievable City started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.124.1>",
+    "answers": [
+      "1877-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2597,
+    "question": "When Nude in Wood started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.141>",
+    "answers": [
+      "1959-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2598,
+    "question": "When Old Fort, New Fortresses started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.92>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2599,
+    "question": "When Celadon Catfish Dish with Lid started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.36.6A-B>",
+    "answers": [
+      "1987-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2600,
+    "question": "When Dionysius started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.45>",
+    "answers": [
+      "1800-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2601,
+    "question": "When Newman's House started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.19.4>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2602,
+    "question": "When Undaunted (Torso) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.449.17>",
+    "answers": [
+      "1963-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2603,
+    "question": "When This is the Enemy started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.84.25>",
+    "answers": [
+      "1942-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2604,
+    "question": "When The Church of Daphni, Greece started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.204>",
+    "answers": [
+      "1880-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2605,
+    "question": "When Sir Guy Carelton started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1950.4.20>",
+    "answers": [
+      "1770-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2606,
+    "question": "When Bottle Form started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.8.7>",
+    "answers": [
+      "1988-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2607,
+    "question": "When Sphinx, Thames, London started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.458>",
+    "answers": [
+      "1863-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2608,
+    "question": "When Alexandra Beller, New York started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.2.2>",
+    "answers": [
+      "1999-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2609,
+    "question": "When St. Germain des Pres started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.19.8>",
+    "answers": [
+      "1909-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2610,
+    "question": "When Santa Maria della Salute started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.11>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2611,
+    "question": "When Workers-Slotters Machine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.362>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2612,
+    "question": "When Bear and Fish started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.42.11>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2613,
+    "question": "When Vertical Roll started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.19>",
+    "answers": [
+      "1972-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2614,
+    "question": "When Texas State Championship Game started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.1674>",
+    "answers": [
+      "1978-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2615,
+    "question": "When ISOLATION, Mingering Mike started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.65R-V>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2616,
+    "question": "When Sun Ra started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.55>",
+    "answers": [
+      "1968-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2617,
+    "question": "When Fulton Fish Market started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.43.27>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2618,
+    "question": "When Origin in Colors started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.47.53>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2619,
+    "question": "When Anne Hume Shippen started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.87.1>",
+    "answers": [
+      "1796-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2620,
+    "question": "When Grackle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.2.20>",
+    "answers": [
+      "2004-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2621,
+    "question": "When Filly and Colt started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.43>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2622,
+    "question": "When The Pack started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.69>",
+    "answers": [
+      "1947-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2623,
+    "question": "When Turkey started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.77.6>",
+    "answers": [
+      "1962-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2624,
+    "question": "When Cubist Still Life started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.124.5>",
+    "answers": [
+      "1918-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2625,
+    "question": "When Stable at Cuenca started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.1>",
+    "answers": [
+      "1903-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2626,
+    "question": "When Safad, in Galilee started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.91.3>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2627,
+    "question": "When Cadet Chapel, West Point started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.123.1>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2628,
+    "question": "When Harold and His Mother started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.64>",
+    "answers": [
+      "1910-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2629,
+    "question": "When Drake Mallard started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.167.1>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2630,
+    "question": "When Rocky Mesa started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.133.15>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2631,
+    "question": "When Andrew John started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.403%2C430>",
+    "answers": [
+      "1880-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2632,
+    "question": "When Christmas Greens started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.84.2>",
+    "answers": [
+      "1887-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2633,
+    "question": "When Pop's Tavern started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.7.2>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2634,
+    "question": "When Dox Trash started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.291>",
+    "answers": [
+      "1911-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2635,
+    "question": "When Masochist (from Aberrations) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.115.7>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2636,
+    "question": "When In the Barber Shop started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.79>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2637,
+    "question": "When Leda and the Necrophilic Swan started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.16.6>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2638,
+    "question": "When Side Door started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.12>",
+    "answers": [
+      "1984-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2639,
+    "question": "When No Heart (Nan-che-ning-ga) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.258%2C362>",
+    "answers": [
+      "1837-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2640,
+    "question": "When Into the Magic started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.57>",
+    "answers": [
+      "2007-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2641,
+    "question": "When Terminal Figure of Ceres started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.69.9>",
+    "answers": [
+      "1911-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2642,
+    "question": "When Carolina started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.6.12>",
+    "answers": [
+      "1971-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2643,
+    "question": "When Study for Gargoyle in Flames started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.153.19>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2644,
+    "question": "When Renwick Gate started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.11A-D>",
+    "answers": [
+      "2011-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2645,
+    "question": "When Man, Woman, Dog and Stag started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.47>",
+    "answers": [
+      "1846-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2646,
+    "question": "When Vermont Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.4.4>",
+    "answers": [
+      "1880-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2647,
+    "question": "When Trees Against the Night Sky started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.38.15>",
+    "answers": [
+      "1993-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2648,
+    "question": "When Man Sketching started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.678>",
+    "answers": [
+      "1875-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2649,
+    "question": "When Victorian Ruins started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.64>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2650,
+    "question": "When Still Life with Flowers started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.174>",
+    "answers": [
+      "1881-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2651,
+    "question": "When Scarecrow started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.31>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2652,
+    "question": "When Moss Pink (Phlox subulate) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.256>",
+    "answers": [
+      "1919-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2653,
+    "question": "When Frisky Day started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.90>",
+    "answers": [
+      "1939-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2654,
+    "question": "When Hopi Woman Making Pottery started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.383%2C332>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2655,
+    "question": "When Anna Washington Derry started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.91.1>",
+    "answers": [
+      "1927-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2656,
+    "question": "When Vagabonds started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.186>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2657,
+    "question": "When Going to School started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.31.19>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2658,
+    "question": "When Le Piano started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.18.8>",
+    "answers": [
+      "1910-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2659,
+    "question": "When Legs of the Sea started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.73>",
+    "answers": [
+      "1921-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2660,
+    "question": "When A Study of Trees started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.113.3>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2661,
+    "question": "When Gesture started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.24>",
+    "answers": [
+      "1976-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2662,
+    "question": "When Upper Level, Aquarium started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.135>",
+    "answers": [
+      "1899-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2663,
+    "question": "When Zoot Suit started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.51.1>",
+    "answers": [
+      "2002-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2664,
+    "question": "When The Brothers started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.146.19>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2665,
+    "question": "When Moske i Kairouan, Afrika started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.12>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2666,
+    "question": "When The Station started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.58>",
+    "answers": [
+      "1928-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2667,
+    "question": "When Ak Sar Ben started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.18.58>",
+    "answers": [
+      "1965-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2668,
+    "question": "When Sacrifice of Isaac started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.291.6>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2669,
+    "question": "When Canada, U.S.A., Mexico started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.65>",
+    "answers": [
+      "1980-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2670,
+    "question": "When Model for Hodgkins Medal started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.20>",
+    "answers": [
+      "1893-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2671,
+    "question": "When Bandits Cave started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.209>",
+    "answers": [
+      "1920-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2672,
+    "question": "When Expanding Universe started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.449.4>",
+    "answers": [
+      "1963-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2673,
+    "question": "When Rosenwald Museum, Chicago started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.454>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2674,
+    "question": "When Wyoming started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.71>",
+    "answers": [
+      "1947-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2675,
+    "question": "When Charles White started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.620>",
+    "answers": [
+      "1879-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2676,
+    "question": "When Two Magnolias started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.157>",
+    "answers": [
+      "1997-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2677,
+    "question": "When Church on a Hill started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.54>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2678,
+    "question": "When Jet Age started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.72.9>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2679,
+    "question": "When Ball Play (La Crosse) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.48.69>",
+    "answers": [
+      "1796-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2680,
+    "question": "When Four Female Nudes started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.63.89>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2681,
+    "question": "When Scapa Evening started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.19>",
+    "answers": [
+      "1973-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2682,
+    "question": "When Male Nude on a Stool started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.217>",
+    "answers": [
+      "1939-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2683,
+    "question": "When Captain Noah Rich started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.27.76>",
+    "answers": [
+      "1812-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2684,
+    "question": "When Time Totem started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.89.2>",
+    "answers": [
+      "1993-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2685,
+    "question": "When Nude on a Red Sofa started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.148.1>",
+    "answers": [
+      "1962-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2686,
+    "question": "When Sentinels started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.167>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2687,
+    "question": "When Corner of House--Malta started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.248>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2688,
+    "question": "When Roadmaking started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.222>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2689,
+    "question": "When Dancing Angel started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.27>",
+    "answers": [
+      "1974-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2690,
+    "question": "When Two Cedars started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.7>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2691,
+    "question": "When Margaret Ethel Wall started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.110.33>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2692,
+    "question": "When A Homeless Victim of War started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1915.11.28>",
+    "answers": [
+      "1914-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2693,
+    "question": "When The Good Luck Branch started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.49>",
+    "answers": [
+      "1907-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2694,
+    "question": "When Mr. Laughlin started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.5.11>",
+    "answers": [
+      "1806-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2695,
+    "question": "When From the Sea started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.90.6>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2696,
+    "question": "When The End of the Continent started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.703>",
+    "answers": [
+      "1971-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2697,
+    "question": "When Left Bank Barbershop, Paris started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.21>",
+    "answers": [
+      "1949-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2698,
+    "question": "When Rajasthan started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.262>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2699,
+    "question": "When Artists on WPA started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.61>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2700,
+    "question": "When Vaatedal, Jolster, Norway started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.892>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2701,
+    "question": "When Joan Miro started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.55.10>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2702,
+    "question": "When Rosebud started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.769>",
+    "answers": [
+      "1872-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2703,
+    "question": "When Mosquito Lamp started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.61>",
+    "answers": [
+      "2012-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2704,
+    "question": "When Within the Window started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.120>",
+    "answers": [
+      "1951-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2705,
+    "question": "When Freda started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.27>",
+    "answers": [
+      "1890-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2706,
+    "question": "When The Caress started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1911.2.1>",
+    "answers": [
+      "1902-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2707,
+    "question": "When Hats Vesuvius started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.50.2>",
+    "answers": [
+      "1973-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2708,
+    "question": "When Planks Pool started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.52>",
+    "answers": [
+      "1980-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2709,
+    "question": "When Cast thy Anchor in Heaven started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.53.2>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2710,
+    "question": "When Gas Mask, Lower East Side started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.14.9>",
+    "answers": [
+      "1956-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2711,
+    "question": "When In the Summer Sea started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.295>",
+    "answers": [
+      "1897-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2712,
+    "question": "When Cordella started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.58.2>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2713,
+    "question": "When Queen Elizabeth started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.4.4>",
+    "answers": [
+      "1800-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2714,
+    "question": "When Can Fire in the Park started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.23>",
+    "answers": [
+      "1946-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2715,
+    "question": "When Billy Goat started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.124.63>",
+    "answers": [
+      "1990-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2716,
+    "question": "When Our Roses started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.43>",
+    "answers": [
+      "1956-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2717,
+    "question": "When Micaceous Pot started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.124.179>",
+    "answers": [
+      "1995-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2718,
+    "question": "When Cross Reference, storyboards started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.6.5A-E>",
+    "answers": [
+      "1976-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2719,
+    "question": "When Boy with Stuffed Rabbit started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.48.11>",
+    "answers": [
+      "1920-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2720,
+    "question": "When Barn at North Fork started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.55.1>",
+    "answers": [
+      "2010-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2721,
+    "question": "When Footprint started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.32>",
+    "answers": [
+      "1961-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2722,
+    "question": "When Salton Sea (Triangle) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.54.2>",
+    "answers": [
+      "1985-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2723,
+    "question": "When Santa Elena Canyon, Big Bend started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.12.7>",
+    "answers": [
+      "1994-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2724,
+    "question": "When Black Dice started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.31.1A-I>",
+    "answers": [
+      "1982-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2725,
+    "question": "When Mules started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.93>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2726,
+    "question": "When Study for Conflict started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.384>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2727,
+    "question": "When Stories from the Bible started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.53A-NN>",
+    "answers": [
+      "1984-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2728,
+    "question": "When Numerals started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.18.18>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2729,
+    "question": "When Elysian Fields started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.36.8>",
+    "answers": [
+      "1973-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2730,
+    "question": "When Louise Hellstrom started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.70>",
+    "answers": [
+      "1927-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2731,
+    "question": "When Ceramic Bowl started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.69>",
+    "answers": [
+      "1999-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2732,
+    "question": "When Sun and Desolation started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.11>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2733,
+    "question": "When Fremont Street, Las Vegas started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.1607>",
+    "answers": [
+      "1973-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2734,
+    "question": "When Checkers (ECW) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.57>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2735,
+    "question": "When Atheneum Clapboard started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.50>",
+    "answers": [
+      "1980-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2736,
+    "question": "When Tepidarium started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.7.15>",
+    "answers": [
+      "1990-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2737,
+    "question": "When Remains of Lock, Millville started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.80.6>",
+    "answers": [
+      "2000-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2738,
+    "question": "When Farm Interior started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.116>",
+    "answers": [
+      "1924-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2739,
+    "question": "When In Winter, Kiowa started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.161>",
+    "answers": [
+      "1898-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2740,
+    "question": "When Rehearsal, Yiddish Theatre started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.110.9>",
+    "answers": [
+      "1943-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2741,
+    "question": "When Interior with Three Pears started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.56>",
+    "answers": [
+      "1983-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2742,
+    "question": "When The Waiting Room started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.47.43>",
+    "answers": [
+      "1959-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2743,
+    "question": "When Animal Music for the Spheres started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.67>",
+    "answers": [
+      "1996-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2744,
+    "question": "When Pisa from North started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.124>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2745,
+    "question": "When Desert Pass started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.32>",
+    "answers": [
+      "1976-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2746,
+    "question": "When Female Nude before Mirror started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.63.189>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2747,
+    "question": "When Amsterdam Avenue, New York started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.13>",
+    "answers": [
+      "1946-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2748,
+    "question": "When Nude and Iris started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.16>",
+    "answers": [
+      "1919-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2749,
+    "question": "When Prisoner's Plea started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.38>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2750,
+    "question": "When Pete Exline, Spokane started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.97.3>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2751,
+    "question": "When Viola palustris started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.65>",
+    "answers": [
+      "1917-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2752,
+    "question": "When A Quiet Canal started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.386>",
+    "answers": [
+      "1905-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2753,
+    "question": "When Arenaria formosa started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.205>",
+    "answers": [
+      "1904-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2754,
+    "question": "When Public Building started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.98.44>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2755,
+    "question": "When Pink Folded Paper started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.44>",
+    "answers": [
+      "1947-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2756,
+    "question": "When A Shoshonee Indian Smoking started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.25.1>",
+    "answers": [
+      "1860-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2757,
+    "question": "When Russian Hill started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.112>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2758,
+    "question": "When Paper Bag Making Machine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.13>",
+    "answers": [
+      "1881-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2759,
+    "question": "When Melancholia started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.52>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2760,
+    "question": "When Landscape and Figures started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.77>",
+    "answers": [
+      "1960-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2761,
+    "question": "When Rocking Pot started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.79>",
+    "answers": [
+      "1956-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2762,
+    "question": "When Black Lotus started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.16>",
+    "answers": [
+      "1996-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2763,
+    "question": "When Smoke Rings started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.48.21>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2764,
+    "question": "When Bird with Red Snake started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.144.38>",
+    "answers": [
+      "1920-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2765,
+    "question": "When Sketch of Tasha Tudor started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.89.3>",
+    "answers": [
+      "1892-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2766,
+    "question": "When Sister Ella started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.97.2>",
+    "answers": [
+      "1865-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2767,
+    "question": "When The Cathedral Door started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.21.9>",
+    "answers": [
+      "1910-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2768,
+    "question": "When Black and Grey Toaster started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.36>",
+    "answers": [
+      "2011-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2769,
+    "question": "When Decorative Top started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.9>",
+    "answers": [
+      "1999-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2770,
+    "question": "When Armored Crab started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.33>",
+    "answers": [
+      "1998-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2771,
+    "question": "When Wharf Scene, Gloucester started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1922.9.1>",
+    "answers": [
+      "1868-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2772,
+    "question": "When Dulce started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.31A-I>",
+    "answers": [
+      "2011-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2773,
+    "question": "When Great White Heron started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.20.5>",
+    "answers": [
+      "1860-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2774,
+    "question": "When A Tree Study started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1930.12.55>",
+    "answers": [
+      "1879-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2775,
+    "question": "When Freeway started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.113>",
+    "answers": [
+      "1964-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2776,
+    "question": "When Shaving My Head started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.57>",
+    "answers": [
+      "1994-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2777,
+    "question": "When O'Hara Reading started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.76>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2778,
+    "question": "When Orange Grove Avenue, Pasadena started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.65>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2779,
+    "question": "When Wedding Cake Basket started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.30.1A-E>",
+    "answers": [
+      "1986-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2780,
+    "question": "When Woman on a Porch started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.185>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2781,
+    "question": "When In the Park started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.78.1>",
+    "answers": [
+      "1931-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2782,
+    "question": "When The Strange One, Times Square started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.14.13>",
+    "answers": [
+      "1956-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2783,
+    "question": "When Betsy Goodridge started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.9.3>",
+    "answers": [
+      "1840-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2784,
+    "question": "When Washing Machine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.17>",
+    "answers": [
+      "1866-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2785,
+    "question": "When Trieste started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.57>",
+    "answers": [
+      "1814-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2786,
+    "question": "When Ostend started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1915.11.16>",
+    "answers": [
+      "1896-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2787,
+    "question": "When Americana started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.1>",
+    "answers": [
+      "1964-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2788,
+    "question": "When One-star started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.362%2C116>",
+    "answers": [
+      "1903-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2789,
+    "question": "When Indian Boy and Pony started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.144.12>",
+    "answers": [
+      "1917-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2790,
+    "question": "When Early Spring in Bidwell Park started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.21.7>",
+    "answers": [
+      "1914-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2791,
+    "question": "When Domed Building with Flags started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.421>",
+    "answers": [
+      "1945-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2792,
+    "question": "When Cathedral of the Redwoods started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.9.42>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2793,
+    "question": "When Hats On started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.122.3A-B>",
+    "answers": [
+      "1988-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2794,
+    "question": "When Boudoir, Chateau de Chaalis started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.284>",
+    "answers": [
+      "1914-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2795,
+    "question": "When Ebenezer Martin started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1949.2.1>",
+    "answers": [
+      "1838-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2796,
+    "question": "When Snow Clearance started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.59.6>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2797,
+    "question": "When Rejects from the Bat Factory started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.56A-F>",
+    "answers": [
+      "1996-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2798,
+    "question": "When Pont des Arts started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.81>",
+    "answers": [
+      "1908-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2799,
+    "question": "When Winter Skating in New Jersey started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.21>",
+    "answers": [
+      "1847-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2800,
+    "question": "When Karnak started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.74D>",
+    "answers": [
+      "1852-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2801,
+    "question": "When Love (study for) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.66>",
+    "answers": [
+      "1957-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2802,
+    "question": "When The Craftsman Series: Shovels started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.77A-C>",
+    "answers": [
+      "2011-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2803,
+    "question": "When Old Woman Seated started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.1>",
+    "answers": [
+      "1870-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2804,
+    "question": "When One-punch Knockout started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.194.3>",
+    "answers": [
+      "1948-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2805,
+    "question": "When Slate Quarry started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.15.16>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2806,
+    "question": "When Great Hero, a chief started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.386%2C321>",
+    "answers": [
+      "1845-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2807,
+    "question": "When The Sun in Sung Time started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.155.97>",
+    "answers": [
+      "1903-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2808,
+    "question": "When Malibu Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.87.14>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2809,
+    "question": "When Circus Performer started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.31>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2810,
+    "question": "When Victory Wreath started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.185.1>",
+    "answers": [
+      "-400-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2811,
+    "question": "When Greetings started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.15>",
+    "answers": [
+      "1905-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2812,
+    "question": "When Samurai started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.37.2>",
+    "answers": [
+      "1990-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2813,
+    "question": "When Head of the Artist started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.37>",
+    "answers": [
+      "1857-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2814,
+    "question": "When Cronus started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.70>",
+    "answers": [
+      "1974-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2815,
+    "question": "When Baby in Pink with an Iron started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.27.86>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2816,
+    "question": "When Landline Grey started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.52.2>",
+    "answers": [
+      "2014-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2817,
+    "question": "When Study for Relief started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.642>",
+    "answers": [
+      "1889-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2818,
+    "question": "When Still Life with Fan and Roses started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.149>",
+    "answers": [
+      "1874-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2819,
+    "question": "When Little Town by Moonlight started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.105.71>",
+    "answers": [
+      "1920-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2820,
+    "question": "When Faith started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.22>",
+    "answers": [
+      "1867-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2821,
+    "question": "When Blacksmith Shop Interior started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.21.4>",
+    "answers": [
+      "1884-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2822,
+    "question": "When Ponte started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.31>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2823,
+    "question": "When Portrait of Nathaniel Searle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.125>",
+    "answers": [
+      "1815-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2824,
+    "question": "When Studio Bed started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.105>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2825,
+    "question": "When John Quincy Adams Ward started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1938.10.1>",
+    "answers": [
+      "1901-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2826,
+    "question": "When Women Gathering Yucca Plants started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.64.9>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2827,
+    "question": "When Lucy Findley started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.385%2C663>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2828,
+    "question": "When Portrait of Waldo Pierce started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.804>",
+    "answers": [
+      "1941-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2829,
+    "question": "When Return of the Fleet started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.225>",
+    "answers": [
+      "1918-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2830,
+    "question": "When Women Bathing started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.71.3>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2831,
+    "question": "When Left Bank Arch started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.22>",
+    "answers": [
+      "1948-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2832,
+    "question": "When From the Palatine, Rome started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.145>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2833,
+    "question": "When Classical Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.185>",
+    "answers": [
+      "1822-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2834,
+    "question": "When From the Pompidou started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.16.46>",
+    "answers": [
+      "1981-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2835,
+    "question": "When Papago Indians started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.39>",
+    "answers": [
+      "1902-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2836,
+    "question": "When Winter in Jackson Park started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.243>",
+    "answers": [
+      "1883-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2837,
+    "question": "When Lilac started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.26.9>",
+    "answers": [
+      "1980-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2838,
+    "question": "When Off York Island, Maine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.327>",
+    "answers": [
+      "1922-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2839,
+    "question": "When John Swanwick started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.16.2>",
+    "answers": [
+      "1795-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2840,
+    "question": "When Aerodynamics started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.39.5>",
+    "answers": [
+      "1947-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2841,
+    "question": "When Children's Tapes started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.13>",
+    "answers": [
+      "1974-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2842,
+    "question": "When A Song started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.56>",
+    "answers": [
+      "1895-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2843,
+    "question": "When Weighing In started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.193>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2844,
+    "question": "When Chief Don Talayesva started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.13.2>",
+    "answers": [
+      "1941-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2845,
+    "question": "When Nude: Study of a Young Girl started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.46>",
+    "answers": [
+      "1859-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2846,
+    "question": "When The Sculptor started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.96>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2847,
+    "question": "When Cold Day on Cherry Street started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.19.9>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2848,
+    "question": "When Tower at Enkhuisen, Holland started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.27>",
+    "answers": [
+      "1897-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2849,
+    "question": "When Decoration Medal started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.93>",
+    "answers": [
+      "1885-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2850,
+    "question": "When Ponte Megio, Venice started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.127>",
+    "answers": [
+      "1931-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2851,
+    "question": "When Tremont House (Chicago) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.48.48>",
+    "answers": [
+      "1800-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2852,
+    "question": "When Utah, Utah Lake started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.70>",
+    "answers": [
+      "1898-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2853,
+    "question": "When Gunpowder Box started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.557>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2854,
+    "question": "When Passion Flower started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.115.1>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2855,
+    "question": "When Peggy started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.87>",
+    "answers": [
+      "1910-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2856,
+    "question": "When Pink Begonias started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.37>",
+    "answers": [
+      "1928-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2857,
+    "question": "When Going Home started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.69.5>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2858,
+    "question": "When Inside Out started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.99>",
+    "answers": [
+      "1966-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2859,
+    "question": "When Aymara Girl started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.164%2C658>",
+    "answers": [
+      "1890-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2860,
+    "question": "When The Valley started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.103>",
+    "answers": [
+      "1928-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2861,
+    "question": "When Head of Osage Indian started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1895.10.7>",
+    "answers": [
+      "1871-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2862,
+    "question": "When Hunger under a Bridge started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.97>",
+    "answers": [
+      "1912-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2863,
+    "question": "When Southern Farmland started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.21.41>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2864,
+    "question": "When Ninth Ave. Church started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.46>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2865,
+    "question": "When Seated Woman, Profile started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.10>",
+    "answers": [
+      "1960-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2866,
+    "question": "When The Runaways started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.103.8>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2867,
+    "question": "When Belt with Jade Carving started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.47.19>",
+    "answers": [
+      "1922-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2868,
+    "question": "When Rock Garden I started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.116.14>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2869,
+    "question": "When Sixth Stone I started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.73>",
+    "answers": [
+      "1964-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2870,
+    "question": "When Rodeo started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.99.65>",
+    "answers": [
+      "1940-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2871,
+    "question": "When Dawn Boy started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.78>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2872,
+    "question": "When Beach in Normandy started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.3>",
+    "answers": [
+      "1923-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2873,
+    "question": "When Cagnes started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.706>",
+    "answers": [
+      "1928-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2874,
+    "question": "When Jardin du Luxembourg started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.7>",
+    "answers": [
+      "1948-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2875,
+    "question": "When Boxed Totem started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.315A-B>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2876,
+    "question": "When Captain John Grant started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.31>",
+    "answers": [
+      "1844-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2877,
+    "question": "When Cotopaxi started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.12>",
+    "answers": [
+      "1855-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2878,
+    "question": "When Girl with Bird started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.49>",
+    "answers": [
+      "1969-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2879,
+    "question": "When Light Green started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.52>",
+    "answers": [
+      "1957-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2880,
+    "question": "When West Neck Beach (Two Figures) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.16.44>",
+    "answers": [
+      "1985-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2881,
+    "question": "When Twilight after the Rain started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1913.3.3>",
+    "answers": [
+      "1906-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2882,
+    "question": "When The Gilded Age started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.13.5>",
+    "answers": [
+      "1992-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2883,
+    "question": "When A. Laurason started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.5.4>",
+    "answers": [
+      "1805-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2884,
+    "question": "When Door, Arles, France started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.63>",
+    "answers": [
+      "1972-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2885,
+    "question": "When Marcel Griaule started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.73.4>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2886,
+    "question": "When Hookah started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.289>",
+    "answers": [
+      "1700-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2887,
+    "question": "When Self-Portrait with Hat started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.99.2>",
+    "answers": [
+      "1928-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2888,
+    "question": "When Sawyers started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.187>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2889,
+    "question": "When Profile and Hat started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.159.1>",
+    "answers": [
+      "1942-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2890,
+    "question": "When Zurich started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.66>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2891,
+    "question": "When Radio Broadcast started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.66>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2892,
+    "question": "When Veterans started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.12>",
+    "answers": [
+      "1916-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2893,
+    "question": "When Man Astraddle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.7.1>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2894,
+    "question": "When Country Pool started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.90.6>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2895,
+    "question": "When A Southerly Wind started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.122.72>",
+    "answers": [
+      "1880-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2896,
+    "question": "When Group of Deer started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.14.2>",
+    "answers": [
+      "1941-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2897,
+    "question": "When Floating Back Rocker started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2000.54>",
+    "answers": [
+      "2000-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2898,
+    "question": "When At the Foot of Mount Teton started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.32>",
+    "answers": [
+      "1957-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2899,
+    "question": "When Round the Mulberry Bush started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.329>",
+    "answers": [
+      "1895-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2900,
+    "question": "When Standing Artist started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.17>",
+    "answers": [
+      "1845-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2901,
+    "question": "When Bearded Kneeling Male Nude started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.190>",
+    "answers": [
+      "1939-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2902,
+    "question": "When The Lorelei started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.8>",
+    "answers": [
+      "1891-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2903,
+    "question": "When Mountain Lake started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.911>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2904,
+    "question": "When Teawood Stand started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1918.5.39>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2905,
+    "question": "When Fisherman's Lunch started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.287>",
+    "answers": [
+      "1940-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2906,
+    "question": "When Smithsonian Castle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.168>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2907,
+    "question": "When Flower Man started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.67.1>",
+    "answers": [
+      "1969-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2908,
+    "question": "When Blue Glow started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.45.1>",
+    "answers": [
+      "1964-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2909,
+    "question": "When Brittany Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.68>",
+    "answers": [
+      "1877-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2910,
+    "question": "When Paul N. Radulich started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.51.95>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2911,
+    "question": "When Circus Workers started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.111.1>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2912,
+    "question": "When Portrait of Isabel Bishop started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.60>",
+    "answers": [
+      "1924-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2913,
+    "question": "When Romance Sentimentale started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.132.3>",
+    "answers": [
+      "1940-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2914,
+    "question": "When Boat Builders started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.126>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2915,
+    "question": "When Family and Friends started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.4>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2916,
+    "question": "When Woman in Striped Dress started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.128.11>",
+    "answers": [
+      "1949-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2917,
+    "question": "When Heieracium gracile started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.139>",
+    "answers": [
+      "1903-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2918,
+    "question": "When The Wye near Ross started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.275>",
+    "answers": [
+      "1899-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2919,
+    "question": "When Nuptial Festival started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.10>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2920,
+    "question": "When Standing and Reclining Nymphs started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.21>",
+    "answers": [
+      "1908-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2921,
+    "question": "When Gathering of black men started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.120.26>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2922,
+    "question": "When Portal Gates started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.117.1A-B>",
+    "answers": [
+      "1974-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2923,
+    "question": "When The Erlking started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.25.14>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2924,
+    "question": "When Brook Trout Decoy started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.43>",
+    "answers": [
+      "1875-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2925,
+    "question": "When Erased Lynchings started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.12.2A-O>",
+    "answers": [
+      "2006-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2926,
+    "question": "When Afterglow started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.58>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2927,
+    "question": "When Laura Shelling Butter Beans started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.58.7>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2928,
+    "question": "When Royal Oak started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.4.14>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2929,
+    "question": "When Nest of Fifteen started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.18A-O>",
+    "answers": [
+      "2007-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2930,
+    "question": "When Post Setter started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.74.10>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2931,
+    "question": "When Fortitude started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.17>",
+    "answers": [
+      "1955-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2932,
+    "question": "When Ointment Jar started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.157.41>",
+    "answers": [
+      "-600-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2933,
+    "question": "When Ban the A-Bomb started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.16.30>",
+    "answers": [
+      "1951-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2934,
+    "question": "When Sculpture of a Bather started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.124.10>",
+    "answers": [
+      "1916-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2935,
+    "question": "When Small Girl started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.77>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2936,
+    "question": "When Small Town, Main Street started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.375>",
+    "answers": [
+      "1896-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2937,
+    "question": "When Foggy Morning, Brittany started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.66.64>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2938,
+    "question": "When Wheat Bottle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.35>",
+    "answers": [
+      "2006-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2939,
+    "question": "When Concept started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.132.3>",
+    "answers": [
+      "1951-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2940,
+    "question": "When Martigues started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.901>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2941,
+    "question": "When The Isabelle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.128.2>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2942,
+    "question": "When Crystal City started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.48.1>",
+    "answers": [
+      "2009-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2943,
+    "question": "When Rain in the Mountains started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.168>",
+    "answers": [
+      "1921-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2944,
+    "question": "When Devil Face Jug started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.5>",
+    "answers": [
+      "2008-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2945,
+    "question": "When Wall of Light Blue started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.79.78>",
+    "answers": [
+      "2000-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2946,
+    "question": "When Encompassed in Purple started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.26.12>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2947,
+    "question": "When Sketch of Reclining Cats started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.16.4>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2948,
+    "question": "When Windmill, Zwyndrecht started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.136.6>",
+    "answers": [
+      "1878-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2949,
+    "question": "When Lake Providence Grocery started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.120.55>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2950,
+    "question": "When Cour du Dragon, Paris started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.400>",
+    "answers": [
+      "1869-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2951,
+    "question": "When Carnegie Corporation Ashtray started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.59>",
+    "answers": [
+      "1927-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2952,
+    "question": "When Eglise Saint Joseph started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.4>",
+    "answers": [
+      "1954-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2953,
+    "question": "When Jesus Christ Our Savior started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.84.11>",
+    "answers": [
+      "1981-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2954,
+    "question": "When Railroad Sleeping started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.2>",
+    "answers": [
+      "1925-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2955,
+    "question": "When Paul's Housevan started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.689>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2956,
+    "question": "When Landscape with Houses started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.18.1>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2957,
+    "question": "When Lady with Blue Hair Ribbon started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1955.5.2>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2958,
+    "question": "When Sunday Dieterman started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.17.6>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2959,
+    "question": "When Spirit of Christmas started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.88>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2960,
+    "question": "When Pig Market, Mexico started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.212>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2961,
+    "question": "When Elizabeth Tuckerman Salisbury started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.298>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2962,
+    "question": "When Game Fish started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.61>",
+    "answers": [
+      "1988-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2963,
+    "question": "When Niagara in Summer, from Below started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.4>",
+    "answers": [
+      "1888-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2964,
+    "question": "When Cupric Movement started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.23>",
+    "answers": [
+      "1961-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2965,
+    "question": "When James Viscount Bryce started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1914.7.2>",
+    "answers": [
+      "1913-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2966,
+    "question": "When Kate Deering Ridgely started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1954.13.3>",
+    "answers": [
+      "1901-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2967,
+    "question": "When Red Cylinder started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.26.2>",
+    "answers": [
+      "2004-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2968,
+    "question": "When Portrait of a Child started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.9.5>",
+    "answers": [
+      "1800-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2969,
+    "question": "When Diviners started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.87>",
+    "answers": [
+      "1990-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2970,
+    "question": "When Battleship Texas started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.56.4>",
+    "answers": [
+      "1980-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2971,
+    "question": "When The Edge of the Forest started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.10>",
+    "answers": [
+      "1929-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2972,
+    "question": "When Guignol started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.91>",
+    "answers": [
+      "1960-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2973,
+    "question": "When Standing Orpheus with Pegasus started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.78>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2974,
+    "question": "When Open Construction-A started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.15.13>",
+    "answers": [
+      "1977-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2975,
+    "question": "When Industrial Plant started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.17.2>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2976,
+    "question": "When Banjo Chair started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.73>",
+    "answers": [
+      "1875-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2977,
+    "question": "When Pipe Dance, Assiniboine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.453>",
+    "answers": [
+      "1835-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2978,
+    "question": "When Miniature Chinese Kettle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1918.5.87>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2979,
+    "question": "When Hedges started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.183>",
+    "answers": [
+      "1969-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2980,
+    "question": "When Tenement Fire started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.80.1>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2981,
+    "question": "When The Abandoned House started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.25.16>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2982,
+    "question": "When Hilly Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.56>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2983,
+    "question": "When Death of Clytaemnestra started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.60>",
+    "answers": [
+      "1949-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2984,
+    "question": "When The Joseph Henry Medal started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.39.2>",
+    "answers": [
+      "1987-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2985,
+    "question": "When Orion in December started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.47.53>",
+    "answers": [
+      "1959-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2986,
+    "question": "When Seated Animal Figure started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.264.24>",
+    "answers": [
+      "0618-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2987,
+    "question": "When Land's End started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.48>",
+    "answers": [
+      "1939-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2988,
+    "question": "When Tobacco Cutting Machine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.20>",
+    "answers": [
+      "1878-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2989,
+    "question": "When Basket of Flowers started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.13>",
+    "answers": [
+      "1978-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2990,
+    "question": "When Elihu Root started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.16.1>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2991,
+    "question": "When French Money started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.97>",
+    "answers": [
+      "1965-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2992,
+    "question": "When Decoy Gang War Victim started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.44.1>",
+    "answers": [
+      "1974-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2993,
+    "question": "When Off Shore started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.102>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2994,
+    "question": "When Sitting Nude started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.126>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2995,
+    "question": "When BLACKBALLED started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.98>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2996,
+    "question": "When Accident started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.124.33>",
+    "answers": [
+      "1882-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2997,
+    "question": "When Long Lesson I started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.39>",
+    "answers": [
+      "1978-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2998,
+    "question": "When Parlor Cabinet started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.13>",
+    "answers": [
+      "1866-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 2999,
+    "question": "When Girl Ironing started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.126>",
+    "answers": [
+      "1904-01-01"
+    ],
+    "type": "beginning_D3"
+  },
+  {
+    "id": 3000,
+    "question": "When Peter (A Young English Girl) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.70>",
+    "answers": [
+      "1923-01-01"
+    ],
+    "type": "beginning_D3"
+  }
+]
