@@ -4,6 +4,7 @@ This page contains the evaluation collection for Question Answering over CIDOC-C
 In particular 5,000 questions are provided based on 10 query templates (of different depths), 
 which were produced by using the  Smithsonian American Art Museum (SAAM) KG.
 
+**The evaluation collection (grouped by each depth) is provided through the folder Benchmark.**
 
 <h1> SPARQL Queries for Creating the Templates </h1>
 Below, we provide the different SPARQL queries that we sent to https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum, 
