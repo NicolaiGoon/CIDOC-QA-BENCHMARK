@@ -16,7 +16,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> <br> <br>
 
 <h2>Questions of Depth 1</h2>
 
-**Q1. Which is the art type of the {Art Work}?**
+**Q1. Which is the art type of {Art Work}?**
 
 SELECT ?artwork ?label ?typeLabel WHERE { <br>
 ?artwork rdfs:label ?label . <br>
@@ -42,6 +42,24 @@ SELECT ?artwork ?label ?value WHERE { <br>
 .FILTER(REGEX(STR(?value) , "Gift of" ) || REGEX(STR(?value) , "Bequest of" ))  <br>
 } <br>
 
+<h2>Questions of Depth 2</h2>
+**Q4. Who is the creator of {Art Work}?**
+
+SELECT ?artwork ?label ?value WHERE {  <br>
+?artwork rdfs:label ?label .  <br>
+?artwork cidoc:P108i_was_produced_by ?prod .  <br> 
+?prod cidoc:P14_carried_out_by ?actor .  <br>
+?actor rdfs:label ?value  <br>
+}  <br>
+
+**Q5. Which is the birth place of {Artist}?**
+
+SELECT distinct ?actor ?label ?placeLabel WHERE { <br>
+?actor rdfs:label ?label .  <br>
+?actor cidoc:P92i_was_brought_into_existence_by ?existence .  <br>
+?existence cidoc:P7_took_place_at ?place . <br>
+?place rdfs:label ?placeLabel . <br>
+} <br>
 
 
 <h1>Code for Creating the Evaluation Benchmark</h1>
