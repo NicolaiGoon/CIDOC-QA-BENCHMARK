@@ -122,7 +122,7 @@ SELECT ?artwork ?label ?deathYear WHERE { <br>
 
 
 <h1>B. Code for Creating the Evaluation Benchmark</h1>
-The JAVA code for creating the evaluation benchmark can be found inside the folder  **Code_for_creating_the_benchmark**.
+The JAVA code for creating the evaluation benchmark can be found inside the folder  Code_for_creating_the_benchmark.
 
 
 <h1>C. SPARQL Queries for Creating Subgraphs via GraphDB</h1>
