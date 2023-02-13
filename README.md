@@ -63,14 +63,38 @@ SELECT distinct ?actor ?label ?placeLabel WHERE { <br>
 } <br>
 
 <h2>Question Templates of Depth 3</h2>
+
 **Q6. When the {Art Work} started?** 
 
-SELECT ?artwork ?label ?date WHERE {
-?d rdfs:label ?lab .
-?d **cidoc:P108i_was_produced_by** ?prod . 
-?prod **cidoc:P4_has_time-span** ?tsp . 
-?tsp **cidoc:P82a_begin_of_the_begin** ?date
-} 
+SELECT ?artwork ?label ?date WHERE { <br>
+?artwork rdfs:label ?label . <br>
+?artwork **cidoc:P108i_was_produced_by** ?prod .  <br>
+?prod **cidoc:P4_has_time-span** ?tsp .  <br>
+?tsp **cidoc:P82a_begin_of_the_begin** ?date <br>
+}  <br>
+
+**Q7. When the production of {Art Work} ended?** 
+
+SELECT ?artwork ?label ?endDate WHERE { <br>
+?artwork rdfs:label ?label . <br>
+?artwork **cidoc:P108i_was_produced_by** ?prod .  <br>
+?prod **cidoc:P4_has_time-span** ?tsp .  <br>
+?tsp **cidoc:P82b_end_of_the_end** ?endDate <br>
+}  <br>
+
+**Q8. Which is the nationality of the creator of {Art Work}?** 
+
+SELECT ?artwork ?label ?nationality WHERE { <br>
+?artwork rdfs:label ?label .   <br>
+?artwork **cidoc:P108i_was_produced_by** ?prod .    <br>
+?prod **cidoc:P14_carried_out_by** ?actor .    <br>
+?actor **cidoc:P107i_is_current_or_former_member_of** ?country .    <br>
+?country rdfs:label ?nationality   <br>
+}  <br>
+
+
+
+
 
 
 
