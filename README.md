@@ -6,7 +6,7 @@ which were produced by using the  Smithsonian American Art Museum (SAAM) KG.
 
 **The evaluation collection (grouped by each depth) is provided through the folder Benchmark.**
 
-<h1> SPARQL Queries for Creating the Questions and Answers</h1>
+<h1>A. SPARQL Queries for Creating the Questions and Answers</h1>
 Below, we provide the different SPARQL queries that we sent to https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum, 
 for creating the 5,000 questions. <br>
 
@@ -121,9 +121,9 @@ SELECT ?artwork ?label ?deathYear WHERE { <br>
 
 
 
-<h1>Code for Creating the Evaluation Benchmark</h1>
+<h1>B. Code for Creating the Evaluation Benchmark</h1>
 The JAVA code for creating the evaluation benchmark can be found inside the folder  **Code_for_creating_the_benchmark**.
 
 
-<h1>SPARQL Queries for Creating Subgraphs through Graph DB</h1>
+<h1>C. SPARQL Queries for Creating Subgraphs via GraphDB</h1>
 
