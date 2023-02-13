@@ -92,9 +92,31 @@ SELECT ?artwork ?label ?nationality WHERE { <br>
 ?country rdfs:label ?nationality   <br>
 }  <br>
 
+<h2>Question Templates of Depth 4 </h2>
+
+**Q9. Which is the birth place of the creator of {Art Work}?** 
+
+SELECT ?artwork ?label ?place WHERE { <br>
+?artwork rdfs:label ?label . <br>
+?artwork **cidoc:P108i_was_produced_by** ?prod .  <br>
+?prod **cidoc:P14_carried_out_by** ?actor .  <br>
+?actor **cidoc:P92i_was_brought_into_existence_by** ?existence .  <br>
+?existence **cidoc:P7_took_place_at** ?placeLabel . <br>
+?place rdfs:label ?placeLabel . <br>
+}  <br>
 
 
 
+**Q10. Which year died the creator of {Art Work}?** 
+
+SELECT ?artwork ?label ?deathYear WHERE { <br>
+?artwork rdfs:label ?label . <br>
+?artwork **cidoc:P108i_was_produced_by** ?prod .  <br>
+?prod **cidoc:P14_carried_out_by** ?actor .  <br>
+?actor **cidoc:P93i_was_taken_out_of_existence_by** ?out .    <br>
+?out **cidoc:P4_has_time-span** ?ts .   <br>
+?ts rdfs:label ?deathYear   <br>
+}  <br>
 
 
 
