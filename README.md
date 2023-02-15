@@ -145,6 +145,8 @@ The JAVA code for creating the evaluation benchmark can be found inside the fold
 
 ## C. SPARQL Queries for Creating Subgraphs via GraphDB
 
+`{entity.uri}` stands for the entity URI and `{DEPTH}` stands for the depth
+
 ```sparql
 SELECT DISTINCT (?start as ?s) (?property as ?p) (?end as ?o) (?startLabel as ?sLabel) 
 (?endLabel as ?oLabel) (?startValue as ?sValue) (?endValue as ?oValue) (?index as ?depth) WHERE {
@@ -152,14 +154,14 @@ SELECT DISTINCT (?start as ?s) (?property as ?p) (?end as ?o) (?startLabel as ?s
  SELECT ?start ?property ?end ?index 
     WHERE {
     VALUES (?src) {
-        (<entity.uri>)
+        (<{entity.uri}>)
     }
     SERVICE path:search {
         <urn:path> path:findPath path:allPaths ;
         path:sourceNode ?src ;
         path:destinationNode ?dst ;
         path:minPathLength 1 ;
-        path:maxPathLength {1} ;
+        path:maxPathLength {DEPTH} ;
         path:startNode ?start;
         path:propertyBinding ?property ;
         path:endNode ?end;
