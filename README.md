@@ -5,7 +5,7 @@ In particular 10,000 questions are provided based on 20 query templates (of diff
 which were produced by using the  Smithsonian American Art Museum (SAAM) KG.
 In particular, there are 5,000 single-entity factoid questions, 2,500 comparative and 2,500 confirmation questions.
 
-The evaluation collection (grouped by each depth) is provided through the folder Benchmark.
+The evaluation collection is provided in different folders according to the type of the questions.
 
 ## A. SPARQL Queries for Creating the  Single-Entity Factoid Questions and Answers
 
