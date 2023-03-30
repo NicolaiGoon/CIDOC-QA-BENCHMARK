@@ -1,7 +1,7 @@
 # CIDOC-QA Evaluation Benchmark
 
 This page contains the evaluation collection for Question Answering over CIDOC-CRM.
-In particular 10,000 questions are provided based on 20 query templates (of different radius or depths),
+In particular 10,000 questions are provided based on 20 query templates (of different radius or depth),
 which were produced by using the  Smithsonian American Art Museum (SAAM) KG.
 In particular, there are 5,000 single-entity factoid questions, 2,500 comparative and 2,500 confirmation questions.
 
@@ -146,7 +146,7 @@ The JAVA code for creating the evaluation benchmark can be found inside the fold
 
 ## C. SPARQL Queries for Creating Subgraphs via GraphDB
 
-`{entity.uri}` stands for the entity URI and `{DEPTH}` stands for the depth
+`{entity.uri}` stands for the entity URI and `{DEPTH}` stands for the radius (or depth)
 
 ```sparql
 SELECT DISTINCT (?start as ?s) (?property as ?p) (?end as ?o) (?startLabel as ?sLabel) 
