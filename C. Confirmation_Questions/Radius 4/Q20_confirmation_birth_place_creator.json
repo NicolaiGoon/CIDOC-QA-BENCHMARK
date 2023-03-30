@@ -1,0 +1,4502 @@
+[
+{
+    "id":9501,
+    "question": "Is Brooklyn, New York, United States the birth place of the creator of Admiral Stephen Clegg Rowan?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1910.1.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9502,
+    "question": "Is Bryan, Ohio, United States the birth place of the creator of Rockbound Coast, Cape Ann?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1910.9.14>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9503,
+    "question": "Is Springfield, Pennsylvania, United States the birth place of the creator of Mary Hopkinson?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1926.6.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9504,
+    "question": "Is Haverhill, Massachusetts, United States the birth place of the creator of Temple of Nike Apteros?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1927.5.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9505,
+    "question": "Is Lincolnshire, England the birth place of the creator of Georges Thenault?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1927.8.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9506,
+    "question": "Is Albany, New York, United States the birth place of the creator of Wild Coast, Newport?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.6.72>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9507,
+    "question": "Is Sagetown, Illinois, United States the birth place of the creator of Three Czechs?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.104>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9508,
+    "question": "Is Maryville, Missouri, United States the birth place of the creator of Last Tree?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.33>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9509,
+    "question": "Is Le Sueur, Minnesota, United States the birth place of the creator of The Pantheon, Paris?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.429>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9510,
+    "question": "Is Bristol, England the birth place of the creator of Purbeck Quarry Men?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.503>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9511,
+    "question": "Is Trenton, New Jersey, United States the birth place of the creator of Mending Trawls?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.512>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9512,
+    "question": "Is Vienna, Austria the birth place of the creator of French Grandmother?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.609>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9513,
+    "question": "Is College Point, New York, United States the birth place of the creator of Charles White?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.620>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9514,
+    "question": "Is Merkel, Texas, United States the birth place of the creator of Nigger Quarters?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.682>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9515,
+    "question": "Is London, England the birth place of the creator of The Artist's Children?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1938.10.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9516,
+    "question": "Is Chicago, Illinois, United States the birth place of the creator of Sunny Slopes?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1940.9.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9517,
+    "question": "Is Boston, Massachusetts, United States the birth place of the creator of A Reading?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1948.10.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9518,
+    "question": "Is Milton, Connecticut, United States the birth place of the creator of Robert Broome?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1948.2.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9519,
+    "question": "Is Shelbyville, Tennessee, United States the birth place of the creator of Nancy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.10.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9520,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Mr. Francis Nye?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.83>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9521,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Bertha?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1952.13.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9522,
+    "question": "Is Montevideo, Uruguay the birth place of the creator of Pioneers?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1962.8.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9523,
+    "question": "Is Camillus, New York, United States the birth place of the creator of Williamsburg Post Office?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9524,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Sketch of a Dog Sleeping?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.16.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9525,
+    "question": "Is Cleveland Heights, Ohio, United States the birth place of the creator of Feeder?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.84.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9526,
+    "question": "Is Plainfield, New Jersey, United States the birth place of the creator of Fishmonger, London?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.83.22>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9527,
+    "question": "Is Manlius Square, New York, United States the birth place of the creator of East Gate, Damascus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.365>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9528,
+    "question": "Is Manlius Square, New York, United States the birth place of the creator of Greek Lady, Pera?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.80>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9529,
+    "question": "Is Waterbury, Connecticut, United States the birth place of the creator of Man Astraddle?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.7.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9530,
+    "question": "Is Waterbury, Connecticut, United States the birth place of the creator of Tepidarium?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.7.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9531,
+    "question": "Is Lima, New York, United States the birth place of the creator of The Puppy-cat and the Baby?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.13.36>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9532,
+    "question": "Is Lima, New York, United States the birth place of the creator of An April Evening?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.13.60>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9533,
+    "question": "Is Port Arthur, Texas, United States the birth place of the creator of Earth Day?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.30>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9534,
+    "question": "Is Warsaw, Russia the birth place of the creator of The Fruit Wagon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.4.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9535,
+    "question": "Is Lancaster, Pennsylvania, United States the birth place of the creator of Maricopa Indian, Arizona?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.28>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9536,
+    "question": "Is Lancaster, Pennsylvania, United States the birth place of the creator of Pimos Indians, Arizona?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.29>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9537,
+    "question": "Is Amherst, New Hampshire, United States the birth place of the creator of Yosemite Valley, with Clouds?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.50>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9538,
+    "question": "Is Anson, Texas, United States the birth place of the creator of Cloud Study?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.59>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9539,
+    "question": "Is Schenectady, New York, United States the birth place of the creator of Low Bowl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1995.100.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9540,
+    "question": "Is New York, New York, United States the birth place of the creator of Nude with Dove and Flowers?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9541,
+    "question": "Is Laredo, Texas, United States the birth place of the creator of El Veinte de Mayo?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.47.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9542,
+    "question": "Is Detroit, Michigan, United States the birth place of the creator of Stories from the Bible?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.53A-NN>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9543,
+    "question": "Is Toronto, Ontario, Canada the birth place of the creator of Wonderland?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.88>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9544,
+    "question": "Is San Juan, Puerto Rico the birth place of the creator of La Natividad?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.91.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9545,
+    "question": "Is Fremont, Nebraska, United States the birth place of the creator of Bouncing Golf Ball?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.99.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9546,
+    "question": "Is Fremont, Nebraska, United States the birth place of the creator of Gonzales Forehand Multiflash?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.99.44>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9547,
+    "question": "Is North Adams, Massachusetts, United States the birth place of the creator of Bottle Vase in Gray and White?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.109.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9548,
+    "question": "Is Caltabellotta, Sicily, Italy the birth place of the creator of Joe Louis vs. Arturo Goday?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.118.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9549,
+    "question": "Is Morenci, Arizona, United States the birth place of the creator of Wolves Courting at Full Moon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.124.161>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9550,
+    "question": "Is Cluj, Romania the birth place of the creator of Dejaneon and Nassus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.23.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9551,
+    "question": "Is New York, New York, United States the birth place of the creator of Fenced Yard, Wellsville, Ohio?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.54>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9552,
+    "question": "Is Montclair, New Jersey, United States the birth place of the creator of Gathering of black men?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.120.26>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9553,
+    "question": "Is Montclair, New Jersey, United States the birth place of the creator of Black workers?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.120.58>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9554,
+    "question": "Is Coos Bay, Oregon, United States the birth place of the creator of Baseball Bat?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.24.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9555,
+    "question": "Is New York, New York, United States the birth place of the creator of Livingston, Montana?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.30>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9556,
+    "question": "Is Port Hope, Ontario, Canada the birth place of the creator of Elsie Clough Street?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.47>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9557,
+    "question": "Is Boston, Massachusetts, United States the birth place of the creator of Nesting Bowls?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.20A-C>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9558,
+    "question": "Is San Francisco, California, United States the birth place of the creator of Prairie Patriarch?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.36>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9559,
+    "question": "Is Belmond, Iowa, United States the birth place of the creator of Radish Salad Bowl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.5A-L>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9560,
+    "question": "Is Nyack, New York, United States the birth place of the creator of Soap Bubble Set?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.91>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9561,
+    "question": "Is Cheb, Czechoslovakia the birth place of the creator of Granadias?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.47>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9562,
+    "question": "Is Dublin, Ireland the birth place of the creator of Tetuan?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.79.34>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9563,
+    "question": "Is Dublin, Ireland the birth place of the creator of Backs Fronts Windows?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.79.42>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9564,
+    "question": "Is Dublin, Ireland the birth place of the creator of Cradle?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.79.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9565,
+    "question": "Is Vancouver, British Columbia, Canada the birth place of the creator of Time Totem?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.89.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9566,
+    "question": "Is Stamford, Connecticut, United States the birth place of the creator of Greek Beaker?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.89.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9567,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Lilac?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.26.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9568,
+    "question": "Is San Diego, California, United States the birth place of the creator of Monekana?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9569,
+    "question": "Is Woodbridge, Connecticut, United States the birth place of the creator of Sonar?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.70.6A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9570,
+    "question": "Is Savannah, Georgia, United States the birth place of the creator of Prairie Chicken?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.78>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9571,
+    "question": "Is Los Angeles, California, United States the birth place of the creator of Bottle Form?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.8.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9572,
+    "question": "Is Tucson, Arizona, United States the birth place of the creator of Cosmic Colonies?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.12.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9573,
+    "question": "Is Helena, Montana, United States the birth place of the creator of Silo?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.37.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9574,
+    "question": "Is Dublin, Ireland the birth place of the creator of Wall of Light Red Grey?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.39.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9575,
+    "question": "Is Sebring, Ohio, United States the birth place of the creator of The Hunt (Punch Bowl)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.92.3A>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9576,
+    "question": "Is Cripple Creek, Colorado, United States the birth place of the creator of Dematerialization?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1989.91.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9577,
+    "question": "Is Memphis, Tennessee, United States the birth place of the creator of Tricycle (Memphis)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.87.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9578,
+    "question": "Is Almeria, Spain the birth place of the creator of Girls in Conversation?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.14.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9579,
+    "question": "Is New York, New York, United States the birth place of the creator of In Sleep?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.6.22>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9580,
+    "question": "Is Lewiston, Maine, United States the birth place of the creator of Yliaster (Paracelsus)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.53>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9581,
+    "question": "Is New York, New York, United States the birth place of the creator of Urban Self-Projection?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.77>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9582,
+    "question": "Is Des Moines, Iowa, United States the birth place of the creator of Myrtle Booth and Her Trees?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.44.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9583,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Joan Miro?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1989.55.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9584,
+    "question": "Is Kansas City, Missouri, United States the birth place of the creator of Group Along the Road?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.91>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9585,
+    "question": "Is Arden, North Carolina, United States the birth place of the creator of Devil Jug?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.65.33>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9586,
+    "question": "Is New York, New York, United States the birth place of the creator of Fuli, China?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1987.19.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9587,
+    "question": "Is Baltimore, Maryland, United States the birth place of the creator of A Shoshonee Indian Smoking?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.25.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9588,
+    "question": "Is Germania, Texas, United States the birth place of the creator of Colonel Sanders?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1987.51.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9589,
+    "question": "Is Karlsruhe, Germany the birth place of the creator of Still Life with Pineapple?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.14.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9590,
+    "question": "Is Boston, Massachusetts, United States the birth place of the creator of Mrs. George Watson?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.189>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9591,
+    "question": "Is Ludvinovka, Russia the birth place of the creator of Banana Carrier?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.65.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9592,
+    "question": "Is Canig, Germany the birth place of the creator of Devil's Lake?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.105.63>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9593,
+    "question": "Is Des Moines, Iowa, United States the birth place of the creator of Pleasure and Power?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.29>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9594,
+    "question": "Is New York, New York, United States the birth place of the creator of Tibet?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.39.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9595,
+    "question": "Is Oakland, California, United States the birth place of the creator of Beale Street Blues?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.27>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9596,
+    "question": "Is Normal, Illinois, United States the birth place of the creator of Haystack?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.53>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9597,
+    "question": "Is Hartford, Connecticut, United States the birth place of the creator of Anna Washington Derry?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.91.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9598,
+    "question": "Is Union Hill, New Jersey, United States the birth place of the creator of Pro Patria Medal?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.93.58>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9599,
+    "question": "Is Brooklyn, New York, United States the birth place of the creator of The Unbelievable City?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.124.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9600,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Pioneer Family (model for)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.121>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9601,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Study for Relief?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.642>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9602,
+    "question": "Is Woodstock, Vermont, United States the birth place of the creator of Abbott Lawrence?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9603,
+    "question": "Is Woodstock, Vermont, United States the birth place of the creator of Louisa Powers' Hand?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.128>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9604,
+    "question": "Is Canig, Germany the birth place of the creator of Reclining?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.9.131>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9605,
+    "question": "Is Canig, Germany the birth place of the creator of Large Torso?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.9.133>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9606,
+    "question": "Is Chicago, Illinois, United States the birth place of the creator of Within the Window?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.120>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9607,
+    "question": "Is Chicago, Illinois, United States the birth place of the creator of Street in Joliet?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.133>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9608,
+    "question": "Is Canig, Germany the birth place of the creator of Approaching Night?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.21.100>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9609,
+    "question": "Is Canig, Germany the birth place of the creator of Pan de Asugar, Brasil?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.21.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9610,
+    "question": "Is Canig, Germany the birth place of the creator of Edge of Forest?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.21.61>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9611,
+    "question": "Is New York, United States the birth place of the creator of Sunlight?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.47.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9612,
+    "question": "Is New York, New York, United States the birth place of the creator of Above and Below?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.59>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9613,
+    "question": "Is Canig, Germany the birth place of the creator of Allegro?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.113>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9614,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of The Schooner?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.168>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9615,
+    "question": "Is Brooklyn, New York, United States the birth place of the creator of In the Summer Sea?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.295>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9616,
+    "question": "Is Columbus, Georgia, United States the birth place of the creator of Light Blue Nursery?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.324>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9617,
+    "question": "Is Rutherford, New Jersey, United States the birth place of the creator of Off York Island, Maine?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.327>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9618,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Carpet Pink (Silene acaulis)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.104>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9619,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Rubus articus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.200>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9620,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Arenaria formosa?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.205>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9621,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Yucca (Yucca baileyi)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.734>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9622,
+    "question": "Is Rochester, New York, United States the birth place of the creator of Girl with Bird?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.49>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9623,
+    "question": "Is Kansas City, Missouri, United States the birth place of the creator of Victorian Ruins?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.64>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9624,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Prizefighters?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.65.195>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9625,
+    "question": "Is Cleveland, Ohio, United States the birth place of the creator of Danube, an Old Mill?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.158>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9626,
+    "question": "Is Cairo, Illinois, United States the birth place of the creator of The Poultryman?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.211>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9627,
+    "question": "Is Cairo, Illinois, United States the birth place of the creator of Pig Market, Mexico?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.212>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9628,
+    "question": "Is Cairo, Illinois, United States the birth place of the creator of Cockfight, Santo Domingo?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.216>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9629,
+    "question": "Is Hingham, Massachusetts, United States the birth place of the creator of Boudoir, Chateau de Chaalis?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.284>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9630,
+    "question": "Is Canig, Germany the birth place of the creator of Girl with Long Hair?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.287.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9631,
+    "question": "Is Lawnton, Pennsylvania, United States the birth place of the creator of The Flower?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.356>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9632,
+    "question": "Is Stuttgart, Germany the birth place of the creator of San Rufino, Assisi?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.389>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9633,
+    "question": "Is Aguascalientes, Mexico the birth place of the creator of All Hallow's Eve?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.439.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9634,
+    "question": "Is Ogden, Utah, United States the birth place of the creator of Path?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.114>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9635,
+    "question": "Is Ogden, Utah, United States the birth place of the creator of Bulls?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.122>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9636,
+    "question": "Is Ogden, Utah, United States the birth place of the creator of Horse Study and Rabbits?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.165>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9637,
+    "question": "Is Ogden, Utah, United States the birth place of the creator of Cow?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.167>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9638,
+    "question": "Is North River Mills, West Virginia, United States the birth place of the creator of Prisoner's Plea?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.447.38>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9639,
+    "question": "Is Krivoi Rog, Russia the birth place of the creator of Concetta Scaravaglione?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.448>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9640,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Expanding Universe?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.449.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9641,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Gregorio?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.33>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9642,
+    "question": "Is Detroit, Michigan, United States the birth place of the creator of Pink Folded Paper?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.44>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9643,
+    "question": "Is Providence, Rhode Island, United States the birth place of the creator of Sixth Stone I?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.73>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9644,
+    "question": "Is New York, New York, United States the birth place of the creator of French Money?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.97>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9645,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Inside Out?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.99>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9646,
+    "question": "Is St. Catharines, Ontario, Canada the birth place of the creator of Lafayette Street?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.115.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9647,
+    "question": "Is Basel, Switzerland the birth place of the creator of World Unity or Oblivion?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.167.33>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9648,
+    "question": "Is New York, New York, United States the birth place of the creator of Fly Fishing Medal?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.167.46>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9649,
+    "question": "Is Antwerp, Belgium the birth place of the creator of Charles De Coster?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.167.60>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9650,
+    "question": "Is Louisiana, Missouri, United States the birth place of the creator of Post Setter?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.74.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9651,
+    "question": "Is Louisiana, Missouri, United States the birth place of the creator of The Barkentine?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.74.46>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9652,
+    "question": "Is Louisiana, Missouri, United States the birth place of the creator of Dry Dock Men?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.74.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9653,
+    "question": "Is Wolfeboro, New Hampshire, United States the birth place of the creator of Penobscot Islands?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.103>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9654,
+    "question": "Is Roxbury, Massachusetts, United States the birth place of the creator of Wild Duck Shooting?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.122.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9655,
+    "question": "Is Eckwersheim, Alsace the birth place of the creator of General George Rogers Clark?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.158>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9656,
+    "question": "Is Eckwersheim, Alsace the birth place of the creator of Mrs. James Greenleaf?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.162>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9657,
+    "question": "Is Eckwersheim, Alsace the birth place of the creator of The Bent Tree?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.204>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9658,
+    "question": "Is Eckwersheim, Alsace the birth place of the creator of North-Easter?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.245>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9659,
+    "question": "Is Eckwersheim, Alsace the birth place of the creator of In Church?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.252>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9660,
+    "question": "Is Eckwersheim, Alsace the birth place of the creator of Conde Duque d'Olivarez?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.269>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9661,
+    "question": "Is Bondio, Italy the birth place of the creator of Bartholomeo Bongo?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.294>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9662,
+    "question": "Is Okayama, Japan the birth place of the creator of Cyclist?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.170.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9663,
+    "question": "Is Albany, New York, United States the birth place of the creator of Standing Nude Child?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.183.19>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9664,
+    "question": "Is Decatur, Illinois, United States the birth place of the creator of One-punch Knockout?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.194.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9665,
+    "question": "Is Tullstorp, Sweden the birth place of the creator of Abdsalom?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.10.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9666,
+    "question": "Is Tullstorp, Sweden the birth place of the creator of Broad Street?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.10.23>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9667,
+    "question": "Is Detroit, Michigan, United States the birth place of the creator of Rock Garden I?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.116.14>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9668,
+    "question": "Is Borisoglebsk, Russia the birth place of the creator of Old Fiddler?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.102>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9669,
+    "question": "Is San Francisco, California, United States the birth place of the creator of Fisherman's Lunch?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.287>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9670,
+    "question": "Is Portsmouth, Ohio, United States the birth place of the creator of Henry Clay Making a Speech?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.368>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9671,
+    "question": "Is Syria the birth place of the creator of Shacks?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.380>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9672,
+    "question": "Is Rochester, New York, United States the birth place of the creator of Flood Victims?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.38.90>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9673,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Portal Gates?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.117.1A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9674,
+    "question": "Is Wausau, Wisconsin, United States the birth place of the creator of Martha's Flowers?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.128>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9675,
+    "question": "Is New York, New York, United States the birth place of the creator of Slant: Chip?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9676,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Ninth Ave. Church?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.83.46>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9677,
+    "question": "Is Union Bridge, Maryland, United States the birth place of the creator of Charles Oliver O'Donnell?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.113.21>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9678,
+    "question": "Is Portsmouth, New Hampshire, United States the birth place of the creator of Castle Rock, Marblehead?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.118>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9679,
+    "question": "Is Salt Lake City, Utah, United States the birth place of the creator of Right to the Jaw?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.122.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9680,
+    "question": "Is Smithsburg, Maryland, United States the birth place of the creator of Dancing Male Figure?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.127.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9681,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Pioneer Family (Dressed)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.145.26>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9682,
+    "question": "Is Minsk, Russia the birth place of the creator of Still Life with Dogwood?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.146.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9683,
+    "question": "Is Minsk, Russia the birth place of the creator of Tension?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.146.20>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9684,
+    "question": "Is Guebviller, France the birth place of the creator of Evangeline?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.64>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9685,
+    "question": "Is Canig, Germany the birth place of the creator of Towards the Light?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.74.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9686,
+    "question": "Is Chestnut Hill, Massachusetts, United States the birth place of the creator of From the Sea?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.90.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9687,
+    "question": "Is Maryland, United States the birth place of the creator of Emily Smiley Snowden?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.104>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9688,
+    "question": "Is Elizabethgrad, Russia the birth place of the creator of Come to the Moon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.46>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9689,
+    "question": "Is Tokyo, Japan the birth place of the creator of Foggy Morning, Brittany?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.66.64>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9690,
+    "question": "Is Tokyo, Japan the birth place of the creator of The Top of the World?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.66.67>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9691,
+    "question": "Is Newark, New Jersey, United States the birth place of the creator of Triggered?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.68.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9692,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Architectonic Corner?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.139>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9693,
+    "question": "Is Tahoka, Texas, United States the birth place of the creator of Nude on a Red Sofa?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.148.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9694,
+    "question": "Is Canig, Germany the birth place of the creator of Open Construction-A?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.15.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9695,
+    "question": "Is Pittsburgh, Pennsylvania, United States the birth place of the creator of George Cochran Lambdin?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.162.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9696,
+    "question": "Is West Hingham, Massachusetts, United States the birth place of the creator of Landscape with Houses?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.18.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9697,
+    "question": "Is Nyack, New York, United States the birth place of the creator of The Smile?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.95.25>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9698,
+    "question": "Is San Ildefonso Pueblo, New Mexico, United States the birth place of the creator of Indian Boy and Pony?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.144.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9699,
+    "question": "Is Cheshire, Connecticut, United States the birth place of the creator of Standing Artist?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9700,
+    "question": "Is Scituate, Rhode Island, United States the birth place of the creator of Americana?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9701,
+    "question": "Is Borisoglebsk, Russia the birth place of the creator of Boy and Girl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.220>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9702,
+    "question": "Is New York, New York, United States the birth place of the creator of Haywagon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.23>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9703,
+    "question": "Is Lafayette, Indiana, United States the birth place of the creator of Flowers in a Basket?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.316>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9704,
+    "question": "Is Springfield, Massachusetts, United States the birth place of the creator of Taos Plaza?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.57>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9705,
+    "question": "Is Springfield, Massachusetts, United States the birth place of the creator of Studio Bed?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.122.105>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9706,
+    "question": "Is Springfield, Massachusetts, United States the birth place of the creator of Seabird?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.122.125>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9707,
+    "question": "Is Springfield, Massachusetts, United States the birth place of the creator of Boat Builders?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.122.126>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9708,
+    "question": "Is Springfield, Massachusetts, United States the birth place of the creator of Rosanna?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.122.70>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9709,
+    "question": "Is Wheaton, Illinois, United States the birth place of the creator of The Isabelle?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.128.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9710,
+    "question": "Is Roswell, New Mexico, United States the birth place of the creator of August Memories?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.129A-P>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9711,
+    "question": "Is Berkeley, California, United States the birth place of the creator of Surf-Invasion?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.137.50>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9712,
+    "question": "Is Minneapolis, Minnesota, United States the birth place of the creator of Two Heads: Red?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.137.71>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9713,
+    "question": "Is Ludvinovka, Russia the birth place of the creator of Distant Provincetown?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.43.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9714,
+    "question": "Is Larissa, Greece the birth place of the creator of Maquette for Ripples?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.49.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9715,
+    "question": "Is Salt Lake City, Utah, United States the birth place of the creator of Maquette for Tlingit?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.49.18>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9716,
+    "question": "Is Miami, Florida, United States the birth place of the creator of Summer Horizon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.128.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9717,
+    "question": "Is Columbus, Georgia, United States the birth place of the creator of White Daisies Rhapsody?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.135>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9718,
+    "question": "Is New York, New York, United States the birth place of the creator of Dark Still Life?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.154.35>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9719,
+    "question": "Is Middle Village, New York, United States the birth place of the creator of Guignol?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.154.91>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9720,
+    "question": "Is Newark, New Jersey, United States the birth place of the creator of The Abandoned House?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.25.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9721,
+    "question": "Is Wilkes-Barre, Pennsylvania, United States the birth place of the creator of Blueberry Eyes?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.57>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9722,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of La Vierge?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.88.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9723,
+    "question": "Is New York, New York, United States the birth place of the creator of Francesca Di Rimini?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.46.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9724,
+    "question": "Is Jackson, Tennessee, United States the birth place of the creator of Texas State Championship Game?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.63.1674>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9725,
+    "question": "Is Monroe Falls, Ohio, United States the birth place of the creator of Castle Oberlahnstein, Rhine?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.119>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9726,
+    "question": "Is Monroe Falls, Ohio, United States the birth place of the creator of Pisa from North?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.124>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9727,
+    "question": "Is Monroe Falls, Ohio, United States the birth place of the creator of Estes Park?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.291>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9728,
+    "question": "Is Seattle, Washington, United States the birth place of the creator of The Star Barber Shop?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.107.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9729,
+    "question": "Is San Francisco, California, United States the birth place of the creator of A Study of Trees?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.113.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9730,
+    "question": "Is Buffalo, New York, United States the birth place of the creator of Cubist Analysis?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.117>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9731,
+    "question": "Is Tulsa, Oklahoma, United States the birth place of the creator of Staircase Glacier?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9732,
+    "question": "Is Grand Rapids, Michigan, United States the birth place of the creator of First Gold Box?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.60.6A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9733,
+    "question": "Is Bedford, Indiana, United States the birth place of the creator of Song of the Torturer?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.68.30>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9734,
+    "question": "Is Bedford, Indiana, United States the birth place of the creator of Long Lesson I?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.68.39>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9735,
+    "question": "Is Brooklyn, New York, United States the birth place of the creator of Christmas Greeting Card?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.78>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9736,
+    "question": "Is Indianapolis, Indiana, United States the birth place of the creator of Journeys?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9737,
+    "question": "Is New York, New York, United States the birth place of the creator of Underwood (Yellow B.G.)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.16.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9738,
+    "question": "Is St. Louis, Missouri, United States the birth place of the creator of Rhinebeck, NY?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.21.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9739,
+    "question": "Is St. Louis, Missouri, United States the birth place of the creator of Southern Farmland?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.21.41>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9740,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Singing and Printing I?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.22.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9741,
+    "question": "Is Mesa, Arizona, United States the birth place of the creator of San Francisco West Side Ridge?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.30.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9742,
+    "question": "Is Aberdeen, Washington, United States the birth place of the creator of The American Monument?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.9.1.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9743,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Two Part Blue?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.19.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9744,
+    "question": "Is Canandaigua, New York, United States the birth place of the creator of Over the Harbor, Centerport?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.25>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9745,
+    "question": "Is New York, New York, United States the birth place of the creator of Desert Pass?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.32>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9746,
+    "question": "Is Charlotte, North Carolina, United States the birth place of the creator of Village Square?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9747,
+    "question": "Is Boston, Massachusetts, United States the birth place of the creator of Young Man in Red Sweater?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2006.24.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9748,
+    "question": "Is Boston, Massachusetts, United States the birth place of the creator of Eglise Saint Joseph?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2006.24.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9749,
+    "question": "Is Pepeekeo, Hawaii, United States the birth place of the creator of Canary Yellow?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2006.26.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9750,
+    "question": "Is Pepeekeo, Hawaii, United States the birth place of the creator of Anagama?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2006.26.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9751,
+    "question": "Is Hyde Park, Massachusetts, United States the birth place of the creator of Red Cylinder?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2007.26.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9752,
+    "question": "Is New York, New York, United States the birth place of the creator of Al Dente?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2007.36.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9753,
+    "question": "Is Springfield, Massachusetts, United States the birth place of the creator of The Joseph Henry Medal?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2007.39.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9754,
+    "question": "Is New York, New York, United States the birth place of the creator of Lotus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2007.8.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9755,
+    "question": "Is Oakland, California, United States the birth place of the creator of The Weak Bullet?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2008.21.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9756,
+    "question": "Is North Harvey, Illinois, United States the birth place of the creator of Butcher Jim, Ute?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2008.36.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9757,
+    "question": "Is Park City, Utah, United States the birth place of the creator of Life Mask (Abraham Lincoln)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2009.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9758,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Gas Mask, Lower East Side?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.14.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9759,
+    "question": "Is Dublin, Ireland the birth place of the creator of LYAM 3D?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.23>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9760,
+    "question": "Is New York, New York, United States the birth place of the creator of Vermont Landscape?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.4.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9761,
+    "question": "Is Neosho, Missouri, United States the birth place of the creator of Parrot?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.56.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9762,
+    "question": "Is Lima, New York, United States the birth place of the creator of Washington Crash?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.57>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9763,
+    "question": "Is Boston, Massachusetts, United States the birth place of the creator of Portrait of Mnonja?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.16>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9764,
+    "question": "Is Florence, South Carolina, United States the birth place of the creator of Aries, from the Zodiac Series?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.38.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9765,
+    "question": "Is South Bend, Indiana, United States the birth place of the creator of Innocent Age?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.51.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9766,
+    "question": "Is Dijon, Cote d'Or, France the birth place of the creator of Rain on the Square?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2012.13.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9767,
+    "question": "Is Milford, Massachusetts, United States the birth place of the creator of Collection of Curious Spoons?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2012.17A-F>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9768,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Slither.walk.fly?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9769,
+    "question": "Is Nyack, New York, United States the birth place of the creator of Mandalas?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.37A-F>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9770,
+    "question": "Is St. Louis, Missouri, United States the birth place of the creator of Dresser Drawer?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.54.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9771,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Stepping into Shoes?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.54.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9772,
+    "question": "Is Milan, Illinois, United States the birth place of the creator of Plateau?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.65.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9773,
+    "question": "Is Detroit, Michigan, United States the birth place of the creator of The Clemente Family?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.72.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9774,
+    "question": "Is Englewood, New Jersey, United States the birth place of the creator of THE FREEDOM STOMPERS?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.8.2.1R-V>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9775,
+    "question": "Is Pittsburgh, Pennsylvania, United States the birth place of the creator of Decision: CHANNELS OF A DREAM?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.8.35.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9776,
+    "question": "Is Zanesville, Ohio, United States the birth place of the creator of AUDIO ANDRE TUXEDO STYLED?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.8.50.1R-V>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9777,
+    "question": "Is Canig, Germany the birth place of the creator of Hypnotic: GOOD SWEET WOMAN?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.8.81>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9778,
+    "question": "Is Boston, Massachusetts, United States the birth place of the creator of BLACKBALLED?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.8.98>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9779,
+    "question": "Is Medford, Massachusetts, United States the birth place of the creator of Bouillabaisse, Barcelona?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.80.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9780,
+    "question": "Is Warsaw, Russia the birth place of the creator of Stable at Cuenca?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2014.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9781,
+    "question": "Is Boston, Massachusetts, United States the birth place of the creator of Randy Bias?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2014.17.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9782,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Glove and Shoe, New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2015.2.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9783,
+    "question": "Is Exeter, England the birth place of the creator of Gertrude Fairfield?",
+    "entity":  "<http://data.americanart.si.edu/object/id/XX10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9784,
+    "question": "Is Exeter, England the birth place of the creator of St. Francis?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.121.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9785,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Night Waves?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.125>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9786,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Romance Sentimentale?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.132.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9787,
+    "question": "Is San Francisco, California, United States the birth place of the creator of Prince Albert?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.133>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9788,
+    "question": "Is Baltimore, Maryland, United States the birth place of the creator of Town Creek, Clinton, Missouri?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.20>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9789,
+    "question": "Is Albany, New York, United States the birth place of the creator of Disturbed Tranquility?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.28.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9790,
+    "question": "Is Warsaw, Russia the birth place of the creator of Talpa?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.69.25>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9791,
+    "question": "Is Stockton, California, United States the birth place of the creator of Buck and Master?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.69.42>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9792,
+    "question": "Is New York, New York, United States the birth place of the creator of Basket of Flowers?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.30.13>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9793,
+    "question": "Is Kansas City, Missouri, United States the birth place of the creator of Left Bank Arch?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.38.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9794,
+    "question": "Is Pittsburgh, Pennsylvania, United States the birth place of the creator of At the Battery, New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.38.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9795,
+    "question": "Is Lyons, France the birth place of the creator of Velvet Petals?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.40.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9796,
+    "question": "Is Raleigh, North Carolina, United States the birth place of the creator of At Market?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.50.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9797,
+    "question": "Is Manlius Square, New York, United States the birth place of the creator of Pursuit of Culture?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.50.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9798,
+    "question": "Is Long Beach, California, United States the birth place of the creator of Strong Left Hand?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.209%2C413>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9799,
+    "question": "Is Tokyo, Japan the birth place of the creator of Hopi Weaver?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.383%2C327>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9800,
+    "question": "Is Bristnald's End, England the birth place of the creator of Hopi Woman Making Pottery?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.383%2C332>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9801,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Lucy Findley?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.385%2C663>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9802,
+    "question": "Is Suffield, Connecticut, United States the birth place of the creator of Shee Bushbury?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.385%2C666>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9803,
+    "question": "Is Neosho, Missouri, United States the birth place of the creator of Aanakin?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.387%2C773>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9804,
+    "question": "Is Florence, South Carolina, United States the birth place of the creator of Pipe Dance, Assiniboine?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.453>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9805,
+    "question": "Is New York, New York, United States the birth place of the creator of Smoking the Shield?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.477>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9806,
+    "question": "Is Cadiz, Ohio, United States the birth place of the creator of Hay Ride?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1964.22.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9807,
+    "question": "Is New York, New York, United States the birth place of the creator of Woman of Canaan?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.25.17>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9808,
+    "question": "Is Bar Harbor, Maine, United States the birth place of the creator of Wild Horserider?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.25.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9809,
+    "question": "Is Speicher, Switzerland the birth place of the creator of Blue Glow?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.45.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9810,
+    "question": "Is Bloomington, Indiana, United States the birth place of the creator of The Court of Death?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.26.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9811,
+    "question": "Is Vici, Oklahoma, United States the birth place of the creator of The Sculptor and the Model?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.47.199>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9812,
+    "question": "Is Oyster Bay, New York, United States the birth place of the creator of Hercules Gets Cerberus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.47.273>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9813,
+    "question": "Is Norwich, Connecticut, United States the birth place of the creator of City Hall?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.48.79>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9814,
+    "question": "Is Ogden, Utah, United States the birth place of the creator of Rev. Joseph Pilmore?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.48.84>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9815,
+    "question": "Is Georgetown, District of Columbia, United States the birth place of the creator of Oak Tree?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9816,
+    "question": "Is Seattle, Washington, United States the birth place of the creator of Paul N. Radulich?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.51.95>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9817,
+    "question": "Is Paris, France the birth place of the creator of Six Copper Photo-Plates?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.51A-F>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9818,
+    "question": "Is Canig, Germany the birth place of the creator of Shepherdess?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.6.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9819,
+    "question": "Is Dublin, Ireland the birth place of the creator of Execution?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.60>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9820,
+    "question": "Is Madison, Georgia, United States the birth place of the creator of Town Wharf?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.64.20>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9821,
+    "question": "Is St. Louis, Missouri, United States the birth place of the creator of Filling Station?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.66.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9822,
+    "question": "Is Brooklyn, New York, United States the birth place of the creator of Provincetown Icon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.94>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9823,
+    "question": "Is Paris, France the birth place of the creator of Concept?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.132.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9824,
+    "question": "Is Newark, New Jersey, United States the birth place of the creator of Nach dem Bade?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.14.168>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9825,
+    "question": "Is Ashtabula, Ohio, United States the birth place of the creator of Turks and Arabs?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.14.58>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9826,
+    "question": "Is Terrell, Texas, United States the birth place of the creator of Seconnet Point, Rhode Island?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.142.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9827,
+    "question": "Is Maryville, Missouri, United States the birth place of the creator of Boxcar, Yellow and Black?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.29.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9828,
+    "question": "Is New York, New York, United States the birth place of the creator of Hughy Reaching for Food?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.50.16>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9829,
+    "question": "Is Montclair, New Jersey, United States the birth place of the creator of Monkey on a Stick?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.50.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9830,
+    "question": "Is London, England the birth place of the creator of Light Green?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.52>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9831,
+    "question": "Is Hasbrouck Heights, New Jersey, United States the birth place of the creator of Nubien (Baouab)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.54.71>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9832,
+    "question": "Is Utica, New York, United States the birth place of the creator of Flower to Teacher?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.1024>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9833,
+    "question": "Is New York, New York, United States the birth place of the creator of Early to Bed, Early to Rise?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.1069>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9834,
+    "question": "Is Bartlett, Texas, United States the birth place of the creator of Farewell?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.1070R-V>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9835,
+    "question": "Is Chicago, Illinois, United States the birth place of the creator of Early Morning Work?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.1082>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9836,
+    "question": "Is Newport News, Virginia, United States the birth place of the creator of Man with Plow?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.309>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9837,
+    "question": "Is Urbana, Illinois, United States the birth place of the creator of Cagnes-sur-Mer, A.M., France?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.710>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9838,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Street Crowds, Tunisia?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.862>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9839,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Bruce's House?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.123>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9840,
+    "question": "Is Zanesville, Ohio, United States the birth place of the creator of Girl Ironing?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.126>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9841,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Grandma's Girl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.181>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9842,
+    "question": "Is Dallas, Texas, United States the birth place of the creator of Street Fight?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.213>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9843,
+    "question": "Is Bristnald's End, England the birth place of the creator of Head of Osage Indian?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1895.10.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9844,
+    "question": "Is Denmark the birth place of the creator of American Panther and Cubs?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1895.10.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9845,
+    "question": "Is Montclair, New Jersey, United States the birth place of the creator of The Perfume of Roses?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1909.7.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9846,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Connecticut Woods?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1909.7.54>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9847,
+    "question": "Is Zanesville, Ohio, United States the birth place of the creator of One Day in June?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1909.7.62>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9848,
+    "question": "Is Newburgh, New York, United States the birth place of the creator of The Blockmaker?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1912.2.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9849,
+    "question": "Is Woodstock, Vermont, United States the birth place of the creator of Bell Foundry, Germany?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1913.11.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9850,
+    "question": "Is Birmingham, Alabama, United States the birth place of the creator of Wharf Scene, Gloucester?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1922.9.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9851,
+    "question": "Is London, England the birth place of the creator of Pegasus Departing?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.6.105>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9852,
+    "question": "Is Boston, Massachusetts, United States the birth place of the creator of Dunrobin?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.399>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9853,
+    "question": "Is Kingsburg, California, United States the birth place of the creator of Spider Lake, Wisconsin?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.455>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9854,
+    "question": "Is Rutherford, New Jersey, United States the birth place of the creator of Sphinx, Thames, London?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.458>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9855,
+    "question": "Is Manlius Square, New York, United States the birth place of the creator of Ragpicker's Shop, Florence?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.489>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9856,
+    "question": "Is Mesa, Arizona, United States the birth place of the creator of Iron Men?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.499>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9857,
+    "question": "Is Rome, Italy the birth place of the creator of Sunflower?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.554>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9858,
+    "question": "Is Florence, South Carolina, United States the birth place of the creator of Shearing Sheep?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.564>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9859,
+    "question": "Is Manlius Square, New York, United States the birth place of the creator of Legato?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.72>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9860,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Winter Brook?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1941.6.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9861,
+    "question": "Is Kovno, Lithuania the birth place of the creator of Sulphur Mt., Yellowstone?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1947.13.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9862,
+    "question": "Is Ludvinovka, Russia the birth place of the creator of The Fan?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1947.13.24>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9863,
+    "question": "Is Monterrey, Mexico the birth place of the creator of Along the Riva?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1948.13.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9864,
+    "question": "Is New York, United States the birth place of the creator of The Chatelaine?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.13>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9865,
+    "question": "Is Boston, Massachusetts, United States the birth place of the creator of Dream Woman?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.21>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9866,
+    "question": "Is Hamilton, Alabama, United States the birth place of the creator of Marianne Girard?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.31>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9867,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Laura at Fifteen?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.50>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9868,
+    "question": "Is Toronto, Ontario, Canada the birth place of the creator of Beatrice?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9869,
+    "question": "Is Allegheny City, Pennsylvania, United States the birth place of the creator of Church and Lake?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1952.13.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9870,
+    "question": "Is New York, New York, United States the birth place of the creator of Lady with Blue Hair Ribbon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1955.5.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9871,
+    "question": "Is Buffalo, New York, United States the birth place of the creator of Furbelows?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1956.10.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9872,
+    "question": "Is Plainfield, New Jersey, United States the birth place of the creator of Mordecai Manuel Noah?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1957.11.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9873,
+    "question": "Is Kansas City, Missouri, United States the birth place of the creator of La Parisienne?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1958.11.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9874,
+    "question": "Is New York, New York, United States the birth place of the creator of The Enchanted Pool?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1959.10.21>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9875,
+    "question": "Is Lower Merion, Pennsylvania, United States the birth place of the creator of Cathedral Tower, Siena?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1962.13.59>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9876,
+    "question": "Is New York, New York, United States the birth place of the creator of Study in Auburn?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.17>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9877,
+    "question": "Is Ludvinovka, Russia the birth place of the creator of Betsy Goodridge?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.9.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9878,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of R.M. Copeland?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.9.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9879,
+    "question": "Is Indianapolis, Indiana, United States the birth place of the creator of Portrait of a Child?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.9.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9880,
+    "question": "Is Florence, South Carolina, United States the birth place of the creator of Marcel Griaule?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.73.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9881,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Malibu Landscape?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.87.14>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9882,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Young Moravian Girl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1987.32>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9883,
+    "question": "Is Wilkes-Barre, Pennsylvania, United States the birth place of the creator of High Summer?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.6.42>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9884,
+    "question": "Is Cadiz, Ohio, United States the birth place of the creator of Baton Rouge, Louisiana?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1989.96.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9885,
+    "question": "Is London, Ontario, Canada the birth place of the creator of Mystic Bird?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.25>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9886,
+    "question": "Is Woonsocket, Rhode Island, United States the birth place of the creator of Sophi, an Armenian of Brusa?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.137>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9887,
+    "question": "Is New York, New York, United States the birth place of the creator of First Sight of Alexandria?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.41>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9888,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Trieste?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.57>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9889,
+    "question": "Is Ogden, Utah, United States the birth place of the creator of Turk, Azani?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.78>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9890,
+    "question": "Is Charlotte, North Carolina, United States the birth place of the creator of J.C. Calhoun?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.81>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9891,
+    "question": "Is New York, New York, United States the birth place of the creator of Adoration?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.93.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9892,
+    "question": "Is Tokyo, Japan the birth place of the creator of Kimono Vases: Evening?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.118A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9893,
+    "question": "Is Canton, China the birth place of the creator of Mount Orizaba?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.13.74>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9894,
+    "question": "Is Chicago, Illinois, United States the birth place of the creator of Couple Dancing, New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.15.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9895,
+    "question": "Is Kingston, New York, United States the birth place of the creator of Graduation, New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.15.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9896,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Pickle Eater of the Nile?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.66.16>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9897,
+    "question": "Is Chicago, Illinois, United States the birth place of the creator of Worth Street, Facing West?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.16.27>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9898,
+    "question": "Is Columbus, Ohio, United States the birth place of the creator of From the Pompidou?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.16.46>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9899,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of The White Necklace?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.39.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9900,
+    "question": "Is Montclair, New Jersey, United States the birth place of the creator of Indestructible Object?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.43>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9901,
+    "question": "Is Middletown, Connecticut, United States the birth place of the creator of Monkey and Lizard?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.54.16>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9902,
+    "question": "Is Indianapolis, Indiana, United States the birth place of the creator of Quadra?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.60>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9903,
+    "question": "Is New York, New York, United States the birth place of the creator of Debussy Suite in C?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.68.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9904,
+    "question": "Is Santa Rosa, California, United States the birth place of the creator of Jet Age?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.72.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9905,
+    "question": "Is Canig, Germany the birth place of the creator of Family Doctor?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.115.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9906,
+    "question": "Is Birmingham, Alabama, United States the birth place of the creator of Harold and His Mother?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.64>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9907,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of G.W. Cabinet?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1995.13>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9908,
+    "question": "Is Manlius Square, New York, United States the birth place of the creator of From a Window?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1995.73>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9909,
+    "question": "Is Monroe Falls, Ohio, United States the birth place of the creator of Fruit in a Bowl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1995.81>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9910,
+    "question": "Is Nyack, New York, United States the birth place of the creator of The Causeway?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1995.90.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9911,
+    "question": "Is South Bend, Indiana, United States the birth place of the creator of Interception?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.78>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9912,
+    "question": "Is Canig, Germany the birth place of the creator of Bullet and Apple?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.99.67.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9913,
+    "question": "Is Manlius Square, New York, United States the birth place of the creator of Champagne?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.108.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9914,
+    "question": "Is Madison, Wisconsin, United States the birth place of the creator of Micaceous Pot?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.124.179>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9915,
+    "question": "Is Salem, Massachusetts, United States the birth place of the creator of Man With Brown Hat?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.124.45.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9916,
+    "question": "Is Stuttgart, Germany the birth place of the creator of Akbar's Accession?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.12A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9917,
+    "question": "Is Canig, Germany the birth place of the creator of Split Encounter?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.89>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9918,
+    "question": "Is Lebanon, Connecticut, United States the birth place of the creator of Passion Flower?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.115.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9919,
+    "question": "Is Le Sueur, Minnesota, United States the birth place of the creator of White man on wagon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.120.30>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9920,
+    "question": "Is Crandon, Wisconsin, United States the birth place of the creator of Two Magnolias?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.157>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9921,
+    "question": "Is Chicago, Illinois, United States the birth place of the creator of Drum with Reptile Motif?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9922,
+    "question": "Is Crandon, Wisconsin, United States the birth place of the creator of Mr. Tredwell?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.27.50.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9923,
+    "question": "Is Camillus, New York, United States the birth place of the creator of Two Bottles?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.57.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9924,
+    "question": "Is Worcester, Massachusetts, United States the birth place of the creator of Pollywog Decoy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.67.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9925,
+    "question": "Is Pepeekeo, Hawaii, United States the birth place of the creator of Ceramic Bowl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.69>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9926,
+    "question": "Is Woodstock, Vermont, United States the birth place of the creator of Mount Chocorua?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.81>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9927,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Hermit Crab?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.26.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9928,
+    "question": "Is Loveland, Colorado, United States the birth place of the creator of Silver/Gold Container?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.41.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9929,
+    "question": "Is Newport, Rhode Island, United States the birth place of the creator of Deep Six?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.43.57>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9930,
+    "question": "Is Plainfield, New Jersey, United States the birth place of the creator of Tea Bowl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.64.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9931,
+    "question": "Is Larchmont, New York, United States the birth place of the creator of Eagle Peak Trail?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.76.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9932,
+    "question": "Is France the birth place of the creator of Shoji?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.79.38>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9933,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Wall of Light Blue?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.79.78>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9934,
+    "question": "Is Dorchester, Massachusetts, United States the birth place of the creator of Witch Doctor?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.26.42>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9935,
+    "question": "Is Canig, Germany the birth place of the creator of Out the Side Window?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.81.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9936,
+    "question": "Is Bologna, Italy the birth place of the creator of Still Life with Menu?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.36>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9937,
+    "question": "Is Louisiana, Missouri, United States the birth place of the creator of Naxos/Castle of Paros?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.281>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9938,
+    "question": "Is Pomona, California, United States the birth place of the creator of Beni Hasan?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.306>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9939,
+    "question": "Is Ashfield, Massachusetts, United States the birth place of the creator of Dalles Dam, Evening?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.6.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9940,
+    "question": "Is Cedar Rapids, Iowa, United States the birth place of the creator of Wyoming?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.92.71>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9941,
+    "question": "Is Hollywood, California, United States the birth place of the creator of Ashes in the Wind?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1989.99B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9942,
+    "question": "Is Springfield, Ohio, United States the birth place of the creator of Cold Day on Cherry Street?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.19.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9943,
+    "question": "Is Chicago, Illinois, United States the birth place of the creator of Breaking Down the Wild Horse?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.501>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9944,
+    "question": "Is Norristown, Pennsylvania, United States the birth place of the creator of Reflection with Rugs?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.179.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9945,
+    "question": "Is Ridgefield, Connecticut, United States the birth place of the creator of Side Door?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9946,
+    "question": "Is Canig, Germany the birth place of the creator of Jazz - the New Possession?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.13>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9947,
+    "question": "Is Lodi, Illinois, United States the birth place of the creator of Fresh from the Sea?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.65.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9948,
+    "question": "Is Pepeekeo, Hawaii, United States the birth place of the creator of Black and White Tipped Flower?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.52>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9949,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Celestial Muse of Ping Pong?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.155.345>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9950,
+    "question": "Is Eckwersheim, Alsace the birth place of the creator of Siegfried Kills Fafner?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.159>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9951,
+    "question": "Is Semarang, Java the birth place of the creator of Portrait of Waldo Pierce?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.804>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9952,
+    "question": "Is Belmond, Iowa, United States the birth place of the creator of Portrait of Marguerite Zorach?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.88>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9953,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Le Piano?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.18.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9954,
+    "question": "Is Louisiana, United States the birth place of the creator of St. Germain des Pres?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.19.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9955,
+    "question": "Is St. Paul, Minnesota, United States the birth place of the creator of Construction in White?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.50>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9956,
+    "question": "Is Aguascalientes, Mexico the birth place of the creator of Sorrows of Departure?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.90.33>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9957,
+    "question": "Is Bedford, Indiana, United States the birth place of the creator of Golgotha?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.132>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9958,
+    "question": "Is Kansas City, Missouri, United States the birth place of the creator of Rain in the Mountains?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.168>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9959,
+    "question": "Is New York, New York, United States the birth place of the creator of Tree in the Wind?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.21.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9960,
+    "question": "Is New York, New York, United States the birth place of the creator of Rabbi Newman, San Francisco?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.21.27>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9961,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Rabbi Stephen Wise?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.3.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9962,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Ancient Warrior?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.3.52>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9963,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Cape Point?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.35.20>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9964,
+    "question": "Is Brooklyn, New York, United States the birth place of the creator of Figure in the Flood?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.47.25>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9965,
+    "question": "Is Bedford, Indiana, United States the birth place of the creator of Circuit Rider?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.50.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9966,
+    "question": "Is Brooklyn, New York, United States the birth place of the creator of Milking the Cow?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.90>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9967,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Grandpa's Barn?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.194>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9968,
+    "question": "Is Canig, Germany the birth place of the creator of Fountain in the Boboli Garden?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.272>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9969,
+    "question": "Is Miami, Florida, United States the birth place of the creator of Gilia linanthus parviflorus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.111>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9970,
+    "question": "Is Suffield, Connecticut, United States the birth place of the creator of Conradina verticillata?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.314>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9971,
+    "question": "Is New York, New York, United States the birth place of the creator of Viola palustris?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.65>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9972,
+    "question": "Is Florence, South Carolina, United States the birth place of the creator of Rendezvous?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.37.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9973,
+    "question": "Is Washington, District of Columbia, United States the birth place of the creator of Peter (A Young English Girl)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.70>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9974,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Frisky Day?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.90>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9975,
+    "question": "Is New York, New York, United States the birth place of the creator of Tail Piece?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.106>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9976,
+    "question": "Is Rochester, New York, United States the birth place of the creator of Old Dominy House?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.219>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9977,
+    "question": "Is Philadelphia, Pennsylvania, United States the birth place of the creator of Mr. Kafka?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9978,
+    "question": "Is Yonkers, New York, United States the birth place of the creator of The Village Elms, Easthampton?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.221>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9979,
+    "question": "Is Santa Monica, California, United States the birth place of the creator of Return of the Fleet?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.225>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9980,
+    "question": "Is Chiswick, England the birth place of the creator of Cortigiana?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.252>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9981,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Sunlit Forest (Autumn Forest)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.287.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9982,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of Sacrifice of Isaac?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.291.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9983,
+    "question": "Is Cincinnati, Ohio, United States the birth place of the creator of Footprint?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.32>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9984,
+    "question": "Is Eurburg, Lithuania the birth place of the creator of House in Nantes?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.364.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9985,
+    "question": "Is Manlius Square, New York, United States the birth place of the creator of Stanislaus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.372.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9986,
+    "question": "Is Kewanee, Illinois, United States the birth place of the creator of Tide Rip?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.392>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9987,
+    "question": "Is Kehl, Germany the birth place of the creator of Horse's Anatomy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9988,
+    "question": "Is Arden, North Carolina, United States the birth place of the creator of Nude Studies, Bell?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.72A%2CB>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9989,
+    "question": "Is Vincennes, Indiana, United States the birth place of the creator of Land's End?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.447.48>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9990,
+    "question": "Is Newark, New Jersey, United States the birth place of the creator of Brick Kiln?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.447.70>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9991,
+    "question": "Is Lima, New York, United States the birth place of the creator of Undaunted (Torso)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.449.17>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9992,
+    "question": "Is Columbus, Georgia, United States the birth place of the creator of Franklin (half-scale model)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.449.3A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9993,
+    "question": "Is Pittsburgh, Pennsylvania, United States the birth place of the creator of Men Walking?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.113>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9994,
+    "question": "Is Vienna, Austria the birth place of the creator of Amor Omnia Vincit?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.167.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9995,
+    "question": "Is St. Paul, Minnesota, United States the birth place of the creator of Supplies for Suburbia?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.175>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9996,
+    "question": "Is St. Paul, Minnesota, United States the birth place of the creator of A Scouting Party?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.85.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9997,
+    "question": "Is Hollywood, California, United States the birth place of the creator of Freeway?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.113>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9998,
+    "question": "Is Baltimore, Maryland, United States the birth place of the creator of Santa Maria della Salute?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":9999,
+    "question": "Is Schenectady, New York, United States the birth place of the creator of Venetian Moonlight?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.125>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+},
+{
+    "id":10000,
+    "question": "Is Brest-Litovsk, Russia the birth place of the creator of Mounette?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.136>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"creator_birth_place",
+    "radius": 4
+}
+]

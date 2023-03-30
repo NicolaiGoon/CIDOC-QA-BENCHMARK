@@ -6,7 +6,9 @@
     "answers": [
       "oil on burlap"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4502,
@@ -15,7 +17,9 @@
     "answers": [
       "glazed stoneware with gold luster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4503,
@@ -24,7 +28,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4504,
@@ -33,7 +39,9 @@
     "answers": [
       "pencil, ink and crayon on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4505,
@@ -42,7 +50,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4506,
@@ -51,7 +61,9 @@
     "answers": [
       "paint on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4507,
@@ -60,7 +72,9 @@
     "answers": [
       "solid graphite on panel"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4508,
@@ -69,7 +83,9 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4509,
@@ -78,7 +94,9 @@
     "answers": [
       "watercolor and collage on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4510,
@@ -87,7 +105,9 @@
     "answers": [
       "intaglio"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4511,
@@ -96,7 +116,9 @@
     "answers": [
       "color screenprint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4512,
@@ -105,7 +127,9 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4513,
@@ -114,7 +138,9 @@
     "answers": [
       "hand-made print executed on an office copier"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4514,
@@ -123,7 +149,9 @@
     "answers": [
       "inkjet print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4515,
@@ -132,7 +160,9 @@
     "answers": [
       "mixed media"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4516,
@@ -141,7 +171,9 @@
     "answers": [
       "acrylic, prisma color pencil, oil stick, and shellac on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4517,
@@ -150,7 +182,9 @@
     "answers": [
       "watercolor"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4518,
@@ -159,7 +193,9 @@
     "answers": [
       "color woodcut and stencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4519,
@@ -168,7 +204,9 @@
     "answers": [
       "color lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4520,
@@ -177,7 +215,9 @@
     "answers": [
       "plaster/polychromed"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4521,
@@ -186,7 +226,9 @@
     "answers": [
       "oil on wood"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4522,
@@ -195,7 +237,9 @@
     "answers": [
       "Pewter"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4523,
@@ -204,7 +248,9 @@
     "answers": [
       "oil on canvas mounted on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4524,
@@ -213,7 +259,9 @@
     "answers": [
       "pennies, brass, silver, and copper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4525,
@@ -222,7 +270,9 @@
     "answers": [
       "marble"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4526,
@@ -231,7 +281,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4527,
@@ -240,7 +292,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4528,
@@ -249,7 +303,9 @@
     "answers": [
       "ink and ink wash on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4529,
@@ -258,7 +314,9 @@
     "answers": [
       "hand-colored gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4530,
@@ -267,7 +325,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4531,
@@ -276,7 +336,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4532,
@@ -285,7 +347,9 @@
     "answers": [
       "watercolor and pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4533,
@@ -294,7 +358,9 @@
     "answers": [
       "color lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4534,
@@ -303,7 +369,9 @@
     "answers": [
       "engraving, aquatint and softground etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4535,
@@ -312,7 +380,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4536,
@@ -321,7 +391,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4537,
@@ -330,7 +402,9 @@
     "answers": [
       "salted paper print with applied color"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4538,
@@ -339,7 +413,9 @@
     "answers": [
       "contÃÂ© crayon on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4539,
@@ -348,7 +424,9 @@
     "answers": [
       "cast plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4540,
@@ -357,7 +435,9 @@
     "answers": [
       "vinyl, copper wire and thread"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4541,
@@ -366,7 +446,9 @@
     "answers": [
       "maple veneer on Baltic birch plywood with bungee cord, acrylic paint, wood dyes, and finish"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4542,
@@ -375,7 +457,9 @@
     "answers": [
       "glazed porcelain"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4543,
@@ -384,7 +468,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4544,
@@ -393,7 +479,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4545,
@@ -402,7 +490,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4546,
@@ -411,7 +501,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4547,
@@ -420,7 +512,9 @@
     "answers": [
       "terra cotta on wood base"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4548,
@@ -429,7 +523,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4549,
@@ -438,7 +534,9 @@
     "answers": [
       "wood, masonite, plastic, acrylic and plexiglass"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4550,
@@ -447,7 +545,9 @@
     "answers": [
       "color lithograph with silver mylar and collage on Amate paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4551,
@@ -456,7 +556,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4552,
@@ -465,7 +567,9 @@
     "answers": [
       "acrylic on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4553,
@@ -474,7 +578,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4554,
@@ -483,7 +589,9 @@
     "answers": [
       "oil on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4555,
@@ -492,7 +600,9 @@
     "answers": [
       "tempera on fiberboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4556,
@@ -501,7 +611,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4557,
@@ -510,7 +622,9 @@
     "answers": [
       "brass/electrotype"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4558,
@@ -519,7 +633,9 @@
     "answers": [
       "sterling silver and 18k gold"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4559,
@@ -528,7 +644,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4560,
@@ -537,7 +655,9 @@
     "answers": [
       "mahogany, curly maple, cherry, zebrawood, cocobolo, and lacewood"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4561,
@@ -546,7 +666,9 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4562,
@@ -555,7 +677,9 @@
     "answers": [
       "pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4563,
@@ -564,7 +688,9 @@
     "answers": [
       "lithograph on paper mounted on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4564,
@@ -573,7 +699,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4565,
@@ -582,7 +710,9 @@
     "answers": [
       "pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4566,
@@ -591,7 +721,9 @@
     "answers": [
       "conte crayon"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4567,
@@ -600,7 +732,9 @@
     "answers": [
       "wood engraving"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4568,
@@ -609,7 +743,9 @@
     "answers": [
       "drawing"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4569,
@@ -618,7 +754,9 @@
     "answers": [
       "woodcut on paper\n\n"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4570,
@@ -627,7 +765,9 @@
     "answers": [
       "selenium-toned silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4571,
@@ -636,7 +776,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4572,
@@ -645,7 +787,9 @@
     "answers": [
       "watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4573,
@@ -654,7 +798,9 @@
     "answers": [
       "oil pastel on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4574,
@@ -663,7 +809,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4575,
@@ -672,7 +820,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4576,
@@ -681,7 +831,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4577,
@@ -690,7 +842,9 @@
     "answers": [
       "color etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4578,
@@ -699,7 +853,9 @@
     "answers": [
       "color lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4579,
@@ -708,7 +864,9 @@
     "answers": [
       "oil, photo, paperboard, glass and painted window"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4580,
@@ -717,7 +875,9 @@
     "answers": [
       "color etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4581,
@@ -726,7 +886,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4582,
@@ -735,7 +897,9 @@
     "answers": [
       "watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4583,
@@ -744,7 +908,9 @@
     "answers": [
       "color lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4584,
@@ -753,7 +919,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4585,
@@ -762,7 +930,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4586,
@@ -771,7 +941,9 @@
     "answers": [
       "monotype on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4587,
@@ -780,7 +952,9 @@
     "answers": [
       "plaster/cast"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4588,
@@ -789,7 +963,9 @@
     "answers": [
       "acrylic on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4589,
@@ -798,7 +974,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4590,
@@ -807,7 +985,9 @@
     "answers": [
       "steel"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4591,
@@ -816,7 +996,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4592,
@@ -825,7 +1007,9 @@
     "answers": [
       "etching and drypoint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4593,
@@ -834,7 +1018,9 @@
     "answers": [
       "chine colle softground aquatint"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4594,
@@ -843,7 +1029,9 @@
     "answers": [
       "watercolor and ink on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4595,
@@ -852,7 +1040,9 @@
     "answers": [
       "color woodcut"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4596,
@@ -861,7 +1051,9 @@
     "answers": [
       "carved and painted wood, brass sheet, painted ferrous tack eyes, ferrous eye hook, and painted lead weight"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4597,
@@ -870,7 +1062,9 @@
     "answers": [
       "stoneware and porcelain"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4598,
@@ -879,7 +1073,9 @@
     "answers": [
       "hand-colored lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4599,
@@ -888,7 +1084,9 @@
     "answers": [
       "plaster/cast and patinated"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4600,
@@ -897,7 +1095,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4601,
@@ -906,7 +1106,9 @@
     "answers": [
       "tempera, acrylic and pencil on paperboard (album cover)\n\nvinyl (record)"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4602,
@@ -915,7 +1117,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4603,
@@ -924,7 +1128,9 @@
     "answers": [
       "etching and drypoint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4604,
@@ -933,7 +1139,9 @@
     "answers": [
       "pen and ink on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4605,
@@ -942,7 +1150,9 @@
     "answers": [
       "engraving"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4606,
@@ -951,7 +1161,9 @@
     "answers": [
       "acrylic on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4607,
@@ -960,7 +1172,9 @@
     "answers": [
       "wood engraving on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4608,
@@ -969,7 +1183,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4609,
@@ -978,7 +1194,9 @@
     "answers": [
       "engraving on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4610,
@@ -987,7 +1205,9 @@
     "answers": [
       "stoneware"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4611,
@@ -996,7 +1216,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4612,
@@ -1005,7 +1227,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4613,
@@ -1014,7 +1238,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4614,
@@ -1023,7 +1249,9 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4615,
@@ -1032,7 +1260,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4616,
@@ -1041,7 +1271,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4617,
@@ -1050,7 +1282,9 @@
     "answers": [
       "slumped and fused glass"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4618,
@@ -1059,7 +1293,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4619,
@@ -1068,7 +1304,9 @@
     "answers": [
       "charcoal on vellum with traces of colored pencil"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4620,
@@ -1077,7 +1315,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4621,
@@ -1086,7 +1326,9 @@
     "answers": [
       "mixed media"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4622,
@@ -1095,7 +1337,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4623,
@@ -1104,7 +1348,9 @@
     "answers": [
       "walnut"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4624,
@@ -1113,7 +1359,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4625,
@@ -1122,7 +1370,9 @@
     "answers": [
       "photomechanical wood engraving on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4626,
@@ -1131,7 +1381,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4627,
@@ -1140,7 +1392,9 @@
     "answers": [
       "drypoint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4628,
@@ -1149,7 +1403,9 @@
     "answers": [
       "pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4629,
@@ -1158,7 +1414,9 @@
     "answers": [
       "pastel on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4630,
@@ -1167,7 +1425,9 @@
     "answers": [
       "watercolor"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4631,
@@ -1176,7 +1436,9 @@
     "answers": [
       "16 mm film, color, silent; 12:00 minutes"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4632,
@@ -1185,7 +1447,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4633,
@@ -1194,7 +1458,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4634,
@@ -1203,7 +1469,9 @@
     "answers": [
       "pencil"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4635,
@@ -1212,7 +1480,9 @@
     "answers": [
       "wood and ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4636,
@@ -1221,7 +1491,9 @@
     "answers": [
       "16 mm Plus-X print, black and white, silent; 30:00 minutes"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4637,
@@ -1230,7 +1502,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4638,
@@ -1239,7 +1513,9 @@
     "answers": [
       "wood, paint, metal, and encaustic"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4639,
@@ -1248,7 +1524,9 @@
     "answers": [
       "oil and pastel on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4640,
@@ -1257,7 +1535,9 @@
     "answers": [
       "digital animation, color, silent; 04:00 minutes"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4641,
@@ -1266,7 +1546,9 @@
     "answers": [
       "drypoint"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4642,
@@ -1275,7 +1557,9 @@
     "answers": [
       "acrylic on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4643,
@@ -1284,7 +1568,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4644,
@@ -1293,7 +1579,9 @@
     "answers": [
       "etching, aquatint, spit bite and sugarlift on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4645,
@@ -1302,7 +1590,9 @@
     "answers": [
       "tempera, pen and ink and pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4646,
@@ -1311,7 +1601,9 @@
     "answers": [
       "oil on fiberboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4647,
@@ -1320,7 +1612,9 @@
     "answers": [
       "marble"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4648,
@@ -1329,7 +1623,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4649,
@@ -1338,7 +1634,9 @@
     "answers": [
       "drypoint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4650,
@@ -1347,7 +1645,9 @@
     "answers": [
       "14k gold"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4651,
@@ -1356,7 +1656,9 @@
     "answers": [
       "color photograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4652,
@@ -1365,7 +1667,9 @@
     "answers": [
       "acrylic, cardbooard, plastic and mixed media on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4653,
@@ -1374,7 +1678,9 @@
     "answers": [
       "stencil cut"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4654,
@@ -1383,7 +1689,9 @@
     "answers": [
       "oil on linen"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4655,
@@ -1392,7 +1700,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4656,
@@ -1401,7 +1711,9 @@
     "answers": [
       "acrylic on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4657,
@@ -1410,7 +1722,9 @@
     "answers": [
       "hand-colored lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4658,
@@ -1419,7 +1733,9 @@
     "answers": [
       "wood engraving on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4659,
@@ -1428,7 +1744,9 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4660,
@@ -1437,7 +1755,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4661,
@@ -1446,7 +1766,9 @@
     "answers": [
       "wood engraving"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4662,
@@ -1455,7 +1777,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4663,
@@ -1464,7 +1788,9 @@
     "answers": [
       "oil on linen"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4664,
@@ -1473,7 +1799,9 @@
     "answers": [
       "pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4665,
@@ -1482,7 +1810,9 @@
     "answers": [
       "pencil"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4666,
@@ -1491,7 +1821,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4667,
@@ -1500,7 +1832,9 @@
     "answers": [
       "gouache on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4668,
@@ -1509,7 +1843,9 @@
     "answers": [
       "watercolor and pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4669,
@@ -1518,7 +1854,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4670,
@@ -1527,7 +1865,9 @@
     "answers": [
       "gilded bronze on marble base"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4671,
@@ -1536,7 +1876,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4672,
@@ -1545,7 +1887,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4673,
@@ -1554,7 +1898,9 @@
     "answers": [
       "19:38 minutes, black & white, sound"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4674,
@@ -1563,7 +1909,9 @@
     "answers": [
       "color lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4675,
@@ -1572,7 +1920,9 @@
     "answers": [
       "silverpoint and watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4676,
@@ -1581,7 +1931,9 @@
     "answers": [
       "crayon on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4677,
@@ -1590,7 +1942,9 @@
     "answers": [
       "plaster/cast"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4678,
@@ -1599,7 +1953,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4679,
@@ -1608,7 +1964,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4680,
@@ -1617,7 +1975,9 @@
     "answers": [
       "platinum-palladium print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4681,
@@ -1626,7 +1986,9 @@
     "answers": [
       "sugar maple burl"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4682,
@@ -1635,7 +1997,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4683,
@@ -1644,7 +2008,9 @@
     "answers": [
       "etching and drypoint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4684,
@@ -1653,7 +2019,9 @@
     "answers": [
       "carved and painted sequoia and black ash, painted metal, wire, and metal hardware"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4685,
@@ -1662,7 +2030,9 @@
     "answers": [
       "two-color etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4686,
@@ -1671,7 +2041,9 @@
     "answers": [
       "charcoal, crayon and chalk on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4687,
@@ -1680,7 +2052,9 @@
     "answers": [
       "etching and pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4688,
@@ -1689,7 +2063,9 @@
     "answers": [
       "color lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4689,
@@ -1698,7 +2074,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4690,
@@ -1707,7 +2085,9 @@
     "answers": [
       "mixed intaglio on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4691,
@@ -1716,7 +2096,9 @@
     "answers": [
       "dye transfer print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4692,
@@ -1725,7 +2107,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4693,
@@ -1734,7 +2118,9 @@
     "answers": [
       "color intaglio on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4694,
@@ -1743,7 +2129,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4695,
@@ -1752,7 +2140,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4696,
@@ -1761,7 +2151,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4697,
@@ -1770,7 +2162,9 @@
     "answers": [
       "pastel on fiberboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4698,
@@ -1779,7 +2173,9 @@
     "answers": [
       "pencil"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4699,
@@ -1788,7 +2184,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4700,
@@ -1797,7 +2195,9 @@
     "answers": [
       "inkjet print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4701,
@@ -1806,7 +2206,9 @@
     "answers": [
       "screenprint and collage on plexiglass"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4702,
@@ -1815,7 +2217,9 @@
     "answers": [
       "pencil and colored pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4703,
@@ -1824,7 +2228,9 @@
     "answers": [
       "watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4704,
@@ -1833,7 +2239,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4705,
@@ -1842,7 +2250,9 @@
     "answers": [
       "watercolor"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4706,
@@ -1851,7 +2261,9 @@
     "answers": [
       "watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4707,
@@ -1860,7 +2272,9 @@
     "answers": [
       "mixed media on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4708,
@@ -1869,7 +2283,9 @@
     "answers": [
       "chromolithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4709,
@@ -1878,7 +2294,9 @@
     "answers": [
       "color aquatint and etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4710,
@@ -1887,7 +2305,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4711,
@@ -1896,7 +2316,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4712,
@@ -1905,7 +2327,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4713,
@@ -1914,7 +2338,9 @@
     "answers": [
       "color woodcut with handwork"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4714,
@@ -1923,7 +2349,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4715,
@@ -1932,7 +2360,9 @@
     "answers": [
       "turned, inlaid, painted, stained, and varnished wood"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4716,
@@ -1941,7 +2371,9 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4717,
@@ -1950,7 +2382,9 @@
     "answers": [
       "engraving"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4718,
@@ -1959,7 +2393,9 @@
     "answers": [
       "oil on wood"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4719,
@@ -1968,7 +2404,9 @@
     "answers": [
       "watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4720,
@@ -1977,7 +2415,9 @@
     "answers": [
       "myrtle burl"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4721,
@@ -1986,7 +2426,9 @@
     "answers": [
       "wood engraving on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4722,
@@ -1995,7 +2437,9 @@
     "answers": [
       "photogravure"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4723,
@@ -2004,7 +2448,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4724,
@@ -2013,7 +2459,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4725,
@@ -2022,7 +2470,9 @@
     "answers": [
       "color woodcut on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4726,
@@ -2031,7 +2481,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4727,
@@ -2040,7 +2492,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4728,
@@ -2049,7 +2503,9 @@
     "answers": [
       "etching, engraving and roulette on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4729,
@@ -2058,7 +2514,9 @@
     "answers": [
       "chromogenic print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4730,
@@ -2067,7 +2525,9 @@
     "answers": [
       "screenprint"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4731,
@@ -2076,7 +2536,9 @@
     "answers": [
       "acrylic on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4732,
@@ -2085,7 +2547,9 @@
     "answers": [
       "mixed media on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4733,
@@ -2094,7 +2558,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4734,
@@ -2103,7 +2569,9 @@
     "answers": [
       "charcoal and crayon on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4735,
@@ -2112,7 +2580,9 @@
     "answers": [
       "pencil on paper mounted on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4736,
@@ -2121,7 +2591,9 @@
     "answers": [
       "watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4737,
@@ -2130,7 +2602,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4738,
@@ -2139,7 +2613,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4739,
@@ -2148,7 +2624,9 @@
     "answers": [
       "oil on posterboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4740,
@@ -2157,7 +2635,9 @@
     "answers": [
       "pen and ink on paper mounted on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4741,
@@ -2166,7 +2646,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4742,
@@ -2175,7 +2657,9 @@
     "answers": [
       "watercolor and pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4743,
@@ -2184,7 +2668,9 @@
     "answers": [
       "crayon and pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4744,
@@ -2193,7 +2679,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4745,
@@ -2202,7 +2690,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4746,
@@ -2211,7 +2701,9 @@
     "answers": [
       "dye transfer print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4747,
@@ -2220,7 +2712,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4748,
@@ -2229,7 +2723,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4749,
@@ -2238,7 +2734,9 @@
     "answers": [
       "charcoal and colored pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4750,
@@ -2247,7 +2745,9 @@
     "answers": [
       "walnut on wood base"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4751,
@@ -2256,7 +2756,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4752,
@@ -2265,7 +2767,9 @@
     "answers": [
       "monotype on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4753,
@@ -2274,7 +2778,9 @@
     "answers": [
       "silver dye bleach print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4754,
@@ -2283,7 +2789,9 @@
     "answers": [
       "oil on fabric: linen mounted on fiberboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4755,
@@ -2292,7 +2800,9 @@
     "answers": [
       "woodcut on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4756,
@@ -2301,7 +2811,9 @@
     "answers": [
       "mixed media"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4757,
@@ -2310,7 +2822,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4758,
@@ -2319,7 +2833,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4759,
@@ -2328,7 +2844,9 @@
     "answers": [
       "tempera on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4760,
@@ -2337,7 +2855,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4761,
@@ -2346,7 +2866,9 @@
     "answers": [
       "monotype"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4762,
@@ -2355,7 +2877,9 @@
     "answers": [
       "silver dye bleach print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4763,
@@ -2364,7 +2888,9 @@
     "answers": [
       "watercolor and collage on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4764,
@@ -2373,7 +2899,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4765,
@@ -2382,7 +2910,9 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4766,
@@ -2391,7 +2921,9 @@
     "answers": [
       "pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4767,
@@ -2400,7 +2932,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4768,
@@ -2409,7 +2943,9 @@
     "answers": [
       "color woodcut on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4769,
@@ -2418,7 +2954,9 @@
     "answers": [
       "cast silver"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4770,
@@ -2427,7 +2965,9 @@
     "answers": [
       "bronze/cast electrotype"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4771,
@@ -2436,7 +2976,9 @@
     "answers": [
       "chromogenic print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4772,
@@ -2445,7 +2987,9 @@
     "answers": [
       "drypoint and aquatint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4773,
@@ -2454,7 +2998,9 @@
     "answers": [
       "watercolor"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4774,
@@ -2463,7 +3009,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4775,
@@ -2472,7 +3020,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4776,
@@ -2481,7 +3031,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4777,
@@ -2490,7 +3042,9 @@
     "answers": [
       "watercolor and ink on illustration board mounted on masonite"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4778,
@@ -2499,7 +3053,9 @@
     "answers": [
       "reproduction"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4779,
@@ -2508,7 +3064,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4780,
@@ -2517,7 +3075,9 @@
     "answers": [
       "charcoal and crayon on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4781,
@@ -2526,7 +3086,9 @@
     "answers": [
       "glazed stoneware"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4782,
@@ -2535,7 +3097,9 @@
     "answers": [
       "drypoint"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4783,
@@ -2544,7 +3108,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4784,
@@ -2553,7 +3119,9 @@
     "answers": [
       "watercolor and gouache on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4785,
@@ -2562,7 +3130,9 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4786,
@@ -2571,7 +3141,9 @@
     "answers": [
       "rosewood and mixed media"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4787,
@@ -2580,7 +3152,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4788,
@@ -2589,7 +3163,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4789,
@@ -2598,7 +3174,9 @@
     "answers": [
       "hog casings and acrylic paint"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4790,
@@ -2607,7 +3185,9 @@
     "answers": [
       "granite"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4791,
@@ -2616,7 +3196,9 @@
     "answers": [
       "color aquatint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4792,
@@ -2625,7 +3207,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4793,
@@ -2634,7 +3218,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4794,
@@ -2643,7 +3229,9 @@
     "answers": [
       "charcoal on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4795,
@@ -2652,7 +3240,9 @@
     "answers": [
       "oil on wood"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4796,
@@ -2661,7 +3251,9 @@
     "answers": [
       "watercolor and pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4797,
@@ -2670,7 +3262,9 @@
     "answers": [
       "pen and ink on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4798,
@@ -2679,7 +3273,9 @@
     "answers": [
       "charcoal and crayon on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4799,
@@ -2688,7 +3284,9 @@
     "answers": [
       "tempera  and charcoal on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4800,
@@ -2697,7 +3295,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4801,
@@ -2706,7 +3306,9 @@
     "answers": [
       "porcelain and celadon glaze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4802,
@@ -2715,7 +3317,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4803,
@@ -2724,7 +3328,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4804,
@@ -2733,7 +3339,9 @@
     "answers": [
       "gouache on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4805,
@@ -2742,7 +3350,9 @@
     "answers": [
       "lithograph with hand-coloring"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4806,
@@ -2751,7 +3361,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4807,
@@ -2760,7 +3372,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4808,
@@ -2769,7 +3383,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4809,
@@ -2778,7 +3394,9 @@
     "answers": [
       "Special edition book limited to 150 copies, Eakins Press, New York, edition 133/150, 213 gravure illustrations"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4810,
@@ -2787,7 +3405,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4811,
@@ -2796,7 +3416,9 @@
     "answers": [
       "charcoal on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4812,
@@ -2805,7 +3427,9 @@
     "answers": [
       "gouache on paper mounted on card"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4813,
@@ -2814,7 +3438,9 @@
     "answers": [
       "plaster/cast and patinated"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4814,
@@ -2823,7 +3449,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4815,
@@ -2832,7 +3460,9 @@
     "answers": [
       "watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4816,
@@ -2841,7 +3471,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4817,
@@ -2850,7 +3482,9 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4818,
@@ -2859,7 +3493,9 @@
     "answers": [
       "pen and ink on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4819,
@@ -2868,7 +3504,9 @@
     "answers": [
       "wood engraving on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4820,
@@ -2877,7 +3515,9 @@
     "answers": [
       "color lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4821,
@@ -2886,7 +3526,9 @@
     "answers": [
       "high-density recycled cork and low-VOC paint"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4822,
@@ -2895,7 +3537,9 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4823,
@@ -2904,7 +3548,9 @@
     "answers": [
       "mixed media installation, including glass, crystal, silver, plastic, and ceramic objects"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4824,
@@ -2913,7 +3559,9 @@
     "answers": [
       "patinated silver"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4825,
@@ -2922,7 +3570,9 @@
     "answers": [
       "woodcut on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4826,
@@ -2931,7 +3581,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4827,
@@ -2940,7 +3592,9 @@
     "answers": [
       "tinted etching and drypoint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4828,
@@ -2949,7 +3603,9 @@
     "answers": [
       "color woodcut"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4829,
@@ -2958,7 +3614,9 @@
     "answers": [
       "pastel on paper mounted on fiberboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4830,
@@ -2967,7 +3625,9 @@
     "answers": [
       "drypoint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4831,
@@ -2976,7 +3636,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4832,
@@ -2985,7 +3647,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4833,
@@ -2994,7 +3658,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4834,
@@ -3003,7 +3669,9 @@
     "answers": [
       "watercolor"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4835,
@@ -3012,7 +3680,9 @@
     "answers": [
       "woodcut on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4836,
@@ -3021,7 +3691,9 @@
     "answers": [
       "oil on board"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4837,
@@ -3030,7 +3702,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4838,
@@ -3039,7 +3713,9 @@
     "answers": [
       "jade and leather"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4839,
@@ -3048,7 +3724,9 @@
     "answers": [
       "pen and ink, ink wash, and pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4840,
@@ -3057,7 +3735,9 @@
     "answers": [
       "conte crayon and charcoal on paper mounted on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4841,
@@ -3066,7 +3746,9 @@
     "answers": [
       "photomechanical wood engraving on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4842,
@@ -3075,7 +3757,9 @@
     "answers": [
       "lithograph on paper mounted on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4843,
@@ -3084,7 +3768,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4844,
@@ -3093,7 +3779,9 @@
     "answers": [
       "platinum print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4845,
@@ -3102,7 +3790,9 @@
     "answers": [
       "acrylic and oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4846,
@@ -3111,7 +3801,9 @@
     "answers": [
       "still life of cast pÃÂ¢te-de verre bottle forms in white-grey"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4847,
@@ -3120,7 +3812,9 @@
     "answers": [
       "ink on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4848,
@@ -3129,7 +3823,9 @@
     "answers": [
       "mixed media"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4849,
@@ -3138,7 +3834,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4850,
@@ -3147,7 +3845,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4851,
@@ -3156,7 +3856,9 @@
     "answers": [
       "Research Material: Correspondence, ephemera and performance documentation; writings on art, history and technology; video and audio tapes; production notes for video and television projects; sketches, notebooks, models and plans for video installations; early model televisions, video projectors, radios, record players and cameras; musical instruments, vintage photographs, posters, catalogs and works in progress; toys, games, folk sculptures and other studio effects"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4852,
@@ -3165,7 +3867,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4853,
@@ -3174,7 +3878,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4854,
@@ -3183,7 +3889,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4855,
@@ -3192,7 +3900,9 @@
     "answers": [
       "pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4856,
@@ -3201,7 +3911,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4857,
@@ -3210,7 +3922,9 @@
     "answers": [
       "box construction"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4858,
@@ -3219,7 +3933,9 @@
     "answers": [
       "hair, paper, walnut, gold, crystal, and brass"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4859,
@@ -3228,7 +3944,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4860,
@@ -3237,7 +3955,9 @@
     "answers": [
       "casein on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4861,
@@ -3246,7 +3966,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4862,
@@ -3255,7 +3977,9 @@
     "answers": [
       "bronze on marble base"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4863,
@@ -3264,7 +3988,9 @@
     "answers": [
       "carved and painted wood, metal chain, and glass beads"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4864,
@@ -3273,7 +3999,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4865,
@@ -3282,7 +4010,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4866,
@@ -3291,7 +4021,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4867,
@@ -3300,7 +4032,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4868,
@@ -3309,7 +4043,9 @@
     "answers": [
       "oil on wood"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4869,
@@ -3318,7 +4054,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4870,
@@ -3327,7 +4065,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4871,
@@ -3336,7 +4076,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4872,
@@ -3345,7 +4087,9 @@
     "answers": [
       "watercolor on paper mounted on fiberboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4873,
@@ -3354,7 +4098,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4874,
@@ -3363,7 +4109,9 @@
     "answers": [
       "pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4875,
@@ -3372,7 +4120,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4876,
@@ -3381,7 +4131,9 @@
     "answers": [
       "drypoint and aquatint"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4877,
@@ -3390,7 +4142,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4878,
@@ -3399,7 +4153,9 @@
     "answers": [
       "wood box construction with glass and mixed media"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4879,
@@ -3408,7 +4164,9 @@
     "answers": [
       "cast aluminum"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4880,
@@ -3417,7 +4175,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4881,
@@ -3426,7 +4186,9 @@
     "answers": [
       "acrylic, fabric and plastic beads on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4882,
@@ -3435,7 +4197,9 @@
     "answers": [
       "mixed media"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4883,
@@ -3444,7 +4208,9 @@
     "answers": [
       "cut, bent, welded and painted steel"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4884,
@@ -3453,7 +4219,9 @@
     "answers": [
       "cast, bisque-fired, underglazed, and crackle clear-glazed porcelain"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4885,
@@ -3462,7 +4230,9 @@
     "answers": [
       "watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4886,
@@ -3471,7 +4241,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4887,
@@ -3480,7 +4252,9 @@
     "answers": [
       "etching and aquatint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4888,
@@ -3489,7 +4263,9 @@
     "answers": [
       "watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4889,
@@ -3498,7 +4274,9 @@
     "answers": [
       "tulipwood"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4890,
@@ -3507,7 +4285,9 @@
     "answers": [
       "color etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4891,
@@ -3516,7 +4296,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4892,
@@ -3525,7 +4307,9 @@
     "answers": [
       "toned gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4893,
@@ -3534,7 +4318,9 @@
     "answers": [
       "chalk on paper mounted on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4894,
@@ -3543,7 +4329,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4895,
@@ -3552,7 +4340,9 @@
     "answers": [
       "woodcut"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4896,
@@ -3561,7 +4351,9 @@
     "answers": [
       "tempera and pen and ink and pencil on paper mounted on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4897,
@@ -3570,7 +4362,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4898,
@@ -3579,7 +4373,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4899,
@@ -3588,7 +4384,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4900,
@@ -3597,7 +4395,9 @@
     "answers": [
       "mixed media: oil, wood, aluminum on canvas and oil on wood"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4901,
@@ -3606,7 +4406,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4902,
@@ -3615,7 +4417,9 @@
     "answers": [
       "forged steel, brass, copper, and bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4903,
@@ -3624,7 +4428,9 @@
     "answers": [
       "color woodcut"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4904,
@@ -3633,7 +4439,9 @@
     "answers": [
       "combination print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4905,
@@ -3642,7 +4450,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4906,
@@ -3651,7 +4461,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4907,
@@ -3660,7 +4472,9 @@
     "answers": [
       "oil on canvas mounted on fiberboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4908,
@@ -3669,7 +4483,9 @@
     "answers": [
       "color woodcut on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4909,
@@ -3678,7 +4494,9 @@
     "answers": [
       "color lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4910,
@@ -3687,7 +4505,9 @@
     "answers": [
       "white oak and walnut"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4911,
@@ -3696,7 +4516,9 @@
     "answers": [
       "drypoint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4912,
@@ -3705,7 +4527,9 @@
     "answers": [
       "pen and ink and pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4913,
@@ -3714,7 +4538,9 @@
     "answers": [
       "wood engraving on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4914,
@@ -3723,7 +4549,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4915,
@@ -3732,7 +4560,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4916,
@@ -3741,7 +4571,9 @@
     "answers": [
       "gouache on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4917,
@@ -3750,7 +4582,9 @@
     "answers": [
       "pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4918,
@@ -3759,7 +4593,9 @@
     "answers": [
       "oil on linen"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4919,
@@ -3768,7 +4604,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4920,
@@ -3777,7 +4615,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4921,
@@ -3786,7 +4626,9 @@
     "answers": [
       "tempera on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4922,
@@ -3795,7 +4637,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4923,
@@ -3804,7 +4648,9 @@
     "answers": [
       "drawing"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4924,
@@ -3813,7 +4659,9 @@
     "answers": [
       "oil on canvas mounted on cardboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4925,
@@ -3822,7 +4670,9 @@
     "answers": [
       "hollow cut paper and ink on card"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4926,
@@ -3831,7 +4681,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4927,
@@ -3840,7 +4692,9 @@
     "answers": [
       "pencil on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4928,
@@ -3849,7 +4703,9 @@
     "answers": [
       "ink"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4929,
@@ -3858,7 +4714,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4930,
@@ -3867,7 +4725,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4931,
@@ -3876,7 +4736,9 @@
     "answers": [
       "oil on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4932,
@@ -3885,7 +4747,9 @@
     "answers": [
       "oil on masonite"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4933,
@@ -3894,7 +4758,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4934,
@@ -3903,7 +4769,9 @@
     "answers": [
       "carved and stained wood"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4935,
@@ -3912,7 +4780,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4936,
@@ -3921,7 +4791,9 @@
     "answers": [
       "brush and ink on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4937,
@@ -3930,7 +4802,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4938,
@@ -3939,7 +4813,9 @@
     "answers": [
       "screenprint on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4939,
@@ -3948,7 +4824,9 @@
     "answers": [
       "collage on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4940,
@@ -3957,7 +4835,9 @@
     "answers": [
       "watercolor on ivory"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4941,
@@ -3966,7 +4846,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4942,
@@ -3975,7 +4857,9 @@
     "answers": [
       "gelatin silver print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4943,
@@ -3984,7 +4868,9 @@
     "answers": [
       "oil on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4944,
@@ -3993,7 +4879,9 @@
     "answers": [
       "woodcut"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4945,
@@ -4002,7 +4890,9 @@
     "answers": [
       "leaded glass"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4946,
@@ -4011,7 +4901,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4947,
@@ -4020,7 +4912,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4948,
@@ -4029,7 +4923,9 @@
     "answers": [
       "oil on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4949,
@@ -4038,7 +4934,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4950,
@@ -4047,7 +4945,9 @@
     "answers": [
       "inkjet print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4951,
@@ -4056,7 +4956,9 @@
     "answers": [
       "wood engraving on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4952,
@@ -4065,7 +4967,9 @@
     "answers": [
       "copper with silver-plating"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4953,
@@ -4074,7 +4978,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4954,
@@ -4083,7 +4989,9 @@
     "answers": [
       "oil on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4955,
@@ -4092,7 +5000,9 @@
     "answers": [
       "chromogenic print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4956,
@@ -4101,7 +5011,9 @@
     "answers": [
       "assembled and painted wood, sand, paperboard, pencil on paper, plastic and metal"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4957,
@@ -4110,7 +5022,9 @@
     "answers": [
       "etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4958,
@@ -4119,7 +5033,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4959,
@@ -4128,7 +5044,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4960,
@@ -4137,7 +5055,9 @@
     "answers": [
       "chromogenic print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4961,
@@ -4146,7 +5066,9 @@
     "answers": [
       "hair, paper, walnut, gold, crystal, and brass"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4962,
@@ -4155,7 +5077,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4963,
@@ -4164,7 +5088,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4964,
@@ -4173,7 +5099,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4965,
@@ -4182,7 +5110,9 @@
     "answers": [
       "drypoint and etching"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4966,
@@ -4191,7 +5121,9 @@
     "answers": [
       "linoleum cut on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4967,
@@ -4200,7 +5132,9 @@
     "answers": [
       "oil and resin on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4968,
@@ -4209,7 +5143,9 @@
     "answers": [
       "36 minutes, black & white, sound"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4969,
@@ -4218,7 +5154,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4970,
@@ -4227,7 +5165,9 @@
     "answers": [
       "box elder"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4971,
@@ -4236,7 +5176,9 @@
     "answers": [
       "mixed media: acrylic on wood and metal wire"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4972,
@@ -4245,7 +5187,9 @@
     "answers": [
       "photosensitive-ground etching, engraving and direct photographic transfer (using photosensitive ground) on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4973,
@@ -4254,7 +5198,9 @@
     "answers": [
       "watercolor on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4974,
@@ -4263,7 +5209,9 @@
     "answers": [
       "woodcut"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4975,
@@ -4272,7 +5220,9 @@
     "answers": [
       "sugar lift aquatint with color aquatint and spit bite aquatint, soft and hard ground etching, and engraving on Gampi paper chine collÃÂ©"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4976,
@@ -4281,7 +5231,9 @@
     "answers": [
       "chromolithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4977,
@@ -4290,7 +5242,9 @@
     "answers": [
       "oak, stain and oil paint"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4978,
@@ -4299,7 +5253,9 @@
     "answers": [
       "watercolor on paper mounted on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4979,
@@ -4308,7 +5264,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4980,
@@ -4317,7 +5275,9 @@
     "answers": [
       "color screenprint"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4981,
@@ -4326,7 +5286,9 @@
     "answers": [
       "glazed whiteware"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4982,
@@ -4335,7 +5297,9 @@
     "answers": [
       "digital print"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4983,
@@ -4344,7 +5308,9 @@
     "answers": [
       "etching on paper mounted on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4984,
@@ -4353,7 +5319,9 @@
     "answers": [
       "aquatint"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4985,
@@ -4362,7 +5330,9 @@
     "answers": [
       "pastel on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4986,
@@ -4371,7 +5341,9 @@
     "answers": [
       "cast and patinated plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4987,
@@ -4380,7 +5352,9 @@
     "answers": [
       "single-channel video, black and white, sound; 05:10 minutes"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4988,
@@ -4389,7 +5363,9 @@
     "answers": [
       "bronze"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4989,
@@ -4398,7 +5374,9 @@
     "answers": [
       "watercolor"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4990,
@@ -4407,7 +5385,9 @@
     "answers": [
       "lithograph"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4991,
@@ -4416,7 +5396,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4992,
@@ -4425,7 +5407,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4993,
@@ -4434,7 +5418,9 @@
     "answers": [
       "etching on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4994,
@@ -4443,7 +5429,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4995,
@@ -4452,7 +5440,9 @@
     "answers": [
       "mixed media on paperboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4996,
@@ -4461,7 +5451,9 @@
     "answers": [
       "pastel on fiberboard"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4997,
@@ -4470,7 +5462,9 @@
     "answers": [
       "oil on canvas"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4998,
@@ -4479,7 +5473,9 @@
     "answers": [
       "lithograph on paper"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 4999,
@@ -4488,7 +5484,9 @@
     "answers": [
       "cellocut"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   },
   {
     "id": 5000,
@@ -4497,6 +5495,8 @@
     "answers": [
       "plaster"
     ],
-    "type": "isReferredToBy_D1"
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
   }
 ]

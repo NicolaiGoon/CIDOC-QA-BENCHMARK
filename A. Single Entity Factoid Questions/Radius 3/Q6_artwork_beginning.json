@@ -6,7 +6,9 @@
     "answers": [
       "1970-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2502,
@@ -15,7 +17,9 @@
     "answers": [
       "1925-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2503,
@@ -24,7 +28,9 @@
     "answers": [
       "1967-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2504,
@@ -33,7 +39,9 @@
     "answers": [
       "1816-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2505,
@@ -42,7 +50,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2506,
@@ -51,7 +61,9 @@
     "answers": [
       "1992-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2507,
@@ -60,7 +72,9 @@
     "answers": [
       "1994-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2508,
@@ -69,7 +83,9 @@
     "answers": [
       "1931-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2509,
@@ -78,7 +94,9 @@
     "answers": [
       "1999-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2510,
@@ -87,7 +105,9 @@
     "answers": [
       "1997-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2511,
@@ -96,7 +116,9 @@
     "answers": [
       "1859-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2512,
@@ -105,7 +127,9 @@
     "answers": [
       "1906-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2513,
@@ -114,7 +138,9 @@
     "answers": [
       "1948-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2514,
@@ -123,7 +149,9 @@
     "answers": [
       "1992-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2515,
@@ -132,7 +160,9 @@
     "answers": [
       "1931-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2516,
@@ -141,7 +171,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2517,
@@ -150,7 +182,9 @@
     "answers": [
       "1982-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2518,
@@ -159,7 +193,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2519,
@@ -168,7 +204,9 @@
     "answers": [
       "1982-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2520,
@@ -177,7 +215,9 @@
     "answers": [
       "1970-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2521,
@@ -186,7 +226,9 @@
     "answers": [
       "1855-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2522,
@@ -195,7 +237,9 @@
     "answers": [
       "1839-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2523,
@@ -204,7 +248,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2524,
@@ -213,7 +259,9 @@
     "answers": [
       "1976-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2525,
@@ -222,7 +270,9 @@
     "answers": [
       "1840-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2526,
@@ -231,7 +281,9 @@
     "answers": [
       "2000-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2527,
@@ -240,7 +292,9 @@
     "answers": [
       "1906-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2528,
@@ -249,7 +303,9 @@
     "answers": [
       "1904-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2529,
@@ -258,7 +314,9 @@
     "answers": [
       "1891-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2530,
@@ -267,7 +325,9 @@
     "answers": [
       "1904-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2531,
@@ -276,7 +336,9 @@
     "answers": [
       "1975-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2532,
@@ -285,7 +347,9 @@
     "answers": [
       "1900-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2533,
@@ -294,7 +358,9 @@
     "answers": [
       "1925-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2534,
@@ -303,7 +369,9 @@
     "answers": [
       "1936-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2535,
@@ -312,7 +380,9 @@
     "answers": [
       "1898-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2536,
@@ -321,7 +391,9 @@
     "answers": [
       "1898-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2537,
@@ -330,7 +402,9 @@
     "answers": [
       "1938-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2538,
@@ -339,7 +413,9 @@
     "answers": [
       "1826-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2539,
@@ -348,7 +424,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2540,
@@ -357,7 +435,9 @@
     "answers": [
       "1967-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2541,
@@ -366,7 +446,9 @@
     "answers": [
       "1840-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2542,
@@ -375,7 +457,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2543,
@@ -384,7 +468,9 @@
     "answers": [
       "1937-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2544,
@@ -393,7 +479,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2545,
@@ -402,7 +490,9 @@
     "answers": [
       "1932-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2546,
@@ -411,7 +501,9 @@
     "answers": [
       "1885-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2547,
@@ -420,7 +512,9 @@
     "answers": [
       "1964-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2548,
@@ -429,7 +523,9 @@
     "answers": [
       "1981-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2549,
@@ -438,7 +534,9 @@
     "answers": [
       "1992-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2550,
@@ -447,7 +545,9 @@
     "answers": [
       "1938-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2551,
@@ -456,7 +556,9 @@
     "answers": [
       "1971-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2552,
@@ -465,7 +567,9 @@
     "answers": [
       "1863-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2553,
@@ -474,7 +578,9 @@
     "answers": [
       "2002-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2554,
@@ -483,7 +589,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2555,
@@ -492,7 +600,9 @@
     "answers": [
       "1966-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2556,
@@ -501,7 +611,9 @@
     "answers": [
       "1926-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2557,
@@ -510,7 +622,9 @@
     "answers": [
       "1988-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2558,
@@ -519,7 +633,9 @@
     "answers": [
       "1919-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2559,
@@ -528,7 +644,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2560,
@@ -537,7 +655,9 @@
     "answers": [
       "1813-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2561,
@@ -546,7 +666,9 @@
     "answers": [
       "1914-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2562,
@@ -555,7 +677,9 @@
     "answers": [
       "1904-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2563,
@@ -564,7 +688,9 @@
     "answers": [
       "1887-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2564,
@@ -573,7 +699,9 @@
     "answers": [
       "1940-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2565,
@@ -582,7 +710,9 @@
     "answers": [
       "1943-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2566,
@@ -591,7 +721,9 @@
     "answers": [
       "1915-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2567,
@@ -600,7 +732,9 @@
     "answers": [
       "2006-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2568,
@@ -609,7 +743,9 @@
     "answers": [
       "2002-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2569,
@@ -618,7 +754,9 @@
     "answers": [
       "1986-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2570,
@@ -627,7 +765,9 @@
     "answers": [
       "1912-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2571,
@@ -636,7 +776,9 @@
     "answers": [
       "1967-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2572,
@@ -645,7 +787,9 @@
     "answers": [
       "1856-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2573,
@@ -654,7 +798,9 @@
     "answers": [
       "2006-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2574,
@@ -663,7 +809,9 @@
     "answers": [
       "1961-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2575,
@@ -672,7 +820,9 @@
     "answers": [
       "1926-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2576,
@@ -681,7 +831,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2577,
@@ -690,7 +842,9 @@
     "answers": [
       "1979-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2578,
@@ -699,7 +853,9 @@
     "answers": [
       "1883-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2579,
@@ -708,7 +864,9 @@
     "answers": [
       "1913-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2580,
@@ -717,7 +875,9 @@
     "answers": [
       "1906-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2581,
@@ -726,7 +886,9 @@
     "answers": [
       "2001-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2582,
@@ -735,7 +897,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2583,
@@ -744,7 +908,9 @@
     "answers": [
       "1916-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2584,
@@ -753,7 +919,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2585,
@@ -762,7 +930,9 @@
     "answers": [
       "1956-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2586,
@@ -771,7 +941,9 @@
     "answers": [
       "1970-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2587,
@@ -780,7 +952,9 @@
     "answers": [
       "1883-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2588,
@@ -789,7 +963,9 @@
     "answers": [
       "2011-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2589,
@@ -798,7 +974,9 @@
     "answers": [
       "1979-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2590,
@@ -807,7 +985,9 @@
     "answers": [
       "1990-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2591,
@@ -816,7 +996,9 @@
     "answers": [
       "1996-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2592,
@@ -825,7 +1007,9 @@
     "answers": [
       "1888-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2593,
@@ -834,7 +1018,9 @@
     "answers": [
       "1906-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2594,
@@ -843,7 +1029,9 @@
     "answers": [
       "1933-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2595,
@@ -852,7 +1040,9 @@
     "answers": [
       "1810-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2596,
@@ -861,7 +1051,9 @@
     "answers": [
       "1877-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2597,
@@ -870,7 +1062,9 @@
     "answers": [
       "1959-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2598,
@@ -879,7 +1073,9 @@
     "answers": [
       "1975-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2599,
@@ -888,7 +1084,9 @@
     "answers": [
       "1987-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2600,
@@ -897,7 +1095,9 @@
     "answers": [
       "1800-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2601,
@@ -906,7 +1106,9 @@
     "answers": [
       "1915-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2602,
@@ -915,7 +1117,9 @@
     "answers": [
       "1963-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2603,
@@ -924,7 +1128,9 @@
     "answers": [
       "1942-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2604,
@@ -933,7 +1139,9 @@
     "answers": [
       "1880-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2605,
@@ -942,7 +1150,9 @@
     "answers": [
       "1770-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2606,
@@ -951,7 +1161,9 @@
     "answers": [
       "1988-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2607,
@@ -960,7 +1172,9 @@
     "answers": [
       "1863-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2608,
@@ -969,7 +1183,9 @@
     "answers": [
       "1999-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2609,
@@ -978,7 +1194,9 @@
     "answers": [
       "1909-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2610,
@@ -987,7 +1205,9 @@
     "answers": [
       "1926-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2611,
@@ -996,7 +1216,9 @@
     "answers": [
       "1915-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2612,
@@ -1005,7 +1227,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2613,
@@ -1014,7 +1238,9 @@
     "answers": [
       "1972-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2614,
@@ -1023,7 +1249,9 @@
     "answers": [
       "1978-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2615,
@@ -1032,7 +1260,9 @@
     "answers": [
       "1975-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2616,
@@ -1041,7 +1271,9 @@
     "answers": [
       "1968-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2617,
@@ -1050,7 +1282,9 @@
     "answers": [
       "1936-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2618,
@@ -1059,7 +1293,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2619,
@@ -1068,7 +1304,9 @@
     "answers": [
       "1796-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2620,
@@ -1077,7 +1315,9 @@
     "answers": [
       "2004-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2621,
@@ -1086,7 +1326,9 @@
     "answers": [
       "1934-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2622,
@@ -1095,7 +1337,9 @@
     "answers": [
       "1947-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2623,
@@ -1104,7 +1348,9 @@
     "answers": [
       "1962-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2624,
@@ -1113,7 +1359,9 @@
     "answers": [
       "1918-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2625,
@@ -1122,7 +1370,9 @@
     "answers": [
       "1903-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2626,
@@ -1131,7 +1381,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2627,
@@ -1140,7 +1392,9 @@
     "answers": [
       "1937-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2628,
@@ -1149,7 +1403,9 @@
     "answers": [
       "1910-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2629,
@@ -1158,7 +1414,9 @@
     "answers": [
       "1975-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2630,
@@ -1167,7 +1425,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2631,
@@ -1176,7 +1436,9 @@
     "answers": [
       "1880-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2632,
@@ -1185,7 +1447,9 @@
     "answers": [
       "1887-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2633,
@@ -1194,7 +1458,9 @@
     "answers": [
       "1934-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2634,
@@ -1203,7 +1469,9 @@
     "answers": [
       "1911-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2635,
@@ -1212,7 +1480,9 @@
     "answers": [
       "1937-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2636,
@@ -1221,7 +1491,9 @@
     "answers": [
       "1934-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2637,
@@ -1230,7 +1502,9 @@
     "answers": [
       "1900-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2638,
@@ -1239,7 +1513,9 @@
     "answers": [
       "1984-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2639,
@@ -1248,7 +1524,9 @@
     "answers": [
       "1837-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2640,
@@ -1257,7 +1535,9 @@
     "answers": [
       "2007-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2641,
@@ -1266,7 +1546,9 @@
     "answers": [
       "1911-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2642,
@@ -1275,7 +1557,9 @@
     "answers": [
       "1971-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2643,
@@ -1284,7 +1568,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2644,
@@ -1293,7 +1579,9 @@
     "answers": [
       "2011-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2645,
@@ -1302,7 +1590,9 @@
     "answers": [
       "1846-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2646,
@@ -1311,7 +1601,9 @@
     "answers": [
       "1880-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2647,
@@ -1320,7 +1612,9 @@
     "answers": [
       "1993-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2648,
@@ -1329,7 +1623,9 @@
     "answers": [
       "1875-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2649,
@@ -1338,7 +1634,9 @@
     "answers": [
       "1900-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2650,
@@ -1347,7 +1645,9 @@
     "answers": [
       "1881-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2651,
@@ -1356,7 +1656,9 @@
     "answers": [
       "1975-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2652,
@@ -1365,7 +1667,9 @@
     "answers": [
       "1919-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2653,
@@ -1374,7 +1678,9 @@
     "answers": [
       "1939-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2654,
@@ -1383,7 +1689,9 @@
     "answers": [
       "1937-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2655,
@@ -1392,7 +1700,9 @@
     "answers": [
       "1927-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2656,
@@ -1401,7 +1711,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2657,
@@ -1410,7 +1722,9 @@
     "answers": [
       "1933-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2658,
@@ -1419,7 +1733,9 @@
     "answers": [
       "1910-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2659,
@@ -1428,7 +1744,9 @@
     "answers": [
       "1921-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2660,
@@ -1437,7 +1755,9 @@
     "answers": [
       "1970-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2661,
@@ -1446,7 +1766,9 @@
     "answers": [
       "1976-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2662,
@@ -1455,7 +1777,9 @@
     "answers": [
       "1899-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2663,
@@ -1464,7 +1788,9 @@
     "answers": [
       "2002-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2664,
@@ -1473,7 +1799,9 @@
     "answers": [
       "1934-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2665,
@@ -1482,7 +1810,9 @@
     "answers": [
       "1932-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2666,
@@ -1491,7 +1821,9 @@
     "answers": [
       "1928-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2667,
@@ -1500,7 +1832,9 @@
     "answers": [
       "1965-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2668,
@@ -1509,7 +1843,9 @@
     "answers": [
       "1933-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2669,
@@ -1518,7 +1854,9 @@
     "answers": [
       "1980-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2670,
@@ -1527,7 +1865,9 @@
     "answers": [
       "1893-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2671,
@@ -1536,7 +1876,9 @@
     "answers": [
       "1920-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2672,
@@ -1545,7 +1887,9 @@
     "answers": [
       "1963-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2673,
@@ -1554,7 +1898,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2674,
@@ -1563,7 +1909,9 @@
     "answers": [
       "1947-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2675,
@@ -1572,7 +1920,9 @@
     "answers": [
       "1879-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2676,
@@ -1581,7 +1931,9 @@
     "answers": [
       "1997-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2677,
@@ -1590,7 +1942,9 @@
     "answers": [
       "1934-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2678,
@@ -1599,7 +1953,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2679,
@@ -1608,7 +1964,9 @@
     "answers": [
       "1796-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2680,
@@ -1617,7 +1975,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2681,
@@ -1626,7 +1986,9 @@
     "answers": [
       "1973-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2682,
@@ -1635,7 +1997,9 @@
     "answers": [
       "1939-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2683,
@@ -1644,7 +2008,9 @@
     "answers": [
       "1812-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2684,
@@ -1653,7 +2019,9 @@
     "answers": [
       "1993-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2685,
@@ -1662,7 +2030,9 @@
     "answers": [
       "1962-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2686,
@@ -1671,7 +2041,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2687,
@@ -1680,7 +2052,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2688,
@@ -1689,7 +2063,9 @@
     "answers": [
       "1933-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2689,
@@ -1698,7 +2074,9 @@
     "answers": [
       "1974-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2690,
@@ -1707,7 +2085,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2691,
@@ -1716,7 +2096,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2692,
@@ -1725,7 +2107,9 @@
     "answers": [
       "1914-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2693,
@@ -1734,7 +2118,9 @@
     "answers": [
       "1907-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2694,
@@ -1743,7 +2129,9 @@
     "answers": [
       "1806-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2695,
@@ -1752,7 +2140,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2696,
@@ -1761,7 +2151,9 @@
     "answers": [
       "1971-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2697,
@@ -1770,7 +2162,9 @@
     "answers": [
       "1949-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2698,
@@ -1779,7 +2173,9 @@
     "answers": [
       "1967-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2699,
@@ -1788,7 +2184,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2700,
@@ -1797,7 +2195,9 @@
     "answers": [
       "1936-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2701,
@@ -1806,7 +2206,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2702,
@@ -1815,7 +2217,9 @@
     "answers": [
       "1872-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2703,
@@ -1824,7 +2228,9 @@
     "answers": [
       "2012-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2704,
@@ -1833,7 +2239,9 @@
     "answers": [
       "1951-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2705,
@@ -1842,7 +2250,9 @@
     "answers": [
       "1890-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2706,
@@ -1851,7 +2261,9 @@
     "answers": [
       "1902-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2707,
@@ -1860,7 +2272,9 @@
     "answers": [
       "1973-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2708,
@@ -1869,7 +2283,9 @@
     "answers": [
       "1980-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2709,
@@ -1878,7 +2294,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2710,
@@ -1887,7 +2305,9 @@
     "answers": [
       "1956-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2711,
@@ -1896,7 +2316,9 @@
     "answers": [
       "1897-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2712,
@@ -1905,7 +2327,9 @@
     "answers": [
       "1975-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2713,
@@ -1914,7 +2338,9 @@
     "answers": [
       "1800-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2714,
@@ -1923,7 +2349,9 @@
     "answers": [
       "1946-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2715,
@@ -1932,7 +2360,9 @@
     "answers": [
       "1990-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2716,
@@ -1941,7 +2371,9 @@
     "answers": [
       "1956-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2717,
@@ -1950,7 +2382,9 @@
     "answers": [
       "1995-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2718,
@@ -1959,7 +2393,9 @@
     "answers": [
       "1976-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2719,
@@ -1968,7 +2404,9 @@
     "answers": [
       "1920-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2720,
@@ -1977,7 +2415,9 @@
     "answers": [
       "2010-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2721,
@@ -1986,7 +2426,9 @@
     "answers": [
       "1961-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2722,
@@ -1995,7 +2437,9 @@
     "answers": [
       "1985-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2723,
@@ -2004,7 +2448,9 @@
     "answers": [
       "1994-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2724,
@@ -2013,7 +2459,9 @@
     "answers": [
       "1982-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2725,
@@ -2022,7 +2470,9 @@
     "answers": [
       "1934-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2726,
@@ -2031,7 +2481,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2727,
@@ -2040,7 +2492,9 @@
     "answers": [
       "1984-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2728,
@@ -2049,7 +2503,9 @@
     "answers": [
       "1970-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2729,
@@ -2058,7 +2514,9 @@
     "answers": [
       "1973-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2730,
@@ -2067,7 +2525,9 @@
     "answers": [
       "1927-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2731,
@@ -2076,7 +2536,9 @@
     "answers": [
       "1999-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2732,
@@ -2085,7 +2547,9 @@
     "answers": [
       "1926-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2733,
@@ -2094,7 +2558,9 @@
     "answers": [
       "1973-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2734,
@@ -2103,7 +2569,9 @@
     "answers": [
       "1933-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2735,
@@ -2112,7 +2580,9 @@
     "answers": [
       "1980-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2736,
@@ -2121,7 +2591,9 @@
     "answers": [
       "1990-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2737,
@@ -2130,7 +2602,9 @@
     "answers": [
       "2000-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2738,
@@ -2139,7 +2613,9 @@
     "answers": [
       "1924-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2739,
@@ -2148,7 +2624,9 @@
     "answers": [
       "1898-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2740,
@@ -2157,7 +2635,9 @@
     "answers": [
       "1943-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2741,
@@ -2166,7 +2646,9 @@
     "answers": [
       "1983-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2742,
@@ -2175,7 +2657,9 @@
     "answers": [
       "1959-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2743,
@@ -2184,7 +2668,9 @@
     "answers": [
       "1996-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2744,
@@ -2193,7 +2679,9 @@
     "answers": [
       "1900-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2745,
@@ -2202,7 +2690,9 @@
     "answers": [
       "1976-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2746,
@@ -2211,7 +2701,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2747,
@@ -2220,7 +2712,9 @@
     "answers": [
       "1946-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2748,
@@ -2229,7 +2723,9 @@
     "answers": [
       "1919-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2749,
@@ -2238,7 +2734,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2750,
@@ -2247,7 +2745,9 @@
     "answers": [
       "1970-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2751,
@@ -2256,7 +2756,9 @@
     "answers": [
       "1917-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2752,
@@ -2265,7 +2767,9 @@
     "answers": [
       "1905-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2753,
@@ -2274,7 +2778,9 @@
     "answers": [
       "1904-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2754,
@@ -2283,7 +2789,9 @@
     "answers": [
       "1938-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2755,
@@ -2292,7 +2800,9 @@
     "answers": [
       "1947-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2756,
@@ -2301,7 +2811,9 @@
     "answers": [
       "1860-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2757,
@@ -2310,7 +2822,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2758,
@@ -2319,7 +2833,9 @@
     "answers": [
       "1881-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2759,
@@ -2328,7 +2844,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2760,
@@ -2337,7 +2855,9 @@
     "answers": [
       "1960-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2761,
@@ -2346,7 +2866,9 @@
     "answers": [
       "1956-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2762,
@@ -2355,7 +2877,9 @@
     "answers": [
       "1996-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2763,
@@ -2364,7 +2888,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2764,
@@ -2373,7 +2899,9 @@
     "answers": [
       "1920-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2765,
@@ -2382,7 +2910,9 @@
     "answers": [
       "1892-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2766,
@@ -2391,7 +2921,9 @@
     "answers": [
       "1865-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2767,
@@ -2400,7 +2932,9 @@
     "answers": [
       "1910-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2768,
@@ -2409,7 +2943,9 @@
     "answers": [
       "2011-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2769,
@@ -2418,7 +2954,9 @@
     "answers": [
       "1999-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2770,
@@ -2427,7 +2965,9 @@
     "answers": [
       "1998-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2771,
@@ -2436,7 +2976,9 @@
     "answers": [
       "1868-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2772,
@@ -2445,7 +2987,9 @@
     "answers": [
       "2011-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2773,
@@ -2454,7 +2998,9 @@
     "answers": [
       "1860-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2774,
@@ -2463,7 +3009,9 @@
     "answers": [
       "1879-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2775,
@@ -2472,7 +3020,9 @@
     "answers": [
       "1964-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2776,
@@ -2481,7 +3031,9 @@
     "answers": [
       "1994-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2777,
@@ -2490,7 +3042,9 @@
     "answers": [
       "1967-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2778,
@@ -2499,7 +3053,9 @@
     "answers": [
       "1900-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2779,
@@ -2508,7 +3064,9 @@
     "answers": [
       "1986-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2780,
@@ -2517,7 +3075,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2781,
@@ -2526,7 +3086,9 @@
     "answers": [
       "1931-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2782,
@@ -2535,7 +3097,9 @@
     "answers": [
       "1956-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2783,
@@ -2544,7 +3108,9 @@
     "answers": [
       "1840-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2784,
@@ -2553,7 +3119,9 @@
     "answers": [
       "1866-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2785,
@@ -2562,7 +3130,9 @@
     "answers": [
       "1814-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2786,
@@ -2571,7 +3141,9 @@
     "answers": [
       "1896-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2787,
@@ -2580,7 +3152,9 @@
     "answers": [
       "1964-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2788,
@@ -2589,7 +3163,9 @@
     "answers": [
       "1903-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2789,
@@ -2598,7 +3174,9 @@
     "answers": [
       "1917-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2790,
@@ -2607,7 +3185,9 @@
     "answers": [
       "1914-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2791,
@@ -2616,7 +3196,9 @@
     "answers": [
       "1945-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2792,
@@ -2625,7 +3207,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2793,
@@ -2634,7 +3218,9 @@
     "answers": [
       "1988-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2794,
@@ -2643,7 +3229,9 @@
     "answers": [
       "1914-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2795,
@@ -2652,7 +3240,9 @@
     "answers": [
       "1838-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2796,
@@ -2661,7 +3251,9 @@
     "answers": [
       "1934-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2797,
@@ -2670,7 +3262,9 @@
     "answers": [
       "1996-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2798,
@@ -2679,7 +3273,9 @@
     "answers": [
       "1908-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2799,
@@ -2688,7 +3284,9 @@
     "answers": [
       "1847-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2800,
@@ -2697,7 +3295,9 @@
     "answers": [
       "1852-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2801,
@@ -2706,7 +3306,9 @@
     "answers": [
       "1957-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2802,
@@ -2715,7 +3317,9 @@
     "answers": [
       "2011-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2803,
@@ -2724,7 +3328,9 @@
     "answers": [
       "1870-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2804,
@@ -2733,7 +3339,9 @@
     "answers": [
       "1948-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2805,
@@ -2742,7 +3350,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2806,
@@ -2751,7 +3361,9 @@
     "answers": [
       "1845-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2807,
@@ -2760,7 +3372,9 @@
     "answers": [
       "1903-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2808,
@@ -2769,7 +3383,9 @@
     "answers": [
       "1970-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2809,
@@ -2778,7 +3394,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2810,
@@ -2787,7 +3405,9 @@
     "answers": [
       "-400-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2811,
@@ -2796,7 +3416,9 @@
     "answers": [
       "1905-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2812,
@@ -2805,7 +3427,9 @@
     "answers": [
       "1990-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2813,
@@ -2814,7 +3438,9 @@
     "answers": [
       "1857-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2814,
@@ -2823,7 +3449,9 @@
     "answers": [
       "1974-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2815,
@@ -2832,7 +3460,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2816,
@@ -2841,7 +3471,9 @@
     "answers": [
       "2014-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2817,
@@ -2850,7 +3482,9 @@
     "answers": [
       "1889-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2818,
@@ -2859,7 +3493,9 @@
     "answers": [
       "1874-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2819,
@@ -2868,7 +3504,9 @@
     "answers": [
       "1920-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2820,
@@ -2877,7 +3515,9 @@
     "answers": [
       "1867-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2821,
@@ -2886,7 +3526,9 @@
     "answers": [
       "1884-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2822,
@@ -2895,7 +3537,9 @@
     "answers": [
       "1970-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2823,
@@ -2904,7 +3548,9 @@
     "answers": [
       "1815-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2824,
@@ -2913,7 +3559,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2825,
@@ -2922,7 +3570,9 @@
     "answers": [
       "1901-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2826,
@@ -2931,7 +3581,9 @@
     "answers": [
       "1900-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2827,
@@ -2940,7 +3592,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2828,
@@ -2949,7 +3603,9 @@
     "answers": [
       "1941-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2829,
@@ -2958,7 +3614,9 @@
     "answers": [
       "1918-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2830,
@@ -2967,7 +3625,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2831,
@@ -2976,7 +3636,9 @@
     "answers": [
       "1948-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2832,
@@ -2985,7 +3647,9 @@
     "answers": [
       "1900-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2833,
@@ -2994,7 +3658,9 @@
     "answers": [
       "1822-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2834,
@@ -3003,7 +3669,9 @@
     "answers": [
       "1981-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2835,
@@ -3012,7 +3680,9 @@
     "answers": [
       "1902-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2836,
@@ -3021,7 +3691,9 @@
     "answers": [
       "1883-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2837,
@@ -3030,7 +3702,9 @@
     "answers": [
       "1980-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2838,
@@ -3039,7 +3713,9 @@
     "answers": [
       "1922-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2839,
@@ -3048,7 +3724,9 @@
     "answers": [
       "1795-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2840,
@@ -3057,7 +3735,9 @@
     "answers": [
       "1947-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2841,
@@ -3066,7 +3746,9 @@
     "answers": [
       "1974-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2842,
@@ -3075,7 +3757,9 @@
     "answers": [
       "1895-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2843,
@@ -3084,7 +3768,9 @@
     "answers": [
       "1933-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2844,
@@ -3093,7 +3779,9 @@
     "answers": [
       "1941-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2845,
@@ -3102,7 +3790,9 @@
     "answers": [
       "1859-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2846,
@@ -3111,7 +3801,9 @@
     "answers": [
       "1933-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2847,
@@ -3120,7 +3812,9 @@
     "answers": [
       "1932-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2848,
@@ -3129,7 +3823,9 @@
     "answers": [
       "1897-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2849,
@@ -3138,7 +3834,9 @@
     "answers": [
       "1885-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2850,
@@ -3147,7 +3845,9 @@
     "answers": [
       "1931-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2851,
@@ -3156,7 +3856,9 @@
     "answers": [
       "1800-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2852,
@@ -3165,7 +3867,9 @@
     "answers": [
       "1898-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2853,
@@ -3174,7 +3878,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2854,
@@ -3183,7 +3889,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2855,
@@ -3192,7 +3900,9 @@
     "answers": [
       "1910-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2856,
@@ -3201,7 +3911,9 @@
     "answers": [
       "1928-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2857,
@@ -3210,7 +3922,9 @@
     "answers": [
       "1937-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2858,
@@ -3219,7 +3933,9 @@
     "answers": [
       "1966-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2859,
@@ -3228,7 +3944,9 @@
     "answers": [
       "1890-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2860,
@@ -3237,7 +3955,9 @@
     "answers": [
       "1928-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2861,
@@ -3246,7 +3966,9 @@
     "answers": [
       "1871-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2862,
@@ -3255,7 +3977,9 @@
     "answers": [
       "1912-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2863,
@@ -3264,7 +3988,9 @@
     "answers": [
       "1936-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2864,
@@ -3273,7 +3999,9 @@
     "answers": [
       "1936-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2865,
@@ -3282,7 +4010,9 @@
     "answers": [
       "1960-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2866,
@@ -3291,7 +4021,9 @@
     "answers": [
       "1936-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2867,
@@ -3300,7 +4032,9 @@
     "answers": [
       "1922-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2868,
@@ -3309,7 +4043,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2869,
@@ -3318,7 +4054,9 @@
     "answers": [
       "1964-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2870,
@@ -3327,7 +4065,9 @@
     "answers": [
       "1940-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2871,
@@ -3336,7 +4076,9 @@
     "answers": [
       "1938-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2872,
@@ -3345,7 +4087,9 @@
     "answers": [
       "1923-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2873,
@@ -3354,7 +4098,9 @@
     "answers": [
       "1928-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2874,
@@ -3363,7 +4109,9 @@
     "answers": [
       "1948-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2875,
@@ -3372,7 +4120,9 @@
     "answers": [
       "1900-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2876,
@@ -3381,7 +4131,9 @@
     "answers": [
       "1844-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2877,
@@ -3390,7 +4142,9 @@
     "answers": [
       "1855-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2878,
@@ -3399,7 +4153,9 @@
     "answers": [
       "1969-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2879,
@@ -3408,7 +4164,9 @@
     "answers": [
       "1957-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2880,
@@ -3417,7 +4175,9 @@
     "answers": [
       "1985-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2881,
@@ -3426,7 +4186,9 @@
     "answers": [
       "1906-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2882,
@@ -3435,7 +4197,9 @@
     "answers": [
       "1992-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2883,
@@ -3444,7 +4208,9 @@
     "answers": [
       "1805-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2884,
@@ -3453,7 +4219,9 @@
     "answers": [
       "1972-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2885,
@@ -3462,7 +4230,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2886,
@@ -3471,7 +4241,9 @@
     "answers": [
       "1700-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2887,
@@ -3480,7 +4252,9 @@
     "answers": [
       "1928-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2888,
@@ -3489,7 +4263,9 @@
     "answers": [
       "1933-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2889,
@@ -3498,7 +4274,9 @@
     "answers": [
       "1942-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2890,
@@ -3507,7 +4285,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2891,
@@ -3516,7 +4296,9 @@
     "answers": [
       "1933-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2892,
@@ -3525,7 +4307,9 @@
     "answers": [
       "1916-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2893,
@@ -3534,7 +4318,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2894,
@@ -3543,7 +4329,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2895,
@@ -3552,7 +4340,9 @@
     "answers": [
       "1880-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2896,
@@ -3561,7 +4351,9 @@
     "answers": [
       "1941-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2897,
@@ -3570,7 +4362,9 @@
     "answers": [
       "2000-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2898,
@@ -3579,7 +4373,9 @@
     "answers": [
       "1957-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2899,
@@ -3588,7 +4384,9 @@
     "answers": [
       "1895-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2900,
@@ -3597,7 +4395,9 @@
     "answers": [
       "1845-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2901,
@@ -3606,7 +4406,9 @@
     "answers": [
       "1939-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2902,
@@ -3615,7 +4417,9 @@
     "answers": [
       "1891-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2903,
@@ -3624,7 +4428,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2904,
@@ -3633,7 +4439,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2905,
@@ -3642,7 +4450,9 @@
     "answers": [
       "1940-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2906,
@@ -3651,7 +4461,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2907,
@@ -3660,7 +4472,9 @@
     "answers": [
       "1969-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2908,
@@ -3669,7 +4483,9 @@
     "answers": [
       "1964-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2909,
@@ -3678,7 +4494,9 @@
     "answers": [
       "1877-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2910,
@@ -3687,7 +4505,9 @@
     "answers": [
       "1915-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2911,
@@ -3696,7 +4516,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2912,
@@ -3705,7 +4527,9 @@
     "answers": [
       "1924-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2913,
@@ -3714,7 +4538,9 @@
     "answers": [
       "1940-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2914,
@@ -3723,7 +4549,9 @@
     "answers": [
       "1926-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2915,
@@ -3732,7 +4560,9 @@
     "answers": [
       "1967-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2916,
@@ -3741,7 +4571,9 @@
     "answers": [
       "1949-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2917,
@@ -3750,7 +4582,9 @@
     "answers": [
       "1903-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2918,
@@ -3759,7 +4593,9 @@
     "answers": [
       "1899-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2919,
@@ -3768,7 +4604,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2920,
@@ -3777,7 +4615,9 @@
     "answers": [
       "1908-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2921,
@@ -3786,7 +4626,9 @@
     "answers": [
       "1938-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2922,
@@ -3795,7 +4637,9 @@
     "answers": [
       "1974-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2923,
@@ -3804,7 +4648,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2924,
@@ -3813,7 +4659,9 @@
     "answers": [
       "1875-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2925,
@@ -3822,7 +4670,9 @@
     "answers": [
       "2006-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2926,
@@ -3831,7 +4681,9 @@
     "answers": [
       "1938-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2927,
@@ -3840,7 +4692,9 @@
     "answers": [
       "1900-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2928,
@@ -3849,7 +4703,9 @@
     "answers": [
       "1932-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2929,
@@ -3858,7 +4714,9 @@
     "answers": [
       "2007-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2930,
@@ -3867,7 +4725,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2931,
@@ -3876,7 +4736,9 @@
     "answers": [
       "1955-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2932,
@@ -3885,7 +4747,9 @@
     "answers": [
       "-600-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2933,
@@ -3894,7 +4758,9 @@
     "answers": [
       "1951-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2934,
@@ -3903,7 +4769,9 @@
     "answers": [
       "1916-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2935,
@@ -3912,7 +4780,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2936,
@@ -3921,7 +4791,9 @@
     "answers": [
       "1896-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2937,
@@ -3930,7 +4802,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2938,
@@ -3939,7 +4813,9 @@
     "answers": [
       "2006-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2939,
@@ -3948,7 +4824,9 @@
     "answers": [
       "1951-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2940,
@@ -3957,7 +4835,9 @@
     "answers": [
       "1932-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2941,
@@ -3966,7 +4846,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2942,
@@ -3975,7 +4857,9 @@
     "answers": [
       "2009-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2943,
@@ -3984,7 +4868,9 @@
     "answers": [
       "1921-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2944,
@@ -3993,7 +4879,9 @@
     "answers": [
       "2008-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2945,
@@ -4002,7 +4890,9 @@
     "answers": [
       "2000-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2946,
@@ -4011,7 +4901,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2947,
@@ -4020,7 +4912,9 @@
     "answers": [
       "1926-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2948,
@@ -4029,7 +4923,9 @@
     "answers": [
       "1878-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2949,
@@ -4038,7 +4934,9 @@
     "answers": [
       "1938-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2950,
@@ -4047,7 +4945,9 @@
     "answers": [
       "1869-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2951,
@@ -4056,7 +4956,9 @@
     "answers": [
       "1927-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2952,
@@ -4065,7 +4967,9 @@
     "answers": [
       "1954-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2953,
@@ -4074,7 +4978,9 @@
     "answers": [
       "1981-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2954,
@@ -4083,7 +4989,9 @@
     "answers": [
       "1925-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2955,
@@ -4092,7 +5000,9 @@
     "answers": [
       "1970-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2956,
@@ -4101,7 +5011,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2957,
@@ -4110,7 +5022,9 @@
     "answers": [
       "1935-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2958,
@@ -4119,7 +5033,9 @@
     "answers": [
       "1970-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2959,
@@ -4128,7 +5044,9 @@
     "answers": [
       "1915-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2960,
@@ -4137,7 +5055,9 @@
     "answers": [
       "1926-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2961,
@@ -4146,7 +5066,9 @@
     "answers": [
       "1915-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2962,
@@ -4155,7 +5077,9 @@
     "answers": [
       "1988-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2963,
@@ -4164,7 +5088,9 @@
     "answers": [
       "1888-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2964,
@@ -4173,7 +5099,9 @@
     "answers": [
       "1961-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2965,
@@ -4182,7 +5110,9 @@
     "answers": [
       "1913-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2966,
@@ -4191,7 +5121,9 @@
     "answers": [
       "1901-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2967,
@@ -4200,7 +5132,9 @@
     "answers": [
       "2004-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2968,
@@ -4209,7 +5143,9 @@
     "answers": [
       "1800-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2969,
@@ -4218,7 +5154,9 @@
     "answers": [
       "1990-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2970,
@@ -4227,7 +5165,9 @@
     "answers": [
       "1980-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2971,
@@ -4236,7 +5176,9 @@
     "answers": [
       "1929-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2972,
@@ -4245,7 +5187,9 @@
     "answers": [
       "1960-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2973,
@@ -4254,7 +5198,9 @@
     "answers": [
       "1932-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2974,
@@ -4263,7 +5209,9 @@
     "answers": [
       "1977-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2975,
@@ -4272,7 +5220,9 @@
     "answers": [
       "1937-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2976,
@@ -4281,7 +5231,9 @@
     "answers": [
       "1875-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2977,
@@ -4290,7 +5242,9 @@
     "answers": [
       "1835-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2978,
@@ -4299,7 +5253,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2979,
@@ -4308,7 +5264,9 @@
     "answers": [
       "1969-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2980,
@@ -4317,7 +5275,9 @@
     "answers": [
       "1934-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2981,
@@ -4326,7 +5286,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2982,
@@ -4335,7 +5297,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2983,
@@ -4344,7 +5308,9 @@
     "answers": [
       "1949-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2984,
@@ -4353,7 +5319,9 @@
     "answers": [
       "1987-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2985,
@@ -4362,7 +5330,9 @@
     "answers": [
       "1959-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2986,
@@ -4371,7 +5341,9 @@
     "answers": [
       "0618-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2987,
@@ -4380,7 +5352,9 @@
     "answers": [
       "1939-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2988,
@@ -4389,7 +5363,9 @@
     "answers": [
       "1878-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2989,
@@ -4398,7 +5374,9 @@
     "answers": [
       "1978-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2990,
@@ -4407,7 +5385,9 @@
     "answers": [
       "1926-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2991,
@@ -4416,7 +5396,9 @@
     "answers": [
       "1965-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2992,
@@ -4425,7 +5407,9 @@
     "answers": [
       "1974-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2993,
@@ -4434,7 +5418,9 @@
     "answers": [
       "1930-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2994,
@@ -4443,7 +5429,9 @@
     "answers": [
       "0-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2995,
@@ -4452,7 +5440,9 @@
     "answers": [
       "1967-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2996,
@@ -4461,7 +5451,9 @@
     "answers": [
       "1882-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2997,
@@ -4470,7 +5462,9 @@
     "answers": [
       "1978-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2998,
@@ -4479,7 +5473,9 @@
     "answers": [
       "1866-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 2999,
@@ -4488,7 +5484,9 @@
     "answers": [
       "1904-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   },
   {
     "id": 3000,
@@ -4497,6 +5495,8 @@
     "answers": [
       "1923-01-01"
     ],
-    "type": "beginning_D3"
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
   }
 ]

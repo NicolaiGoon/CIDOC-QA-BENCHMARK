@@ -1,0 +1,4502 @@
+[
+{
+    "id":7501,
+    "question": "Was Can Fire in the Park given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.23>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7502,
+    "question": "Was Zuni Street Scene given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.5.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7503,
+    "question": "Was Banjo Chair given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.73>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7504,
+    "question": "Was Dalmatian given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.292>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7505,
+    "question": "Was Pioneers of the West given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.8.27>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7506,
+    "question": "Was Corner of House--Malta given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.248>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7507,
+    "question": "Was After Titian given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.6.78>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7508,
+    "question": "Was On the letter F of Flora given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.155.377>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7509,
+    "question": "Was Blood Grotto given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.7.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7510,
+    "question": "Was Ak Sar Ben given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.18.58>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7511,
+    "question": "Was Heat Exhaustion, Ramsey Unit given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.52.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7512,
+    "question": "Was Yangshuo, China given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.19.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7513,
+    "question": "Was Figures given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.31.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7514,
+    "question": "Was Lunar given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.111.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7515,
+    "question": "Was Blue and Orange given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.107.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7516,
+    "question": "Was Lemon (Citron) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.107.31>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7517,
+    "question": "Was Blue over Orange given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.107.18>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7518,
+    "question": "Was Fortitude given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7519,
+    "question": "Was Checkers (ECW) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.57>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7520,
+    "question": "Was Parkville, Main Street given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.124>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7521,
+    "question": "Was Macas, Paraguay given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.7.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7522,
+    "question": "Was Group of Deer given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.14.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7523,
+    "question": "Was Laon Cathedral, France given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.49>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7524,
+    "question": "Was Tower at Enkhuisen, Holland given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.27>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7525,
+    "question": "Was The Alcantara, Toledo given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1961.11.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7526,
+    "question": "Was William Thornton given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1960.6.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7527,
+    "question": "Was French Fan (pastoral scene) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1959.16.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7528,
+    "question": "Was Dwight Tryon's Studio given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1959.14>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7529,
+    "question": "Was Haukadal (Looking West) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1959.11.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7530,
+    "question": "Was The Indian Ghost Dancer given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.11.28>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7531,
+    "question": "Was Woman in Arbor with Monkey given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1957.13.21>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7532,
+    "question": "Was A Song given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.56>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7533,
+    "question": "Was Natalie with Violin given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.48>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7534,
+    "question": "Was Jeune Faune given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.39>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7535,
+    "question": "Was Firelight given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.163>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7536,
+    "question": "Was Somnolence given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.145>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7537,
+    "question": "Was Natalie with Flowing Hair given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.75>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7538,
+    "question": "Was Marshlands at Sundown given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.61>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7539,
+    "question": "Was Tongue River Cliffs (In Camp) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1947.13.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7540,
+    "question": "Was Robert Oliphant given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1942.2.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7541,
+    "question": "Was Over the Pass given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1941.6.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7542,
+    "question": "Was The Rough Camp given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.668>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7543,
+    "question": "Was Jean de Nievelles given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.646>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7544,
+    "question": "Was After Dinner given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.559>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7545,
+    "question": "Was Frozen Harbor given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.511>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7546,
+    "question": "Was Loulie's Hand given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.129>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7547,
+    "question": "Was Sketch Books given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.196.3-12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7548,
+    "question": "Was Nutcrackers given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.93.78>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7549,
+    "question": "Was Turkey given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.77.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7550,
+    "question": "Was Sad Man given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.87>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7551,
+    "question": "Was Red House given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.323>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7552,
+    "question": "Was Furnished Room given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.245>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7553,
+    "question": "Was Roadster given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.63.173B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7554,
+    "question": "Was Winds given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.6.22>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7555,
+    "question": "Was Fjord Sketch, Norway given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.953>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7556,
+    "question": "Was Mountain Lake given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.911>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7557,
+    "question": "Was Martigues given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.901>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7558,
+    "question": "Was Irises given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.806>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7559,
+    "question": "Was Man in Glasses given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.756>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7560,
+    "question": "Was Potsdam Meeting given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.655>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7561,
+    "question": "Was Sowing Sketch given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.486>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7562,
+    "question": "Was Seated Woman in Pink Blouse given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.291>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7563,
+    "question": "Was Male Nude on a Stool given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.217>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7564,
+    "question": "Was Laura Shelling Butter Beans given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.58.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7565,
+    "question": "Was The Postern, Moret given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.55.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7566,
+    "question": "Was Stable given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.62>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7567,
+    "question": "Was Adamo et Eva given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.26>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7568,
+    "question": "Was Karnak given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.74D>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7569,
+    "question": "Was St. Stephen's Church, Vienna given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.38>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7570,
+    "question": "Was Louis Siebert given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.73>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7571,
+    "question": "Was Cement Mixer given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.69.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7572,
+    "question": "Was Children's Carnival given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.64.28>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7573,
+    "question": "Was Catskill Creek given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.50>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7574,
+    "question": "Was Elizabeth Robinson Manship given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.95>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7575,
+    "question": "Was Wrestlers given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.32>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7576,
+    "question": "Was Queen Elizabeth given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.4.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7577,
+    "question": "Was Philippi, West Virginia given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.36.87>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7578,
+    "question": "Was The Cathedral Door given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.21.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7579,
+    "question": "Was Man on Bench in Town given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.21.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7580,
+    "question": "Was Season's End given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.15.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7581,
+    "question": "Was Kate Fox, Medal given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.110.53>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7582,
+    "question": "Was Margaret Ethel Wall given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.110.33>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7583,
+    "question": "Was Dark Blue and Red given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.107.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7584,
+    "question": "Was The Country Church given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.32>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7585,
+    "question": "Was Caestus given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.29>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7586,
+    "question": "Was United States Coast Guard Wet given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.18.93>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7587,
+    "question": "Was Potato Planting given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.18.82>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7588,
+    "question": "Was Subway given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.18.43>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7589,
+    "question": "Was Decoration Medal given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.93>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7590,
+    "question": "Was Chief Black-Coyote given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.362%2C144>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7591,
+    "question": "Was Sac and Fox Indian given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.165%2C700>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7592,
+    "question": "Was Swedish Lady given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.165%2C696>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7593,
+    "question": "Was Piro Girl given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.164%2C655>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7594,
+    "question": "Was O-mata-ah-luta (Red Plume) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.128%2C430>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7595,
+    "question": "Was Rhythm given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.40.24>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7596,
+    "question": "Was Left Bank Barbershop, Paris given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.21>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7597,
+    "question": "Was Lemon Slices, Glass and Cup given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7598,
+    "question": "Was Interior with Three Pears given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.56>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7599,
+    "question": "Was Atheneum Clapboard given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.50>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7600,
+    "question": "Was Defense de Stationner given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.35>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7601,
+    "question": "Was Children's Games given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.30>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7602,
+    "question": "Was Lawrence Barrett As Cassius given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/XX46>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7603,
+    "question": "Was Young Fisherman given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.9.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7604,
+    "question": "Was At the Beach given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.62.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7605,
+    "question": "Was Reflected given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.12.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7606,
+    "question": "Was Virga given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.88.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7607,
+    "question": "Was World Trade Center given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.88.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7608,
+    "question": "Was Prince Abu Zabi y Su Jardin given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.84>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7609,
+    "question": "Was The Craftsman Series: Shovels given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.77A-C>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7610,
+    "question": "Was My Body Sees You given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.50.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7611,
+    "question": "Was Money given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.49.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7612,
+    "question": "Was Crystal City given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.48.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7613,
+    "question": "Was Larry Levan (snake) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.45.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7614,
+    "question": "Was Dulce given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.31A-I>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7615,
+    "question": "Was Radiante given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7616,
+    "question": "Was Massimo Plates given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.12A-D>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7617,
+    "question": "Was In These Troubled Times given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.72.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7618,
+    "question": "Was Head of a Black Man given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.69A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7619,
+    "question": "Was Southern Monument on Column given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.55.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7620,
+    "question": "Was Pure Plantainum given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.50A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7621,
+    "question": "Was White Coffee Maker given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.35.2A-D>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7622,
+    "question": "Was Mountain Climber given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.13.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7623,
+    "question": "Was Zoot Suit given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.51.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7624,
+    "question": "Was Fence Fabricating Machine given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7625,
+    "question": "Was Water Feed for Boilers given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.24>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7626,
+    "question": "Was Extension Ladder given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.14>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7627,
+    "question": "Was Paper Bag Making Machine given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7628,
+    "question": "Was Capitolio given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.19.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7629,
+    "question": "Was SPIN (orange) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.11.3A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7630,
+    "question": "Was The Lily Pool given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.59>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7631,
+    "question": "Was Visible Difference given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.56.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7632,
+    "question": "Was Mary Lou Furcron given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.51>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7633,
+    "question": "Was Celadon Peach with Pedestal given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.36.1A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7634,
+    "question": "Was Rectangular Plate given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.32.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7635,
+    "question": "Was Parking Lot given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.14.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7636,
+    "question": "Was Washing the Beetle given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.12.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7637,
+    "question": "Was [Boy and Dog] given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.44.22>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7638,
+    "question": "Was Reverend Reid given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.42.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7639,
+    "question": "Was Into the Light given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.20.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7640,
+    "question": "Was Open House, Dutch Colonial given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.2.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7641,
+    "question": "Was In the Box (Horizontal) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7642,
+    "question": "Was Wayfarers given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7643,
+    "question": "Was Tur given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.4A-C>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7644,
+    "question": "Was Tall Case Clock given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.34>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7645,
+    "question": "Was Cat in bamboo, Hiroshima given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.32.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7646,
+    "question": "Was Circus Performer given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.31>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7647,
+    "question": "Was My Heavens! given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7648,
+    "question": "Was Bonbon Dish given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.47.26A-G>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7649,
+    "question": "Was Horse Pitcher given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.47.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7650,
+    "question": "Was Troy given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.45.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7651,
+    "question": "Was Children's Tapes given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.13>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7652,
+    "question": "Was Garden shadows given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.30.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7653,
+    "question": "Was Battle Hymn of the Republic given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7654,
+    "question": "Was We Shall Overcome given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7655,
+    "question": "Was Initiation, Liberia given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7656,
+    "question": "Was Brother Brown given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7657,
+    "question": "Was Maine Pump given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.13.1.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7658,
+    "question": "Was Hole in One given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.73>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7659,
+    "question": "Was Portrait of Jack Greenbaum given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7660,
+    "question": "Was Glyph given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.35.2A-F>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7661,
+    "question": "Was Byrdcliffe Oak Chiffonier given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.33>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7662,
+    "question": "Was Evening Glow at Mono Lake given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.17.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7663,
+    "question": "Was Up Broadway Down Fifth given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.10.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7664,
+    "question": "Was Banshee Pearls given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.6A-L>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7665,
+    "question": "Was The Immigrants given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.33.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7666,
+    "question": "Was Acteon given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.32.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7667,
+    "question": "Was Levee Farms given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.30.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7668,
+    "question": "Was Dogwood Blossoms given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.57>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7669,
+    "question": "Was Wheaton College given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.21.29>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7670,
+    "question": "Was Cockatoo: Keepsake Parakeet given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.69>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7671,
+    "question": "Was Love Poem given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.70>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7672,
+    "question": "Was Planks Pool given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.52>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7673,
+    "question": "Was There is no Buddha Out There given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.25>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7674,
+    "question": "Was Deneb given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.14>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7675,
+    "question": "Was Morata given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.39>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7676,
+    "question": "Was Red Fern given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7677,
+    "question": "Was Nancy given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.10.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7678,
+    "question": "Was The Pack given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.69>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7679,
+    "question": "Was Man and Coyote given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.56>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7680,
+    "question": "Was Railroad Sleeping given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7681,
+    "question": "Was Picasso Study Club given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.31.35>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7682,
+    "question": "Was Skating given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.31.30>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7683,
+    "question": "Was Winter Sunset given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.23>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7684,
+    "question": "Was Woman Phone Booth given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.15.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7685,
+    "question": "Was Cups and Screen given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.134.1.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7686,
+    "question": "Was Tel and Tel given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.132.37>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7687,
+    "question": "Was Straw Flowers given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.105>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7688,
+    "question": "Was Fishermen at Sea given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.215>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7689,
+    "question": "Was Abstract Still Life given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.30>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7690,
+    "question": "Was Cliffside Church given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.190>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7691,
+    "question": "Was Tugboat Captain given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.162>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7692,
+    "question": "Was Evening on the Maas given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.150>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7693,
+    "question": "Was Coast at Monterey, California given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7694,
+    "question": "Was Porth Dinlleyn, North Wales given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.279>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7695,
+    "question": "Was The Wye near Ross given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.275>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7696,
+    "question": "Was From the Palatine, Rome given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.145>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7697,
+    "question": "Was Trees Crossing given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.1845>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7698,
+    "question": "Was Josh White given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.150>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7699,
+    "question": "Was Rehearsal, Yiddish Theatre given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.110.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7700,
+    "question": "Was Brittany Landscape given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.68>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7701,
+    "question": "Was Dolls House given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.30.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7702,
+    "question": "Was Feast Day: San Juan Pueblo given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7703,
+    "question": "Was The Mad Rider given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.25.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7704,
+    "question": "Was Jonathan Jones Wheeler given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.35>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7705,
+    "question": "Was Maquette for Chorale given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.185.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7706,
+    "question": "Was Sentinels given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.167>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7707,
+    "question": "Was Landscape with Clouds given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.96>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7708,
+    "question": "Was Peaceful Valley given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.129.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7709,
+    "question": "Was Bike Race given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.66.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7710,
+    "question": "Was Sarah's Reach given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.5.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7711,
+    "question": "Was Maquette for White Tornado given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.49.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7712,
+    "question": "Was Seven Chimneys given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.14.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7713,
+    "question": "Was Future Archeology given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.40>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7714,
+    "question": "Was Road through the Labyrinth given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.35>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7715,
+    "question": "Was Teacher Benares given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.123.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7716,
+    "question": "Was Revolutionary Days given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.118>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7717,
+    "question": "Was Summer Vegetables given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.106>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7718,
+    "question": "Was The Supply Store given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7719,
+    "question": "Was The Station given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.58>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7720,
+    "question": "Was Nude on Posing Stand given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.213>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7721,
+    "question": "Was A New England Scene given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.180>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7722,
+    "question": "Was The Maenads given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.175>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7723,
+    "question": "Was Tenement Fire given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.80.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7724,
+    "question": "Was Natural Bridge given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.53.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7725,
+    "question": "Was Mr. Laughlin given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.5.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7726,
+    "question": "Was Model for Caritas given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.38.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7727,
+    "question": "Was Bull given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.159.39>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7728,
+    "question": "Was Buffalo Hunter given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.144.84>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7729,
+    "question": "Was Calf Roping given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.144.78>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7730,
+    "question": "Was Windmill, Zwyndrecht given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.136.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7731,
+    "question": "Was Old Woman in Turban given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.135.40>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7732,
+    "question": "Was Apollo and Marsias given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.135.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7733,
+    "question": "Was The Curtain given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.62>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7734,
+    "question": "Was Sugar Bowl with Lid given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.44.7A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7735,
+    "question": "Was Dawnscape given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.25>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7736,
+    "question": "Was Self given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.20.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7737,
+    "question": "Was Young Girl in Purple given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.149>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7738,
+    "question": "Was Pont Newith near Bala given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.10.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7739,
+    "question": "Was Death of Clytaemnestra given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.60>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7740,
+    "question": "Was Green Village given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.48.41>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7741,
+    "question": "Was Smoke Rings given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.48.21>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7742,
+    "question": "Was Origin in Colors given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.47.53>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7743,
+    "question": "Was Fountain Maquette given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.42.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7744,
+    "question": "Was Reclining Nude Figure given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.42.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7745,
+    "question": "Was Polo Players given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.42.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7746,
+    "question": "Was Bear and Fish given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.42.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7747,
+    "question": "Was Slate Quarry given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.15.16>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7748,
+    "question": "Was Midsummer given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.76.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7749,
+    "question": "Was Louise Hellstrom given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.70>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7750,
+    "question": "Was Thomas Davis given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.32.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7751,
+    "question": "Was African Head Carving given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.70>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7752,
+    "question": "Was The Runaways given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.103.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7753,
+    "question": "Was Self-Portrait with Hat given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.99.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7754,
+    "question": "Was Sister Ella given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.97.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7755,
+    "question": "Was L.I. Landscape given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.98>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7756,
+    "question": "Was Mules given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.93>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7757,
+    "question": "Was Storm Over Gloucester given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.64>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7758,
+    "question": "Was Sewing Scissors given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.161>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7759,
+    "question": "Was Model for Hodgkins Medal given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.20>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7760,
+    "question": "Was Rusty and Corrosion given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.44.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7761,
+    "question": "Was Connecticut Light and Power given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.44.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7762,
+    "question": "Was Night Shift given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7763,
+    "question": "Was Russian Hill given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.112>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7764,
+    "question": "Was California Farm given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.276>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7765,
+    "question": "Was Train Peddler given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.230>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7766,
+    "question": "Was Riveters given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.217>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7767,
+    "question": "Was Bricklayer given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.203>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7768,
+    "question": "Was Windbreak given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.194>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7769,
+    "question": "Was Targets given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.75>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7770,
+    "question": "Was Open given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.187.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7771,
+    "question": "Was Manhattan Nocturne given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.185.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7772,
+    "question": "Was Boy in a Landscape given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.152.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7773,
+    "question": "Was Lumbermen's Camp given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7774,
+    "question": "Was Young Michelangelo given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.53>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7775,
+    "question": "Was William Corbett's School given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7776,
+    "question": "Was Elizabeth Tuckerman Salisbury given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.298>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7777,
+    "question": "Was Portrait of Helen given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.271>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7778,
+    "question": "Was L' Etang given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.198>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7779,
+    "question": "Was Vezelay, la Grand Rue given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7780,
+    "question": "Was Portrait of Miss Hoe given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.84.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7781,
+    "question": "Was Grizzly Madonna given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.74.40>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7782,
+    "question": "Was St. Augustine given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.2.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7783,
+    "question": "Was Natalie Clifford Barney given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.182.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7784,
+    "question": "Was Toad given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.90>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7785,
+    "question": "Was Aphrodite, reverse given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.30B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7786,
+    "question": "Was General given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.105.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7787,
+    "question": "Was Grey given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.75>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7788,
+    "question": "Was St. Severin, Paris given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.52>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7789,
+    "question": "Was Dawn Boy given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.78>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7790,
+    "question": "Was Landscape H given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.47>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7791,
+    "question": "Was Yellow Sky given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7792,
+    "question": "Was Branch and Nude Study given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.9A%2CB>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7793,
+    "question": "Was Fat and Stylish given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.81>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7794,
+    "question": "Was Adjuster Tequila given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.54>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7795,
+    "question": "Was High Cost of Living given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.40>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7796,
+    "question": "Was Mevagissey given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.418>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7797,
+    "question": "Was A Quiet Canal given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.386>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7798,
+    "question": "Was Christ at Emmaus given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.292.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7799,
+    "question": "Was Squirrel in Tree given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.286.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7800,
+    "question": "Was Where the Junk Sails Lift given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.156>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7801,
+    "question": "Was Pont des Arts given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.81>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7802,
+    "question": "Was Gouache given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.80>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7803,
+    "question": "Was Napeague given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.71>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7804,
+    "question": "Was Boatright Ranch given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.37.32>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7805,
+    "question": "Was New Ground given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.37.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7806,
+    "question": "Was Tarflower (Befaria racemosa) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.356>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7807,
+    "question": "Was Lotus puberulus given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.296>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7808,
+    "question": "Was Lobelia Kalmii given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.141>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7809,
+    "question": "Was Burlesque Show given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.329>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7810,
+    "question": "Was Classical Landscape given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.185>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7811,
+    "question": "Was Still Life with Flowers given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.174>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7812,
+    "question": "Was Flower Man given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.67.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7813,
+    "question": "Was Sun Flowers given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.51.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7814,
+    "question": "Was Sitting Nude given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.126>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7815,
+    "question": "Was Leda and the Necrophilic Swan given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.16.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7816,
+    "question": "Was Riverside given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.98.28>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7817,
+    "question": "Was The Kitchen given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.52.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7818,
+    "question": "Was The Black Cloud given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7819,
+    "question": "Was Newman's House given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.19.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7820,
+    "question": "Was Le Bonnet a Brides given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.18.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7821,
+    "question": "Was Katherine Foote given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.93>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7822,
+    "question": "Was Faith given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7823,
+    "question": "Was A Johnny Came Lately given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.155.153>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7824,
+    "question": "Was All Good Dogs given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.79>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7825,
+    "question": "Was Harpress Tomb, Egypt given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.314>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7826,
+    "question": "Was Castle at Corfu, Greece given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.149>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7827,
+    "question": "Was Landscape with Woman given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.182>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7828,
+    "question": "Was Little Town by Moonlight given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.105.71>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7829,
+    "question": "Was Little White Church given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.105.34>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7830,
+    "question": "Was Portrait of Elizabeth Taylor given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.30.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7831,
+    "question": "Was Mechanical Insect given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.65.12B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7832,
+    "question": "Was Samurai given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.37.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7833,
+    "question": "Was Along the Brandywine given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.133.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7834,
+    "question": "Was Raynolds Place given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.58>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7835,
+    "question": "Was Icon of Saint Mark given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.259>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7836,
+    "question": "Was Girl with Tambourine given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.240>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7837,
+    "question": "Was Dr. Oskar Stracker, Vienna given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.84.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7838,
+    "question": "Was Faced Faces given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.76.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7839,
+    "question": "Was Bee Mine given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.21>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7840,
+    "question": "Was Sky Totem given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.6.67>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7841,
+    "question": "Was Damascus Costume given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.166>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7842,
+    "question": "Was The Sun in Sung Time given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.155.97>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7843,
+    "question": "Was Gourmet Shop given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.48.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7844,
+    "question": "Was Four Guedras, Morocco given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.83.23>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7845,
+    "question": "Was Sketch for Lombardy Bleachery given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.14.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7846,
+    "question": "Was Antwerp Cathedral given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7847,
+    "question": "Was Mrs. Lloyd given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1956.11.58>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7848,
+    "question": "Was R. D. Shepherd as Shylock given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.98>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7849,
+    "question": "Was Between Poses given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7850,
+    "question": "Was Old Mesilla Plaza given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.13>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7851,
+    "question": "Was Member of the Schuyler Family given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1950.4.38>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7852,
+    "question": "Was William Mather Smith given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1944.7.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7853,
+    "question": "Was Mrs. Charles Boynton Darling given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1937.6.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7854,
+    "question": "Was Suzanna given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.688>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7855,
+    "question": "Was Man Sketching given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.678>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7856,
+    "question": "Was Annecy given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.657>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7857,
+    "question": "Was Palisades Pines given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.616>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7858,
+    "question": "Was Carillon Tower, Chicago Fair given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.603>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7859,
+    "question": "Was Loading Lemons, Palermo given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.59>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7860,
+    "question": "Was Moods given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.516>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7861,
+    "question": "Was Rosenwald Museum, Chicago given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.454>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7862,
+    "question": "Was Round the Mulberry Bush given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.329>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7863,
+    "question": "Was Traders, Gallup, N.M. given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.226>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7864,
+    "question": "Was Veterans given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7865,
+    "question": "Was Colored Playground given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.116>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7866,
+    "question": "Was Escaped Bull given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.64.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7867,
+    "question": "Was Vermont in November given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.63.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7868,
+    "question": "Was Timothy Betts given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.96>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7869,
+    "question": "Was Standing Orpheus with Pegasus given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.78>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7870,
+    "question": "Was Victory Overseas given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.25>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7871,
+    "question": "Was King and Knight given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.4.5A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7872,
+    "question": "Was Amish Family given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.27.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7873,
+    "question": "Was The Aviators given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.21.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7874,
+    "question": "Was Lions in a London Square given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.8.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7875,
+    "question": "Was Pediocaetes Columbianus given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.33.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7876,
+    "question": "Was Tents given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.18.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7877,
+    "question": "Was King Penguin given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7878,
+    "question": "Was Brown Derby given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.83>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7879,
+    "question": "Was Vagabonds given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.186>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7880,
+    "question": "Was Concord given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.6.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7881,
+    "question": "Was Field of Wheat Shock given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.4.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7882,
+    "question": "Was Cherry Blossoms given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.4.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7883,
+    "question": "Was Royal Oak given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.4.14>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7884,
+    "question": "Was Great Hero, a chief given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.386%2C321>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7885,
+    "question": "Was Zuni Man given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.383%2C339>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7886,
+    "question": "Was Araucanian Man given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.164%2C670>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7887,
+    "question": "Was Baltit, Hunza, Pakistan given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.95.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7888,
+    "question": "Was Rites of Spring given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.21>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7889,
+    "question": "Was Humus given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.74>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7890,
+    "question": "Was Living Inside given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.8.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7891,
+    "question": "Was Shifting States: Iraq given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.52>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7892,
+    "question": "Was Teatro Jurutungo given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.60.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7893,
+    "question": "Was Confused Paradi(c)e given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.59A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7894,
+    "question": "Was Figures and Rabbit in a Boat given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.4.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7895,
+    "question": "Was Black and Grey Toaster given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.36>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7896,
+    "question": "Was Erased Lynchings given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.12.2A-O>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7897,
+    "question": "Was Barn at North Fork given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.55.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7898,
+    "question": "Was Ten Seconds in Oil and Water given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.9.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7899,
+    "question": "Was Video Painting given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7900,
+    "question": "Was Rikki and Carrie, Dining Room given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.26.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7901,
+    "question": "Was Heidi given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7902,
+    "question": "Was Vertical Roll given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.19>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7903,
+    "question": "Was Incidence of Catastrophe given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.16>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7904,
+    "question": "Was Greetings given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7905,
+    "question": "Was Vorahnung (Premonition) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.66>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7906,
+    "question": "Was Les Six given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7907,
+    "question": "Was Pink Begonias given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.37>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7908,
+    "question": "Was Gesture given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.24>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7909,
+    "question": "Was Obiter Dictum given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7910,
+    "question": "Was Nude, Dog, Clouds given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7911,
+    "question": "Was Red Witch given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.19.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7912,
+    "question": "Was Lounge Chair given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.34>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7913,
+    "question": "Was Bali, Rice Market given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.182>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7914,
+    "question": "Was Old Houses, Lausanne given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.88>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7915,
+    "question": "Was Church, Eton given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.249>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7916,
+    "question": "Was Arizona Night given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.16>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7917,
+    "question": "Was Small Talk given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.837>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7918,
+    "question": "Was Family, Butler County, KY given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.779>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7919,
+    "question": "Was The End of the Continent given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.703>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7920,
+    "question": "Was Buick Housecar given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.693>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7921,
+    "question": "Was Romare Bearden given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.163>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7922,
+    "question": "Was Nora Holt given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.132>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7923,
+    "question": "Was Second Opinion given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.91>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7924,
+    "question": "Was Women Bathing given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.71.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7925,
+    "question": "Was Maquette for Nalia given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.61>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7926,
+    "question": "Was The Erlking given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.25.14>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7927,
+    "question": "Was Two Cedars given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7928,
+    "question": "Was The Chap-Book (The Blue Lady) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.111.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7929,
+    "question": "Was Hexatryst given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.49.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7930,
+    "question": "Was Bandits Cave given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.209>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7931,
+    "question": "Was Bread Line, New York given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.146>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7932,
+    "question": "Was Still Life with Fan and Roses given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.149>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7933,
+    "question": "Was Single Eagle Dancer given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.144.95>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7934,
+    "question": "Was Portrait of Rosalba Peale given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.71>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7935,
+    "question": "Was At Home given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.156>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7936,
+    "question": "Was The Archers given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.91>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7937,
+    "question": "Was The Restaurant given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.47.56>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7938,
+    "question": "Was Study for Lobby Mural given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.47.192>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7939,
+    "question": "Was Bangor, Pennsylvania given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.15.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7940,
+    "question": "Was Love (study for) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.66>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7941,
+    "question": "Was John Henry's Funeral given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.29>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7942,
+    "question": "Was Honeymoon Motel given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7943,
+    "question": "Was Interlocking Reds given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7944,
+    "question": "Was Workers-Slotters Machine given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.362>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7945,
+    "question": "Was Ten Doors given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7946,
+    "question": "Was Good Friday Morning given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.138>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7947,
+    "question": "Was Napoleon as Emperor given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.117>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7948,
+    "question": "Was A Southerly Wind given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.122.72>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7949,
+    "question": "Was Salt Water Ponds given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.122.61>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7950,
+    "question": "Was Wash Tubs given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.61>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7951,
+    "question": "Was Odalisque given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7952,
+    "question": "Was Theodoric's Tomb, Ravenna given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.82>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7953,
+    "question": "Was All That Is Beautiful given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.75>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7954,
+    "question": "Was In Flight given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.69>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7955,
+    "question": "Was Rajasthan given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.262>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7956,
+    "question": "Was Bride Profile given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.57>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7957,
+    "question": "Was Deserted Well given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.72>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7958,
+    "question": "Was Un Gentilhomme given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.239>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7959,
+    "question": "Was Brown Moons given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.21>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7960,
+    "question": "Was Awaiting Boat's Return given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.209>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7961,
+    "question": "Was Grandma Moran given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.193>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7962,
+    "question": "Was Fragment of a Cloud given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.47.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7963,
+    "question": "Was Month of Nights given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.6.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7964,
+    "question": "Was Bellissima given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.20.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7965,
+    "question": "Was The Cat given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.181.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7966,
+    "question": "Was Shadow Magic given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.86.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7967,
+    "question": "Was Nikh-Eiphnh given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.76>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7968,
+    "question": "Was John Elder given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.88>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7969,
+    "question": "Was Captain John Grant given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.31>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7970,
+    "question": "Was Mold of a Woman's Hand given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.172>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7971,
+    "question": "Was Proserpine (fragment) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.102>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7972,
+    "question": "Was Captain Charles McKnight given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.137>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7973,
+    "question": "Was Marguerites given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.77.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7974,
+    "question": "Was Christmas in Paris given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.82>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7975,
+    "question": "Was Dox Trash given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.291>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7976,
+    "question": "Was Fisher Folk given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.238>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7977,
+    "question": "Was Sleeve Pressers given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.225>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7978,
+    "question": "Was Upper Level, Aquarium given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.135>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7979,
+    "question": "Was Down to the Sea Again given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.109>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7980,
+    "question": "Was Four Female Nudes given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.63.89>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7981,
+    "question": "Was Head of a Gentleman given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.386>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7982,
+    "question": "Was San Juan Pottery given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.5.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7983,
+    "question": "Was Running Man given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2000.56>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7984,
+    "question": "Was Captain Noah Rich given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.27.76>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7985,
+    "question": "Was Teyolia given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.88.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7986,
+    "question": "Was Wealth given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.70>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7987,
+    "question": "Was Masochist (from Aberrations) given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.115.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7988,
+    "question": "Was Under Flowers given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.104.72>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7989,
+    "question": "Was Color Needles given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.104.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7990,
+    "question": "Was Niagara in Summer, from Below given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7991,
+    "question": "Was Woman on a Porch given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.185>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7992,
+    "question": "Was In Winter, Kiowa given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.161>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7993,
+    "question": "Was Boats on the Sea given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.146>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7994,
+    "question": "Was The Gilded Age given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.13.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7995,
+    "question": "Was Prancing Horse Weathervane given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.12.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7996,
+    "question": "Was Cake Seller, Constantinople given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.98>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7997,
+    "question": "Was Pillar given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.297>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7998,
+    "question": "Was Triple Threat given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.69>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":7999,
+    "question": "Was Entrance to Bazaar given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.332>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+},
+{
+    "id":8000,
+    "question": "Was Mt. of Temptation given as a gift to the museum?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.233>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"is_gift",
+    "radius": 1
+}
+]

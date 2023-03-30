@@ -1,0 +1,4504 @@
+[
+{
+    "id":8001,
+    "question": "Had the material chromogenic print used for the creation of Bouillabaisse, Barcelona?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.80.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8002,
+    "question": "Had the material oil on canvas used for the creation of Stable at Cuenca?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2014.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8003,
+    "question": "Had the material gelatin silver print used for the creation of Randy Bias?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2014.17.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8004,
+    "question": "Had the material gelatin silver print used for the creation of Glove and Shoe, New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2015.2.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8005,
+    "question": "Had the material plaster/polychromed used for the creation of Gertrude Fairfield?",
+    "entity":  "<http://data.americanart.si.edu/object/id/XX10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8006,
+    "question": "Had the material acrylic, cardbooard, plastic and mixed media on canvas used for the creation of Night Waves?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.125>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8007,
+    "question": "Had the material lithograph on paper used for the creation of Romance Sentimentale?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.132.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8008,
+    "question": "Had the material acrylic on canvas used for the creation of Prince Albert?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.133>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8009,
+    "question": "Had the material etching on paper used for the creation of Talpa?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.69.25>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8010,
+    "question": "Had the material gelatin silver print used for the creation of Left Bank Arch?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.38.22>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8011,
+    "question": "Had the material gelatin silver print used for the creation of At the Battery, New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.38.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8012,
+    "question": "Had the material gelatin silver print used for the creation of Velvet Petals?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.40.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8013,
+    "question": "Had the material lithograph on paper used for the creation of Pursuit of Culture?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.50.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8014,
+    "question": "Had the material oil on canvas used for the creation of Aymara Boy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.164%2C665>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8015,
+    "question": "Had the material oil on paperboard used for the creation of Strong Left Hand?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.209%2C413>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8016,
+    "question": "Had the material oil on canvas used for the creation of Hopi Woman Making Pottery?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.383%2C332>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8017,
+    "question": "Had the material oil on board used for the creation of Shee Bushbury?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.385%2C666>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8018,
+    "question": "Had the material oil on canvas used for the creation of Smoking the Shield?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.477>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8019,
+    "question": "Had the material watercolor used for the creation of Hay Ride?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1964.22.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8020,
+    "question": "Had the material color lithograph used for the creation of Wild Horserider?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.25.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8021,
+    "question": "Had the material lithograph used for the creation of Blue Glow?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.45.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8022,
+    "question": "Had the material color lithograph used for the creation of The Court of Death?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.26.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8023,
+    "question": "Had the material pen and ink used for the creation of Hercules Gets Cerberus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.47.273>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8024,
+    "question": "Had the material lithograph used for the creation of Princeton University?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.48.38>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8025,
+    "question": "Had the material hand-colored aquatint on paper used for the creation of City Hall?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.48.79>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8026,
+    "question": "Had the material mezzotint on paper used for the creation of Rev. Joseph Pilmore?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.48.84>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8027,
+    "question": "Had the material oil on canvas used for the creation of Oak Tree?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8028,
+    "question": "Had the material copper photo-plates used for the creation of Six Copper Photo-Plates?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.51A-F>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8029,
+    "question": "Had the material platinum print of drawing used for the creation of Shepherdess?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.6.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8030,
+    "question": "Had the material lithograph on paper used for the creation of Town Wharf?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.64.20>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8031,
+    "question": "Had the material pen and ink and sepia ink wash on paper used for the creation of Provincetown Icon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.94>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8032,
+    "question": "Had the material woodcut on paper used for the creation of Concept?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.132.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8033,
+    "question": "Had the material etching on paper used for the creation of Nach dem Bade?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.14.168>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8034,
+    "question": "Had the material lithograph on paper used for the creation of Turks and Arabs?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.14.58>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8035,
+    "question": "Had the material oil on canvas used for the creation of Seconnet Point, Rhode Island?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.142.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8036,
+    "question": "Had the material color lithograph used for the creation of Boxcar, Yellow and Black?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.29.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8037,
+    "question": "Had the material cast aluminum used for the creation of Hughy Reaching for Food?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.50.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8038,
+    "question": "Had the material cast aluminum used for the creation of Monkey on a Stick?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.50.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8039,
+    "question": "Had the material lithograph used for the creation of Nubien (Baouab)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.54.71>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8040,
+    "question": "Had the material oil on paperboard used for the creation of Flower to Teacher?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.1024>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8041,
+    "question": "Had the material tempera and pen and ink with pencil on paper used for the creation of Early to Bed, Early to Rise?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.1069>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8042,
+    "question": "Had the material oil on canvas used for the creation of Cagnes-sur-Mer, A.M., France?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.710>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8043,
+    "question": "Had the material watercolor and pencil on paper used for the creation of Street Crowds, Tunisia?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.862>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8044,
+    "question": "Had the material lithograph used for the creation of Bruce's House?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.123>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8045,
+    "question": "Had the material lithograph used for the creation of Girl Ironing?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.126>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8046,
+    "question": "Had the material painted plaster relief used for the creation of Head of Osage Indian?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1895.10.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8047,
+    "question": "Had the material painted plaster used for the creation of American Panther and Cubs?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1895.10.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8048,
+    "question": "Had the material oil on canvas used for the creation of The Perfume of Roses?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1909.7.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8049,
+    "question": "Had the material oil on paperboard used for the creation of Bell Foundry, Germany?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1913.11.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8050,
+    "question": "Had the material Pewter used for the creation of Guild Cup?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1916.6.14>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8051,
+    "question": "Had the material porcelain and brass used for the creation of Porcelain Box?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1918.5.40>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8052,
+    "question": "Had the material oil on canvas used for the creation of Wharf Scene, Gloucester?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1922.9.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8053,
+    "question": "Had the material glass used for the creation of Figurine?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.156>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8054,
+    "question": "Had the material glass used for the creation of Bearded Male Figure Ornament?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.264.35>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8055,
+    "question": "Had the material terra cotta relief on wood base used for the creation of Dunrobin?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.399>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8056,
+    "question": "Had the material drypoint used for the creation of Spider Lake, Wisconsin?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.455>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8057,
+    "question": "Had the material etching on paper used for the creation of Ragpicker's Shop, Florence?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.489>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8058,
+    "question": "Had the material etching and drypoint used for the creation of Iron Men?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.499>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8059,
+    "question": "Had the material etching on paper used for the creation of Shearing Sheep?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.564>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8060,
+    "question": "Had the material etching on paper used for the creation of Legato?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.72>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8061,
+    "question": "Had the material watercolor on ivory used for the creation of Charles Frederick Vogel?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1938.3.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8062,
+    "question": "Had the material drypoint on paper used for the creation of Winter Brook?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1941.6.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8063,
+    "question": "Had the material pencil on paper used for the creation of Sulphur Mt., Yellowstone?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1947.13.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8064,
+    "question": "Had the material oil on canvas used for the creation of Along the Riva?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1948.13.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8065,
+    "question": "Had the material watercolor on ivory used for the creation of Isaac Praul?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1950.4.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8066,
+    "question": "Had the material oil on canvas used for the creation of The Chatelaine?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8067,
+    "question": "Had the material pastel on paper used for the creation of Dream Woman?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.21>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8068,
+    "question": "Had the material pastel on fiberboard used for the creation of Marianne Girard?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.31>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8069,
+    "question": "Had the material oil on canvas used for the creation of Laura at Fifteen?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.50>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8070,
+    "question": "Had the material watercolor on paper used for the creation of Church and Lake?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1952.13.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8071,
+    "question": "Had the material watercolor on paper mounted on fiberboard used for the creation of Resting Musketeer?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1952.13.74>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8072,
+    "question": "Had the material watercolor on ivory used for the creation of Lady with Blue Hair Ribbon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1955.5.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8073,
+    "question": "Had the material watercolor on ivory used for the creation of Member of the Yates Family?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1956.1.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8074,
+    "question": "Had the material oil on fiberboard used for the creation of Furbelows?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1956.10.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8075,
+    "question": "Had the material watercolor on ivory used for the creation of Mordecai Manuel Noah?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1957.11.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8076,
+    "question": "Had the material watercolor on ivory used for the creation of A. Laurason?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1958.5.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8077,
+    "question": "Had the material oil on canvas used for the creation of Study in Auburn?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8078,
+    "question": "Had the material watercolor on ivory used for the creation of Betsy Goodridge?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.9.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8079,
+    "question": "Had the material watercolor on ivory used for the creation of Portrait of a Child?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.9.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8080,
+    "question": "Had the material oil on canvas used for the creation of Young Moravian Girl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1987.32>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8081,
+    "question": "Had the material platinum-palladium print used for the creation of Baton Rouge, Louisiana?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1989.96.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8082,
+    "question": "Had the material oil on canvas used for the creation of Mystic Bird?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.25>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8083,
+    "question": "Had the material pencil and wash on paper mounted on paper used for the creation of First Sight of Alexandria?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.41>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8084,
+    "question": "Had the material pencil on paper used for the creation of Trieste?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.57>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8085,
+    "question": "Had the material pencil and watercolor on paper used for the creation of Turk, Azani?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.78>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8086,
+    "question": "Had the material engraving on paper used for the creation of J.C. Calhoun?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.81>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8087,
+    "question": "Had the material linoleum block used for the creation of Adoration?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.93.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8088,
+    "question": "Had the material gelatin silver print used for the creation of Couple Dancing, New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.15.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8089,
+    "question": "Had the material gelatin silver print used for the creation of Graduation, New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.15.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8090,
+    "question": "Had the material pencil on paper used for the creation of Pickle Eater of the Nile?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.66.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8091,
+    "question": "Had the material selenium-toned gelatin silver print used for the creation of Worth Street, Facing West?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.16.27>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8092,
+    "question": "Had the material selenium-toned gelatin silver print used for the creation of From the Pompidou?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.16.46>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8093,
+    "question": "Had the material color collagraph and embossing on paper used for the creation of The White Necklace?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.39.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8094,
+    "question": "Had the material hand-built, soft slab-constructed, coiled, underglazed, glazed, and painted clay used for the creation of Monkey and Lizard?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.54.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8095,
+    "question": "Had the material gelatin silver print used for the creation of Jet Age?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.72.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8096,
+    "question": "Had the material lithograph on paper used for the creation of Family Doctor?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.115.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8097,
+    "question": "Had the material platinum print used for the creation of Harold and His Mother?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.64>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8098,
+    "question": "Had the material hand-built and painted poplar, basswood, metal, and gold foil with oil-based glaze used for the creation of G.W. Cabinet?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1995.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8099,
+    "question": "Had the material hand-made print executed on an office copier used for the creation of Fruit in a Bowl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1995.81>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8100,
+    "question": "Had the material wood engraving used for the creation of The Causeway?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1995.90.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8101,
+    "question": "Had the material dye transfer print used for the creation of Bullet and Apple?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.99.67.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8102,
+    "question": "Had the material lithograph on paper used for the creation of Champagne?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.108.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8103,
+    "question": "Had the material gelatin silver print used for the creation of Georges Carpentier with dog?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.118.42>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8104,
+    "question": "Had the material fired micaceous clay used for the creation of Micaceous Pot?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.124.179>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8105,
+    "question": "Had the material purpleheart, holly, rosewoods, ebony, and pink ivory used for the creation of Akbar's Accession?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.12A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8106,
+    "question": "Had the material stoneware and porcelain used for the creation of Split Encounter?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.89>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8107,
+    "question": "Had the material etching and aquatint on paper used for the creation of Passion Flower?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.115.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8108,
+    "question": "Had the material gelatin silver print used for the creation of White man on wagon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.120.30>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8109,
+    "question": "Had the material digital print used for the creation of Two Magnolias?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.157>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8110,
+    "question": "Had the material earthenware used for the creation of Drum with Reptile Motif?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8111,
+    "question": "Had the material watercolor on ivory used for the creation of Mr. Tredwell?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.27.50.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8112,
+    "question": "Had the material still life of cast pÃÂ¢te-de verre bottle forms in white-grey used for the creation of Two Bottles?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.57.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8113,
+    "question": "Had the material carved and painted wood, brass sheet, painted ferrous tack eyes, ferrous eye hook, and painted lead weight used for the creation of Pollywog Decoy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.67.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8114,
+    "question": "Had the material oil on canvas used for the creation of Mount Chocorua?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.81>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8115,
+    "question": "Had the material flameworked glass used for the creation of Hermit Crab?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.26.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8116,
+    "question": "Had the material sterling silver and 18k gold used for the creation of Silver/Gold Container?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.41.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8117,
+    "question": "Had the material pencil, colored pencil and crayon on paper used for the creation of Deep Six?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.43.57>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8118,
+    "question": "Had the material salted paper print with applied color used for the creation of Gentleman in Masonic Collar?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.47.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8119,
+    "question": "Had the material glazed porcelain used for the creation of Tea Bowl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.64.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8120,
+    "question": "Had the material color woodcut on paper used for the creation of Eagle Peak Trail?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.76.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8121,
+    "question": "Had the material woodblock (Ukiyo-e) on paper used for the creation of Shoji?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.79.38>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8122,
+    "question": "Had the material aquatint, spit bite and sugarlift on paper used for the creation of Wall of Light Blue?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.79.78>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8123,
+    "question": "Had the material color lithograph used for the creation of Witch Doctor?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.26.42>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8124,
+    "question": "Had the material photographic print with applied color used for the creation of Boy with Stuffed Rabbit?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.48.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8125,
+    "question": "Had the material watercolor on paper used for the creation of Still Life with Menu?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.36>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8126,
+    "question": "Had the material pencil on paper used for the creation of Beni Hasan?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.306>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8127,
+    "question": "Had the material acrylic on canvas used for the creation of Dalles Dam, Evening?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.6.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8128,
+    "question": "Had the material gouache on paper used for the creation of Wyoming?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.92.71>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8129,
+    "question": "Had the material carved and painted assemblage, bottlecaps, flashcube, fiberboard, and plastic used for the creation of Bottlecap Lion?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.74.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8130,
+    "question": "Had the material ink jet print used for the creation of Ashes in the Wind?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1989.99B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8131,
+    "question": "Had the material gelatin silver print used for the creation of Cold Day on Cherry Street?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.19.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8132,
+    "question": "Had the material oil on canvas used for the creation of Breaking Down the Wild Horse?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.501>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8133,
+    "question": "Had the material color lithograph on paper used for the creation of Reflection with Rugs?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.179.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8134,
+    "question": "Had the material watercolor on paper used for the creation of Side Door?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8135,
+    "question": "Had the material color woodcut on paper used for the creation of Jazz - the New Possession?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8136,
+    "question": "Had the material gold painted blown glass and silicone used for the creation of Siegfried Kills Fafner?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.159>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8137,
+    "question": "Had the material pencil on paper mounted on paperboard used for the creation of Portrait of Waldo Pierce?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.804>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8138,
+    "question": "Had the material oil on canvas used for the creation of Le Piano?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.18.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8139,
+    "question": "Had the material oil on wood used for the creation of St. Germain des Pres?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.19.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8140,
+    "question": "Had the material wood, masonite, plastic, acrylic and plexiglass used for the creation of Construction in White?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.50>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8141,
+    "question": "Had the material pencil on paper used for the creation of Sorrows of Departure?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.90.33>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8142,
+    "question": "Had the material drypoint on paper used for the creation of Rabbi Newman, San Francisco?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.21.27>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8143,
+    "question": "Had the material lithograph on paper used for the creation of Circuit Rider?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.50.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8144,
+    "question": "Had the material color linoleum cut on paper used for the creation of Grandpa's Barn?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.194>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8145,
+    "question": "Had the material watercolor on paper used for the creation of Gilia linanthus parviflorus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.111>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8146,
+    "question": "Had the material watercolor on paper used for the creation of Conradina verticillata?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.314>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8147,
+    "question": "Had the material watercolor on paper used for the creation of Viola palustris?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.65>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8148,
+    "question": "Had the material lithograph on paper used for the creation of Rendezvous?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.37.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8149,
+    "question": "Had the material lithograph on paper used for the creation of Frisky Day?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.90>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8150,
+    "question": "Had the material pen and ink on paper: tracing used for the creation of Tail Piece?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.106>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8151,
+    "question": "Had the material etching on paper used for the creation of Old Dominy House?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.219>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8152,
+    "question": "Had the material etching on paper used for the creation of The Village Elms, Easthampton?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.221>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8153,
+    "question": "Had the material etching used for the creation of Cortigiana?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.252>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8154,
+    "question": "Had the material color lithograph used for the creation of Sacrifice of Isaac?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.291.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8155,
+    "question": "Had the material color lithograph used for the creation of Footprint?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.32>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8156,
+    "question": "Had the material etching on paper used for the creation of House in Nantes?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.364.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8157,
+    "question": "Had the material screenprint used for the creation of Stanislaus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.372.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8158,
+    "question": "Had the material etching used for the creation of Tide Rip?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.392>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8159,
+    "question": "Had the material pencil used for the creation of Horse's Anatomy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8160,
+    "question": "Had the material pencil used for the creation of Nude Studies, Bell?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.72A%2CB>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8161,
+    "question": "Had the material watercolor on paper used for the creation of Land's End?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.447.48>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8162,
+    "question": "Had the material gouache on paperboard used for the creation of Brick Kiln?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.447.70>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8163,
+    "question": "Had the material cast plaster on plaster base used for the creation of Franklin (half-scale model)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.449.3A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8164,
+    "question": "Had the material bronze used for the creation of Souvenez-Vous, obverse?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.167.66A>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8165,
+    "question": "Had the material lithograph used for the creation of Supplies for Suburbia?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.175>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8166,
+    "question": "Had the material etching used for the creation of A Scouting Party?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.85.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8167,
+    "question": "Had the material lithograph used for the creation of Freeway?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.113>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8168,
+    "question": "Had the material pencil on paper mounted on paper used for the creation of Santa Maria della Salute?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8169,
+    "question": "Had the material drypoint on paper used for the creation of Venetian Moonlight?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.125>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8170,
+    "question": "Had the material etching on paper used for the creation of Mounette?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.136>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8171,
+    "question": "Had the material etching on paper used for the creation of The Lake of Bolsena, Italy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.159>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8172,
+    "question": "Had the material wood engraving on paper used for the creation of Lying in Wait?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8173,
+    "question": "Had the material photomechanical wood engraving on paper used for the creation of Mrs. O'Connor?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.210>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8174,
+    "question": "Had the material wood engraving on paper used for the creation of Mrs. Thomas Robins?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.260>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8175,
+    "question": "Had the material wood engraving on paper used for the creation of German Lady?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.274>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8176,
+    "question": "Had the material photomechanical wood engraving on paper used for the creation of Setting a Beaver Trap?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.31>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8177,
+    "question": "Had the material terra cotta used for the creation of Decay?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.163.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8178,
+    "question": "Had the material oil on canvas used for the creation of Scapa Evening?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.19>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8179,
+    "question": "Had the material charcoal and pencil on paper used for the creation of Window Shopper?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.179>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8180,
+    "question": "Had the material charcoal and crayon on paper used for the creation of Roadmaking?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.222>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8181,
+    "question": "Had the material watercolor on paper mounted on paper used for the creation of Central Park Plaza?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.251>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8182,
+    "question": "Had the material etching on paper used for the creation of Small Town, Main Street?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.375>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8183,
+    "question": "Had the material wood engraving on paper used for the creation of The Sculptor?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.38.96>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8184,
+    "question": "Had the material color intaglio on paper used for the creation of Blue L Jungle?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.40>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8185,
+    "question": "Had the material oil on wood used for the creation of Terminal Figure of Ceres?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.69.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8186,
+    "question": "Had the material watercolor and pencil on paper used for the creation of Zoltan Hecht?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.82.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8187,
+    "question": "Had the material watercolor on ivory used for the creation of Le Duc de Liancourt?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.87>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8188,
+    "question": "Had the material lithograph on paper used for the creation of Bunraku?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.12.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8189,
+    "question": "Had the material glazed stoneware and wood used for the creation of Covered Jar with Spoon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.129A-C>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8190,
+    "question": "Had the material cattlebone used for the creation of Set of Two Crochet Hooks?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.166A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8191,
+    "question": "Had the material woodcut on paper used for the creation of Goat and Cottage?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.3.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8192,
+    "question": "Had the material drypoint and aquatint on paper used for the creation of Pop's Tavern?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.7.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8193,
+    "question": "Had the material lithograph on paper mounted on paperboard used for the creation of December Trees?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.83.23>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8194,
+    "question": "Had the material etching and soft-ground on paper used for the creation of Church on a Hill?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.83.54>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8195,
+    "question": "Had the material oil on fabric: canvas mounted on fiberboard used for the creation of Sketch of Tasha Tudor?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.89.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8196,
+    "question": "Had the material lithograph on paper used for the creation of Girders and Lights?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.11.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8197,
+    "question": "Had the material color lithograph on paper used for the creation of Power Play?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.14.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8198,
+    "question": "Had the material walnut on wood base used for the creation of Nude in Wood?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.141>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8199,
+    "question": "Had the material etching on paper used for the creation of Old Florence?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.20.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8200,
+    "question": "Had the material oil and charcoal on fiberboard used for the creation of Profile and Hat?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.159.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8201,
+    "question": "Had the material watercolor, ink and pencil on paperboard used for the creation of Bird with Red Snake?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.144.38>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8202,
+    "question": "Had the material lithograph on paper used for the creation of Off Shore?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.102>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8203,
+    "question": "Had the material ink used for the creation of In Old Mexico?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.375>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8204,
+    "question": "Had the material etching used for the creation of Market in Prague?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.119>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8205,
+    "question": "Had the material bronze used for the creation of Sculpture of a Bather?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.124.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8206,
+    "question": "Had the material watercolor used for the creation of Rocky Mesa?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.133.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8207,
+    "question": "Had the material oil on canvas used for the creation of Victime?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.137.34>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8208,
+    "question": "Had the material bronze used for the creation of Where the Trail Forks?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.122>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8209,
+    "question": "Had the material ink used for the creation of Study for Gargoyle in Flames?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.153.19>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8210,
+    "question": "Had the material color lithograph on paper used for the creation of Two Beds?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.154.75>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8211,
+    "question": "Had the material color etching on paper used for the creation of Smithsonian Castle?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.168>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8212,
+    "question": "Had the material porcelain used for the creation of Brown Florentine Bowl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.81>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8213,
+    "question": "Had the material lithograph on paper used for the creation of Red Tea House, Tajikistan?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.59.24>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8214,
+    "question": "Had the material oil on canvas used for the creation of After the Bath?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.83.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8215,
+    "question": "Had the material chromogenic print used for the creation of Chestnut Tree, West Virginia?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.57>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8216,
+    "question": "Had the material kingwood used for the creation of Armored Crab?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.60.33>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8217,
+    "question": "Had the material manzanita burl used for the creation of Vase with Duckbill Handle?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.60.35>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8218,
+    "question": "Had the material algerita burl used for the creation of Algerita Family?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.60.48A-C>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8219,
+    "question": "Had the material ebony, 18k gold, pearls, and imperial topaz used for the creation of Ode to Today?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.60.7A-C>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8220,
+    "question": "Had the material screenprint on canvas used for the creation of Illuminated Evangelists?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.62A-D>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8221,
+    "question": "Had the material color etching used for the creation of Scarecrow?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.68.31>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8222,
+    "question": "Had the material etching used for the creation of Animal Music for the Spheres?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.68.67>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8223,
+    "question": "Had the material monotype and chine collÃÂ© on paper used for the creation of Column of Leaves?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.77>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8224,
+    "question": "Had the material woodcut on paper used for the creation of Diomatic?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.16.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8225,
+    "question": "Had the material woodcut on paper used for the creation of Realm of the Ellipse?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.17.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8226,
+    "question": "Had the material vintage gelatin silver print used for the creation of Mt. Rushmore?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.18.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8227,
+    "question": "Had the material chromolithograph used for the creation of Scene, Indian River, Florida?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.29.69>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8228,
+    "question": "Had the material aquatint on paper used for the creation of Dark Fold?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.7.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8229,
+    "question": "Had the material oil on canvas used for the creation of Industrial Cottage?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.25A-E>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8230,
+    "question": "Had the material linden, acrylic paint, hide glue, stain and lacquer used for the creation of Buckeye?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.31.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8231,
+    "question": "Had the material gelatin silver print used for the creation of Rubenesque?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.6.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8232,
+    "question": "Had the material sugar lift aquatint with color aquatint and spit bite aquatint, soft and hard ground etching, and engraving on Gampi paper chine collÃÂ© used for the creation of Local Calm?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2006.23>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8233,
+    "question": "Had the material gelatin silver print used for the creation of Auragia?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2007.37.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8234,
+    "question": "Had the material sterling silver, shibuichi and 18k gold used for the creation of Shibuichi Bands Fish Set?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2008.39A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8235,
+    "question": "Had the material oil on board used for the creation of DC Waterfront, Maine Avenue?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2009.29>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8236,
+    "question": "Had the material lithograph on paper used for the creation of Long Light?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.11.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8237,
+    "question": "Had the material inkjet print used for the creation of A Night Out with Friends?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.13.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8238,
+    "question": "Had the material oil on canvas used for the creation of John Swanwick?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.16.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8239,
+    "question": "Had the material porcelain and glaze used for the creation of White Lava Glaze Bowl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.36.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8240,
+    "question": "Had the material color woodcut and stencil on paper used for the creation of For the Children?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.37.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8241,
+    "question": "Had the material chromogenic print used for the creation of Winter Bluebirds?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.44.2A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8242,
+    "question": "Had the material bleached maple, paint, dye, stain, and resin used for the creation of The Running?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.50>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8243,
+    "question": "Had the material chromogenic print used for the creation of Salton Sea (Triangle)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.54.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8244,
+    "question": "Had the material chromogenic print used for the creation of Gram in Black, New Hampshire?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.6.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8245,
+    "question": "Had the material 16 mm film, color, silent; 12:00 minutes used for the creation of Drawing Houses?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.15.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8246,
+    "question": "Had the material mixed media used for the creation of Brick Pressing Machine?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8247,
+    "question": "Had the material mixed media used for the creation of Cotton Seed Planter?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.3A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8248,
+    "question": "Had the material oil on canvas used for the creation of The Long Rows?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2012.3.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8249,
+    "question": "Had the material maple veneer on Baltic birch plywood with bungee cord, acrylic paint, wood dyes, and finish used for the creation of Crane Chair?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2012.62A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8250,
+    "question": "Had the material pastel on canvas used for the creation of A Flowered Gown?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.36>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8251,
+    "question": "Had the material drypoint and aquatint used for the creation of Big Drag?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.40>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8252,
+    "question": "Had the material etching on paper used for the creation of No Parking Here Any Time?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.42>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8253,
+    "question": "Had the material bronze used for the creation of Decoy Gang War Victim?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.44.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8254,
+    "question": "Had the material woodcut used for the creation of Shop Sign: Shoe, New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.80.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8255,
+    "question": "Had the material oil on paperboard used for the creation of Ed. Hubbard, American South?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.80.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8256,
+    "question": "Had the material pencil used for the creation of Lavada May?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2014.17.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8257,
+    "question": "Had the material oil on canvas used for the creation of Sasha?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2014.56.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8258,
+    "question": "Had the material pencil on paper used for the creation of Landline Grey?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2015.52.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8259,
+    "question": "Had the material plaster used for the creation of Cross Reference, storyboards?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2015.6.5A-E>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8260,
+    "question": "Had the material wood engraving used for the creation of Il Penseroso?",
+    "entity":  "<http://data.americanart.si.edu/object/id/XX75>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8261,
+    "question": "Had the material engraving on paper used for the creation of Hitchhiker, Iowa?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.63.384>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8262,
+    "question": "Had the material porcelain used for the creation of Door County, Wisconsin, Night?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.63.824>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8263,
+    "question": "Had the material gelatin silver print used for the creation of Kermit?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.63.920>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8264,
+    "question": "Had the material gelatin silver print used for the creation of Rocking Pot?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.79>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8265,
+    "question": "Had the material lithograph used for the creation of In the Meadows at Windsor?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.168>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8266,
+    "question": "Had the material intaglio used for the creation of Mouth of the Arno?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.86>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8267,
+    "question": "Had the material sanguine chalk used for the creation of Tired Hitchhiker?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.90.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8268,
+    "question": "Had the material oil on canvas used for the creation of Experience Meeting, Massydony?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.90.183>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8269,
+    "question": "Had the material oil on canvas used for the creation of Hi-Boy Donut Shop?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.107.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8270,
+    "question": "Had the material oil on canvas used for the creation of Into the Valley?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.113.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8271,
+    "question": "Had the material earthenware used for the creation of Black Fighter?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.15.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8272,
+    "question": "Had the material screenprint used for the creation of Cleavage?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.28.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8273,
+    "question": "Had the material oil on canvas used for the creation of La Puerta del Sol?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.69.30>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8274,
+    "question": "Had the material ink on paper used for the creation of The Desert?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.69.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8275,
+    "question": "Had the material woodcut used for the creation of Pete Exline, Spokane?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.97.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8276,
+    "question": "Had the material screenprint and watercolor used for the creation of Design for Living?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.40.16>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8277,
+    "question": "Had the material woodcut on paper used for the creation of Activity?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.65.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8278,
+    "question": "Had the material color etching used for the creation of Osage Scalp Dance?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.248%2C930>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8279,
+    "question": "Had the material oil on canvas used for the creation of The Old Warehouse, Sitka?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.326%2C802>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8280,
+    "question": "Had the material oil on canvas used for the creation of Forest and Native House?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.328%2C266>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8281,
+    "question": "Had the material oil on paperboard used for the creation of Indian Hunting Buffalo?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.362%2C158>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8282,
+    "question": "Had the material color woodcut used for the creation of Andrew John?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.403%2C430>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8283,
+    "question": "Had the material oil on fiberboard used for the creation of Radio Broadcast?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1964.1.66>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8284,
+    "question": "Had the material watercolor on paper used for the creation of South of Lincoln Square?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1964.1.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8285,
+    "question": "Had the material lithograph used for the creation of Potato Gleaners?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.14.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8286,
+    "question": "Had the material crayon and ink used for the creation of Concave-Casqued Hornbill?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.16.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8287,
+    "question": "Had the material oil on canvas used for the creation of Carnegie Corporation Ashtray?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.16.59>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8288,
+    "question": "Had the material pastel on fiberboard used for the creation of Oyster Shuckers?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.18.42>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8289,
+    "question": "Had the material etching used for the creation of Noble Numbers?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.20>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8290,
+    "question": "Had the material oil on canvas used for the creation of Blacksmith Shop Interior?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.21.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8291,
+    "question": "Had the material stencil cut used for the creation of Ladies of the Evening?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.31.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8292,
+    "question": "Had the material drypoint used for the creation of Area Broken by Perpendiculars?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.39.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8293,
+    "question": "Had the material etching used for the creation of Bellerophon and Pegasus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.47.58>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8294,
+    "question": "Had the material bronze used for the creation of Ball Play (La Crosse)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.48.69>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8295,
+    "question": "Had the material acrylic on canvas used for the creation of Man, Woman, Dog and Stag?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.14.47>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8296,
+    "question": "Had the material etching used for the creation of Doe and Fawn?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.50.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8297,
+    "question": "Had the material lithograph on paper used for the creation of Woman in Calico?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.1014>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8298,
+    "question": "Had the material gelatin silver print used for the creation of Dockyard?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.154>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8299,
+    "question": "Had the material gelatin silver print used for the creation of Man in a Blue Suit?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.328>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8300,
+    "question": "Had the material pencil on paper used for the creation of Domed Building with Flags?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.421>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8301,
+    "question": "Had the material color etching used for the creation of Harbor Scene, Norway?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.574R-V>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8302,
+    "question": "Had the material oil on canvas used for the creation of Nude Man and Woman?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.575>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8303,
+    "question": "Had the material plaster/cast/painted used for the creation of Blind Musician?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.670>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8304,
+    "question": "Had the material drawing used for the creation of Old Street?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.59.839>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8305,
+    "question": "Had the material lithograph on paper used for the creation of Female Nude before Mirror?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.63.189>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8306,
+    "question": "Had the material lithograph used for the creation of C.W.A. Worker at Key Bridge?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.192>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8307,
+    "question": "Had the material oil on canvas used for the creation of Mother Leopard?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.235>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8308,
+    "question": "Had the material acrylic on canvas used for the creation of Portrait of Nathaniel Searle?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.125>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8309,
+    "question": "Had the material watercolor on paper used for the creation of A Tribute to Julius Forstmann?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.591>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8310,
+    "question": "Had the material bronze used for the creation of The Cornfield?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1909.7.55>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8311,
+    "question": "Had the material watercolor on paper used for the creation of Sheepyard, Moonlight?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1909.7.71>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8312,
+    "question": "Had the material mixed media used for the creation of A Homeless Victim of War?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1915.11.28>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8313,
+    "question": "Had the material oil on fiberboard used for the creation of Classical Subject?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1915.11.60>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8314,
+    "question": "Had the material oil on canvas used for the creation of Champ Clark?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.12.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8315,
+    "question": "Had the material gelatin silver print used for the creation of Supremacy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.6.17>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8316,
+    "question": "Had the material plaster/painted used for the creation of Ancient Seaport?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.6.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8317,
+    "question": "Had the material oil on canvas used for the creation of Ointment Jar?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.157.41>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8318,
+    "question": "Had the material lithograph used for the creation of Victory Wreath?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.185.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8319,
+    "question": "Had the material gelatin silver print used for the creation of Boxed Totem?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.65.315A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8320,
+    "question": "Had the material pastel on paper used for the creation of The Spectral Attitudes?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.92.62>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8321,
+    "question": "Had the material lithograph on paper used for the creation of A Tree Study?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1930.12.55>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8322,
+    "question": "Had the material conte crayon used for the creation of The Shaded Walk?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1930.12.65>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8323,
+    "question": "Had the material gelatin silver print used for the creation of The Edge of the Forest?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8324,
+    "question": "Had the material collotype used for the creation of Provincetown, Mass.?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.184>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8325,
+    "question": "Had the material oil on canvas used for the creation of In Exile?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.191>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8326,
+    "question": "Had the material oil on canvas used for the creation of Little Peasant Girl?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.198>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8327,
+    "question": "Had the material watercolor used for the creation of Lauhala?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.202>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8328,
+    "question": "Had the material gelatin silver print used for the creation of The Beginning?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.347>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8329,
+    "question": "Had the material gelatin silver print used for the creation of Cour du Dragon, Paris?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.400>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8330,
+    "question": "Had the material watercolor on paper used for the creation of The Voices of the Dunes?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.415>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8331,
+    "question": "Had the material gelatin silver print used for the creation of Valley of the Swiftcurrent?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.566>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8332,
+    "question": "Had the material engraving on paper used for the creation of Old Paris: Au Bacchus d'Or?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1941.6.31>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8333,
+    "question": "Had the material etching used for the creation of Field Sketch of Rocky Canyon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1947.13.46>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8334,
+    "question": "Had the material fired micaceous clay used for the creation of Sir Guy Carelton?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1950.4.20>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8335,
+    "question": "Had the material etching on paper used for the creation of George Partridge Richardson?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1950.4.25>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8336,
+    "question": "Had the material etching on paper used for the creation of Natalie at Seven?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.73>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8337,
+    "question": "Had the material lithograph on paper used for the creation of Study of a Seated Woman?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.89>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8338,
+    "question": "Had the material wood engraving used for the creation of Ballerine?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1952.13.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8339,
+    "question": "Had the material etching used for the creation of Snowballs?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1952.13.91>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8340,
+    "question": "Had the material etching on paper used for the creation of Irish Gentleman?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1956.11.25>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8341,
+    "question": "Had the material color etching used for the creation of Watching?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1958.11.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8342,
+    "question": "Had the material pencil on paper used for the creation of Mr. Cass Gilbert?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1962.13.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8343,
+    "question": "Had the material pastel on canvas used for the creation of Filly and Colt?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1964.1.43>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8344,
+    "question": "Had the material gelatin silver print used for the creation of Cotopaxi?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8345,
+    "question": "Had the material oil on canvas used for the creation of Buffalo, Gulf of Nicomedia?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.55>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8346,
+    "question": "Had the material gelatin silver print used for the creation of Water Carrier, Venice?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.83>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8347,
+    "question": "Had the material algerita burl used for the creation of Carolina?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.6.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8348,
+    "question": "Had the material drypoint on paper used for the creation of Primeval Family?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.6.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8349,
+    "question": "Had the material oil on canvas used for the creation of Street with Red House?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.7.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8350,
+    "question": "Had the material oil on canvas used for the creation of Dye drop?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.89.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8351,
+    "question": "Had the material acrylic on canvas used for the creation of Mothers of Jazz?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.99>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8352,
+    "question": "Had the material pencil on paper used for the creation of Ban the A-Bomb?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.16.30>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8353,
+    "question": "Had the material glass used for the creation of Black Dice?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.31.1A-I>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8354,
+    "question": "Had the material linoleum block used for the creation of The Three Chickens?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.39.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8355,
+    "question": "Had the material watercolor on ivory used for the creation of Island in Moonlight?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.47.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8356,
+    "question": "Had the material gelatin silver print used for the creation of Austin, Nevada?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.132>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8357,
+    "question": "Had the material glass used for the creation of Red Robin?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1995.82.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8358,
+    "question": "Had the material oil on canvas used for the creation of Chatham House, Charlotte, NC?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.122.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8359,
+    "question": "Had the material enamel on copper used for the creation of Accident?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.124.33>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8360,
+    "question": "Had the material watercolor used for the creation of Hats On?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.122.3A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8361,
+    "question": "Had the material acrylic on canvas used for the creation of Dining Chair?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.82>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8362,
+    "question": "Had the material etching on paper used for the creation of Miss America Beauty Pageant?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.84.66>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8363,
+    "question": "Had the material oil on canvas used for the creation of Medicine Wheel, Wyoming?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.18>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8364,
+    "question": "Had the material gelatin silver print used for the creation of Round Bottom?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.41.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8365,
+    "question": "Had the material stoneware and glaze used for the creation of Two Sisters with Doll?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.47.45>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8366,
+    "question": "Had the material low-fired clay used for the creation of Diviners?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.87>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8367,
+    "question": "Had the material pencil on paper used for the creation of Remains of Lock, Millville?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.80.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8368,
+    "question": "Had the material lithograph on paper used for the creation of Another Way to Leave a Room?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.81.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8369,
+    "question": "Had the material lithograph with hand-coloring used for the creation of Artist's Palette?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.85.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8370,
+    "question": "Had the material ink used for the creation of View of Artist's Home?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.8.23>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8371,
+    "question": "Had the material gelatin silver print used for the creation of Tattoo Artist in Person?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.65.157>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8372,
+    "question": "Had the material oil on canvas used for the creation of Standing Articulated Figure?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.65.278>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8373,
+    "question": "Had the material aquatint on paper used for the creation of Paisaja Antillano?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.157.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8374,
+    "question": "Had the material screenprint used for the creation of Lou (Salve Tu Donnine)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.155.144>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8375,
+    "question": "Had the material silver used for the creation of Yellow Moon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.81.27>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8376,
+    "question": "Had the material pencil on paper used for the creation of Jardin du Luxembourg?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8377,
+    "question": "Had the material lithograph used for the creation of Castle of Corfu?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.346>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8378,
+    "question": "Had the material drawing used for the creation of Sketch of Reclining Cats?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.16.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8379,
+    "question": "Had the material watercolor on paper used for the creation of Landscape with Perspective?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.6.91>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8380,
+    "question": "Had the material watercolor on ivory used for the creation of Temple at Thebes, Egypt?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.313>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8381,
+    "question": "Had the material chromogenic print used for the creation of White Tanks?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.81.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8382,
+    "question": "Had the material bronze used for the creation of Shells, Buoys and Bottle?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.92.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8383,
+    "question": "Had the material lithograph on paper used for the creation of Will o' the Wisp?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1987.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8384,
+    "question": "Had the material platinum print used for the creation of Numerals?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.18.18>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8385,
+    "question": "Had the material handsplit white oak used for the creation of Christ and the Pharisees?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.70.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8386,
+    "question": "Had the material glazed earthenware used for the creation of Sea Wall?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.277>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8387,
+    "question": "Had the material lithograph used for the creation of Fish Peddler?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.54>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8388,
+    "question": "Had the material lithograph on paper used for the creation of Every Knee Must Bend?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8389,
+    "question": "Had the material oil on canvas used for the creation of Rolling Stone Farm?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.26>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8390,
+    "question": "Had the material woodcut used for the creation of Study for Conflict?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.384>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8391,
+    "question": "Had the material mixed media used for the creation of Design for Carving?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.48>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8392,
+    "question": "Had the material oil on canvas used for the creation of Elizabeth Gibson Powers?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.30>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8393,
+    "question": "Had the material color woodcut used for the creation of William H. King?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.71>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8394,
+    "question": "Had the material platinum-palladium print used for the creation of Child Reading?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.19.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8395,
+    "question": "Had the material color lithograph used for the creation of Bundler?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.22.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8396,
+    "question": "Had the material oil on paperboard used for the creation of Artists on WPA?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.61>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8397,
+    "question": "Had the material collagraph on paper used for the creation of Choir Boy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.88.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8398,
+    "question": "Had the material acrylic on canvas used for the creation of Subway Bootblack?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.98.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8399,
+    "question": "Had the material crayon and ink used for the creation of Public Building?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.98.44>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8400,
+    "question": "Had the material plaster used for the creation of Provincetown Bacchanalia?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.99>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8401,
+    "question": "Had the material pastel on canvas used for the creation of Girl in White?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.147>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8402,
+    "question": "Had the material oil on canvas used for the creation of Spanish Senorita?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.192.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8403,
+    "question": "Had the material oil on canvas used for the creation of Plodding Homeward?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.26.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8404,
+    "question": "Had the material charcoal on vellum used for the creation of Tricyclist?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.29>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8405,
+    "question": "Had the material screenprint on paper used for the creation of Orion in December?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.47.53>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8406,
+    "question": "Had the material monotype used for the creation of Plainsman's Dream?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.50.14>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8407,
+    "question": "Had the material oil on canvas used for the creation of Esther?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.9.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8408,
+    "question": "Had the material oil on canvas used for the creation of Moss Pink (Phlox subulate)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.256>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8409,
+    "question": "Had the material oil on burlap used for the creation of Alpine Fir (Abies lasiocarpa)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.357>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8410,
+    "question": "Had the material drawing used for the creation of America/Abundance?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.121>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8411,
+    "question": "Had the material lithograph used for the creation of The Lobster Fisherman?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.328>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8412,
+    "question": "Had the material gelatin silver print used for the creation of Riverside Church, New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.387>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8413,
+    "question": "Had the material etching on paper used for the creation of Melancholia?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.439.52>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8414,
+    "question": "Had the material oil on canvas used for the creation of Legs of the Sea?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.73>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8415,
+    "question": "Had the material glass used for the creation of O'Hara Reading?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.76>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8416,
+    "question": "Had the material watercolor on ivory used for the creation of Spirit of Christmas?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.88>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8417,
+    "question": "Had the material linoleum block used for the creation of The Black Hat?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8418,
+    "question": "Had the material etching on paper used for the creation of Boar Hunt?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.167.76>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8419,
+    "question": "Had the material watercolor on ivory used for the creation of Squatting Polar Bear?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.167.89>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8420,
+    "question": "Had the material cattlebone used for the creation of The Trench?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.74.36>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8421,
+    "question": "Had the material ink on paper used for the creation of Christmas Greens?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.84.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8422,
+    "question": "Had the material bronze used for the creation of Emperor of Norfolk?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.122.21>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8423,
+    "question": "Had the material lithograph on paper used for the creation of Les Moulins Stucky, Venice?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.167>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8424,
+    "question": "Had the material oil on canvas used for the creation of Port du Bec, Vendee?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.178>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8425,
+    "question": "Had the material watercolor on paper used for the creation of Le Mas Despres, Foissac?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.28>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8426,
+    "question": "Had the material etching used for the creation of Beach in Normandy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.124.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8427,
+    "question": "Had the material oil on canvas used for the creation of Early Spring in Bidwell Park?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.21.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8428,
+    "question": "Had the material linoleum cut block used for the creation of King's Folly?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.121>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8429,
+    "question": "Had the material porcelain used for the creation of Theatre?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.191>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8430,
+    "question": "Had the material oil on canvas used for the creation of Bookkeeper?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.197>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8431,
+    "question": "Had the material oil on paperboard used for the creation of Roslyn?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.21>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8432,
+    "question": "Had the material watercolor on paper used for the creation of Boy Sitting on Cot?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.318>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8433,
+    "question": "Had the material pencil on paper used for the creation of The Russian Fair?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.38.114>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8434,
+    "question": "Had the material gelatin silver print used for the creation of Room for One More?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.38.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8435,
+    "question": "Had the material engraving used for the creation of A Box at Minsky's?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.38.88>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8436,
+    "question": "Had the material glass mosaic used for the creation of Modigliani Gate Post?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.69.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8437,
+    "question": "Had the material drypoint used for the creation of Gen. John Gibbon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.88.18>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8438,
+    "question": "Had the material woodcut on paper used for the creation of Grey Night Phenomenon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.92.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8439,
+    "question": "Had the material oil on canvas used for the creation of Torque?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.108.150>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8440,
+    "question": "Had the material watercolor on ivory used for the creation of Ouray?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.108.40>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8441,
+    "question": "Had the material drypoint used for the creation of Small Gull Sleeping?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.145.28>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8442,
+    "question": "Had the material drawing used for the creation of Samuel Hall Gregory?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.55>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8443,
+    "question": "Had the material painted plaster used for the creation of Borghese Gardens?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.48.24>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8444,
+    "question": "Had the material lithograph on paper used for the creation of Lodgings for the Night?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.66.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8445,
+    "question": "Had the material drypoint used for the creation of Lower New York?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.66.82>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8446,
+    "question": "Had the material watercolor on ivory used for the creation of Yellow and Gray?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.128>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8447,
+    "question": "Had the material pencil on paper used for the creation of Major General Lee?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.152.28>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8448,
+    "question": "Had the material etching used for the creation of Aerodynamics?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.39.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8449,
+    "question": "Had the material etching used for the creation of Maquette for Southern Wall?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.159.33>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8450,
+    "question": "Had the material bronze/cast electrotype used for the creation of Laokoon (Contrasting Rhythms)?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.29.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8451,
+    "question": "Had the material color lithograph used for the creation of Circus Moon?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.76.31>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8452,
+    "question": "Had the material oil on canvas used for the creation of Corner of Fortress?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.76.42>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8453,
+    "question": "Had the material pencil on paper used for the creation of Driver's Seat?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.80.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8454,
+    "question": "Had the material etching used for the creation of Along the Cimarron?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.178>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8455,
+    "question": "Had the material lithograph on paper used for the creation of The Wake on the Ferry?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.215>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8456,
+    "question": "Had the material pencil on paper used for the creation of Circus Workers?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.111.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8457,
+    "question": "Had the material lithograph on paper used for the creation of Sage and Cactus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.122.85>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8458,
+    "question": "Had the material dye transfer print used for the creation of Ikarus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.143>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8459,
+    "question": "Had the material etching used for the creation of Foke-luste-hajo, a Seminole?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.44.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8460,
+    "question": "Had the material lithograph on paper used for the creation of Nightbloom?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.66.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8461,
+    "question": "Had the material mixed media used for the creation of Three Rules for Survival?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.84.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8462,
+    "question": "Had the material mixed media used for the creation of Hudson Bridge?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.119.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8463,
+    "question": "Had the material pastel on fiberboard used for the creation of Sidewalk Ballet Master?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.128.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8464,
+    "question": "Had the material color lithograph used for the creation of Nude, Head Thrown Back?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.154.59>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8465,
+    "question": "Had the material acrylic on canvas used for the creation of Landscape and Figures?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.154.77>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8466,
+    "question": "Had the material mixed media used for the creation of The True Mother Goose?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.16.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8467,
+    "question": "Had the material photogravure used for the creation of Encompassed in Purple?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.26.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8468,
+    "question": "Had the material gelatin silver print used for the creation of Buy a Poppy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.59.27>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8469,
+    "question": "Had the material leaded glass used for the creation of The Mink Trapper?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.18.18>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8470,
+    "question": "Had the material lithograph on paper used for the creation of A Garden Path?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.26>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8471,
+    "question": "Had the material lithograph on paper used for the creation of The Forces of Evil?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.46.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8472,
+    "question": "Had the material mixed media used for the creation of Fremont Street, Las Vegas?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.63.1607>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8473,
+    "question": "Had the material etching on paper used for the creation of Don and Cathy?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.63.708>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8474,
+    "question": "Had the material stoneware used for the creation of Jim and Dodge Power Van?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.63.711>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8475,
+    "question": "Had the material oil on paperboard used for the creation of Craig Inside?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.63.724>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8476,
+    "question": "Had the material woodcut used for the creation of Head of a Woman in Jerusalem?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.95.194>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8477,
+    "question": "Had the material sanguine chalk used for the creation of The Wealth of Autumn?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.47>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8478,
+    "question": "Had the material plaster/cast used for the creation of Autumn Vase?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.60.20>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8479,
+    "question": "Had the material screenprint used for the creation of Rejects from the Bat Factory?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.60.56A-F>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8480,
+    "question": "Had the material wood and ivory used for the creation of New World Odder?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.68.23>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8481,
+    "question": "Had the material copper with silver-plating used for the creation of Burden Landscape?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.68.60>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8482,
+    "question": "Had the material tempera on paper used for the creation of Cronus?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.70>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8483,
+    "question": "Had the material screenprint used for the creation of Study for Baits?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.72>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8484,
+    "question": "Had the material photogravure used for the creation of Parlor Cabinet?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.13>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8485,
+    "question": "Had the material drypoint used for the creation of Mary Fletcher?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.15.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8486,
+    "question": "Had the material pencil on paper used for the creation of Something to Think About?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.19>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8487,
+    "question": "Had the material gelatin silver print used for the creation of Utah, Utah Lake?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.29.70>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8488,
+    "question": "Had the material wood used for the creation of The Tap on the Window?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.33.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8489,
+    "question": "Had the material acrylic on paper used for the creation of The Bronco Buster?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.23.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8490,
+    "question": "Had the material sugar maple burl used for the creation of Long Island?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.24.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8491,
+    "question": "Had the material woodcut on paper used for the creation of Ash Leaf Maple?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.31.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8492,
+    "question": "Had the material watercolor on paper used for the creation of Models and Cat Mobile?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8493,
+    "question": "Had the material gelatin silver print used for the creation of Arachne?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8494,
+    "question": "Had the material drypoint used for the creation of Medic Medic?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.29>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8495,
+    "question": "Had the material etching on paper used for the creation of Our Roses?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.43>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8496,
+    "question": "Had the material woodcut on paper
+
+ used for the creation of Canada, U.S.A., Mexico?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.65>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8497,
+    "question": "Had the material watercolor used for the creation of Found Fragment?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.74>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8498,
+    "question": "Had the material limestone used for the creation of The Waltz?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.6.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8499,
+    "question": "Had the material albumen silver print used for the creation of Impediment?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2006.18A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+},
+{
+    "id":8500,
+    "question": "Had the material lithograph on paper used for the creation of Blooming Vessel?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2007.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"material_used",
+    "radius": 1
+}
+]

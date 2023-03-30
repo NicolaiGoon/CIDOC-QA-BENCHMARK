@@ -6,7 +6,9 @@
     "answers": [
       "1937-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 2,
@@ -15,7 +17,9 @@
     "answers": [
       "1992-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 3,
@@ -24,7 +28,9 @@
     "answers": [
       "1852-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 4,
@@ -33,7 +39,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 5,
@@ -42,7 +50,9 @@
     "answers": [
       "1945-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 6,
@@ -51,7 +61,9 @@
     "answers": [
       "1839-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 7,
@@ -60,7 +72,9 @@
     "answers": [
       "1967-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 8,
@@ -69,7 +83,9 @@
     "answers": [
       "1957-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 9,
@@ -78,7 +94,9 @@
     "answers": [
       "2001-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 10,
@@ -87,7 +105,9 @@
     "answers": [
       "1925-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 11,
@@ -96,7 +116,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 12,
@@ -105,7 +127,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 13,
@@ -114,7 +138,9 @@
     "answers": [
       "1978-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 14,
@@ -123,7 +149,9 @@
     "answers": [
       "1934-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 15,
@@ -132,7 +160,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 16,
@@ -141,7 +171,9 @@
     "answers": [
       "1870-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 17,
@@ -150,7 +182,9 @@
     "answers": [
       "1886-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 18,
@@ -159,7 +193,9 @@
     "answers": [
       "1976-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 19,
@@ -168,7 +204,9 @@
     "answers": [
       "1943-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 20,
@@ -177,7 +215,9 @@
     "answers": [
       "1970-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 21,
@@ -186,7 +226,9 @@
     "answers": [
       "1929-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 22,
@@ -195,7 +237,9 @@
     "answers": [
       "1956-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 23,
@@ -204,7 +248,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 24,
@@ -213,7 +259,9 @@
     "answers": [
       "1992-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 25,
@@ -222,7 +270,9 @@
     "answers": [
       "1990-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 26,
@@ -231,7 +281,9 @@
     "answers": [
       "1875-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 27,
@@ -240,7 +292,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 28,
@@ -249,7 +303,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 29,
@@ -258,7 +314,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 30,
@@ -267,7 +325,9 @@
     "answers": [
       "1845-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 31,
@@ -276,7 +336,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 32,
@@ -285,7 +347,9 @@
     "answers": [
       "1934-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 33,
@@ -294,7 +358,9 @@
     "answers": [
       "1933-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 34,
@@ -303,7 +369,9 @@
     "answers": [
       "1968-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 35,
@@ -312,7 +380,9 @@
     "answers": [
       "1951-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 36,
@@ -321,7 +391,9 @@
     "answers": [
       "1837-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 37,
@@ -330,7 +402,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 38,
@@ -339,7 +413,9 @@
     "answers": [
       "1929-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 39,
@@ -348,7 +424,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 40,
@@ -357,7 +435,9 @@
     "answers": [
       "1889-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 41,
@@ -366,7 +446,9 @@
     "answers": [
       "1963-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 42,
@@ -375,7 +457,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 43,
@@ -384,7 +468,9 @@
     "answers": [
       "1946-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 44,
@@ -393,7 +479,9 @@
     "answers": [
       "1921-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 45,
@@ -402,7 +490,9 @@
     "answers": [
       "1988-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 46,
@@ -411,7 +501,9 @@
     "answers": [
       "1982-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 47,
@@ -420,7 +512,9 @@
     "answers": [
       "1980-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 48,
@@ -429,7 +523,9 @@
     "answers": [
       "1939-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 49,
@@ -438,7 +534,9 @@
     "answers": [
       "1967-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 50,
@@ -447,7 +545,9 @@
     "answers": [
       "1886-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 51,
@@ -456,7 +556,9 @@
     "answers": [
       "1957-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 52,
@@ -465,7 +567,9 @@
     "answers": [
       "1942-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 53,
@@ -474,7 +578,9 @@
     "answers": [
       "1986-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 54,
@@ -483,7 +589,9 @@
     "answers": [
       "0050-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 55,
@@ -492,7 +600,9 @@
     "answers": [
       "1911-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 56,
@@ -501,7 +611,9 @@
     "answers": [
       "1987-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 57,
@@ -510,7 +622,9 @@
     "answers": [
       "1764-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 58,
@@ -519,7 +633,9 @@
     "answers": [
       "1891-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 59,
@@ -528,7 +644,9 @@
     "answers": [
       "1973-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 60,
@@ -537,7 +655,9 @@
     "answers": [
       "1956-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 61,
@@ -546,7 +666,9 @@
     "answers": [
       "1989-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 62,
@@ -555,7 +677,9 @@
     "answers": [
       "1909-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 63,
@@ -564,7 +688,9 @@
     "answers": [
       "1980-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 64,
@@ -573,7 +699,9 @@
     "answers": [
       "2006-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 65,
@@ -582,7 +710,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 66,
@@ -591,7 +721,9 @@
     "answers": [
       "1968-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 67,
@@ -600,7 +732,9 @@
     "answers": [
       "2002-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 68,
@@ -609,7 +743,9 @@
     "answers": [
       "1972-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 69,
@@ -618,7 +754,9 @@
     "answers": [
       "1981-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 70,
@@ -627,7 +765,9 @@
     "answers": [
       "1960-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 71,
@@ -636,7 +776,9 @@
     "answers": [
       "1940-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 72,
@@ -645,7 +787,9 @@
     "answers": [
       "1907-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 73,
@@ -654,7 +798,9 @@
     "answers": [
       "1969-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 74,
@@ -663,7 +809,9 @@
     "answers": [
       "1938-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 75,
@@ -672,7 +820,9 @@
     "answers": [
       "1959-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 76,
@@ -681,7 +831,9 @@
     "answers": [
       "1837-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 77,
@@ -690,7 +842,9 @@
     "answers": [
       "1933-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 78,
@@ -699,7 +853,9 @@
     "answers": [
       "1938-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 79,
@@ -708,7 +864,9 @@
     "answers": [
       "1930-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 80,
@@ -717,7 +875,9 @@
     "answers": [
       "1927-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 81,
@@ -726,7 +886,9 @@
     "answers": [
       "1811-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 82,
@@ -735,7 +897,9 @@
     "answers": [
       "1956-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 83,
@@ -744,7 +908,9 @@
     "answers": [
       "1953-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 84,
@@ -753,7 +919,9 @@
     "answers": [
       "1904-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 85,
@@ -762,7 +930,9 @@
     "answers": [
       "1983-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 86,
@@ -771,7 +941,9 @@
     "answers": [
       "1888-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 87,
@@ -780,7 +952,9 @@
     "answers": [
       "1969-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 88,
@@ -789,7 +963,9 @@
     "answers": [
       "1991-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 89,
@@ -798,7 +974,9 @@
     "answers": [
       "1970-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 90,
@@ -807,7 +985,9 @@
     "answers": [
       "1975-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 91,
@@ -816,7 +996,9 @@
     "answers": [
       "1973-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 92,
@@ -825,7 +1007,9 @@
     "answers": [
       "1990-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 93,
@@ -834,7 +1018,9 @@
     "answers": [
       "2008-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 94,
@@ -843,7 +1029,9 @@
     "answers": [
       "1995-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 95,
@@ -852,7 +1040,9 @@
     "answers": [
       "1916-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 96,
@@ -861,7 +1051,9 @@
     "answers": [
       "2005-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 97,
@@ -870,7 +1062,9 @@
     "answers": [
       "1844-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 98,
@@ -879,7 +1073,9 @@
     "answers": [
       "1978-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 99,
@@ -888,7 +1084,9 @@
     "answers": [
       "1970-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 100,
@@ -897,7 +1095,9 @@
     "answers": [
       "1967-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 101,
@@ -906,7 +1106,9 @@
     "answers": [
       "1835-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 102,
@@ -915,7 +1117,9 @@
     "answers": [
       "1870-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 103,
@@ -924,7 +1128,9 @@
     "answers": [
       "1906-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 104,
@@ -933,7 +1139,9 @@
     "answers": [
       "1895-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 105,
@@ -942,7 +1150,9 @@
     "answers": [
       "1980-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 106,
@@ -951,7 +1161,9 @@
     "answers": [
       "1924-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 107,
@@ -960,7 +1172,9 @@
     "answers": [
       "1933-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 108,
@@ -969,7 +1183,9 @@
     "answers": [
       "1985-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 109,
@@ -978,7 +1194,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 110,
@@ -987,7 +1205,9 @@
     "answers": [
       "2003-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 111,
@@ -996,7 +1216,9 @@
     "answers": [
       "1947-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 112,
@@ -1005,7 +1227,9 @@
     "answers": [
       "1869-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 113,
@@ -1014,7 +1238,9 @@
     "answers": [
       "1933-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 114,
@@ -1023,7 +1249,9 @@
     "answers": [
       "1981-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 115,
@@ -1032,7 +1260,9 @@
     "answers": [
       "1939-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 116,
@@ -1041,7 +1271,9 @@
     "answers": [
       "1970-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 117,
@@ -1050,7 +1282,9 @@
     "answers": [
       "1967-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 118,
@@ -1059,7 +1293,9 @@
     "answers": [
       "1921-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 119,
@@ -1068,7 +1304,9 @@
     "answers": [
       "1934-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 120,
@@ -1077,7 +1315,9 @@
     "answers": [
       "2001-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 121,
@@ -1086,7 +1326,9 @@
     "answers": [
       "1943-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 122,
@@ -1095,7 +1337,9 @@
     "answers": [
       "2001-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 123,
@@ -1104,7 +1348,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 124,
@@ -1113,7 +1359,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 125,
@@ -1122,7 +1370,9 @@
     "answers": [
       "1971-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 126,
@@ -1131,7 +1381,9 @@
     "answers": [
       "1980-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 127,
@@ -1140,7 +1392,9 @@
     "answers": [
       "1914-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 128,
@@ -1149,7 +1403,9 @@
     "answers": [
       "1940-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 129,
@@ -1158,7 +1414,9 @@
     "answers": [
       "1929-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 130,
@@ -1167,7 +1425,9 @@
     "answers": [
       "1974-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 131,
@@ -1176,7 +1436,9 @@
     "answers": [
       "1934-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 132,
@@ -1185,7 +1447,9 @@
     "answers": [
       "1942-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 133,
@@ -1194,7 +1458,9 @@
     "answers": [
       "1967-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 134,
@@ -1203,7 +1469,9 @@
     "answers": [
       "1939-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 135,
@@ -1212,7 +1480,9 @@
     "answers": [
       "1919-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 136,
@@ -1221,7 +1491,9 @@
     "answers": [
       "1897-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 137,
@@ -1230,7 +1502,9 @@
     "answers": [
       "1943-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 138,
@@ -1239,7 +1513,9 @@
     "answers": [
       "1971-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 139,
@@ -1248,7 +1524,9 @@
     "answers": [
       "1981-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 140,
@@ -1257,7 +1535,9 @@
     "answers": [
       "1938-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 141,
@@ -1266,7 +1546,9 @@
     "answers": [
       "1982-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 142,
@@ -1275,7 +1557,9 @@
     "answers": [
       "1912-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 143,
@@ -1284,7 +1568,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 144,
@@ -1293,7 +1579,9 @@
     "answers": [
       "1978-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 145,
@@ -1302,7 +1590,9 @@
     "answers": [
       "1947-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 146,
@@ -1311,7 +1601,9 @@
     "answers": [
       "1926-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 147,
@@ -1320,7 +1612,9 @@
     "answers": [
       "1932-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 148,
@@ -1329,7 +1623,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 149,
@@ -1338,7 +1634,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 150,
@@ -1347,7 +1645,9 @@
     "answers": [
       "1858-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 151,
@@ -1356,7 +1656,9 @@
     "answers": [
       "1872-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 152,
@@ -1365,7 +1667,9 @@
     "answers": [
       "1966-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 153,
@@ -1374,7 +1678,9 @@
     "answers": [
       "1885-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 154,
@@ -1383,7 +1689,9 @@
     "answers": [
       "1940-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 155,
@@ -1392,7 +1700,9 @@
     "answers": [
       "1932-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 156,
@@ -1401,7 +1711,9 @@
     "answers": [
       "1843-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 157,
@@ -1410,7 +1722,9 @@
     "answers": [
       "1915-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 158,
@@ -1419,7 +1733,9 @@
     "answers": [
       "2007-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 159,
@@ -1428,7 +1744,9 @@
     "answers": [
       "1949-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 160,
@@ -1437,7 +1755,9 @@
     "answers": [
       "1964-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 161,
@@ -1446,7 +1766,9 @@
     "answers": [
       "1983-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 162,
@@ -1455,7 +1777,9 @@
     "answers": [
       "1924-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 163,
@@ -1464,7 +1788,9 @@
     "answers": [
       "1902-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 164,
@@ -1473,7 +1799,9 @@
     "answers": [
       "1943-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 165,
@@ -1482,7 +1810,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 166,
@@ -1491,7 +1821,9 @@
     "answers": [
       "1900-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 167,
@@ -1500,7 +1832,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 168,
@@ -1509,7 +1843,9 @@
     "answers": [
       "1906-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 169,
@@ -1518,7 +1854,9 @@
     "answers": [
       "1964-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 170,
@@ -1527,7 +1865,9 @@
     "answers": [
       "1892-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 171,
@@ -1536,7 +1876,9 @@
     "answers": [
       "1988-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 172,
@@ -1545,7 +1887,9 @@
     "answers": [
       "1894-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 173,
@@ -1554,7 +1898,9 @@
     "answers": [
       "2000-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 174,
@@ -1563,7 +1909,9 @@
     "answers": [
       "1937-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 175,
@@ -1572,7 +1920,9 @@
     "answers": [
       "1915-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 176,
@@ -1581,7 +1931,9 @@
     "answers": [
       "1930-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 177,
@@ -1590,7 +1942,9 @@
     "answers": [
       "1966-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 178,
@@ -1599,7 +1953,9 @@
     "answers": [
       "1947-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 179,
@@ -1608,7 +1964,9 @@
     "answers": [
       "1979-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 180,
@@ -1617,7 +1975,9 @@
     "answers": [
       "1895-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 181,
@@ -1626,7 +1986,9 @@
     "answers": [
       "1965-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 182,
@@ -1635,7 +1997,9 @@
     "answers": [
       "1979-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 183,
@@ -1644,7 +2008,9 @@
     "answers": [
       "1874-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 184,
@@ -1653,7 +2019,9 @@
     "answers": [
       "1883-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 185,
@@ -1662,7 +2030,9 @@
     "answers": [
       "1964-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 186,
@@ -1671,7 +2041,9 @@
     "answers": [
       "1998-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 187,
@@ -1680,7 +2052,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 188,
@@ -1689,7 +2063,9 @@
     "answers": [
       "1997-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 189,
@@ -1698,7 +2074,9 @@
     "answers": [
       "1892-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 190,
@@ -1707,7 +2085,9 @@
     "answers": [
       "2010-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 191,
@@ -1716,7 +2096,9 @@
     "answers": [
       "2002-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 192,
@@ -1725,7 +2107,9 @@
     "answers": [
       "1993-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 193,
@@ -1734,7 +2118,9 @@
     "answers": [
       "1879-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 194,
@@ -1743,7 +2129,9 @@
     "answers": [
       "1943-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 195,
@@ -1752,7 +2140,9 @@
     "answers": [
       "1939-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 196,
@@ -1761,7 +2151,9 @@
     "answers": [
       "1940-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 197,
@@ -1770,7 +2162,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 198,
@@ -1779,7 +2173,9 @@
     "answers": [
       "1969-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 199,
@@ -1788,7 +2184,9 @@
     "answers": [
       "1989-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 200,
@@ -1797,7 +2195,9 @@
     "answers": [
       "1967-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 201,
@@ -1806,7 +2206,9 @@
     "answers": [
       "1937-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 202,
@@ -1815,7 +2217,9 @@
     "answers": [
       "1934-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 203,
@@ -1824,7 +2228,9 @@
     "answers": [
       "1925-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 204,
@@ -1833,7 +2239,9 @@
     "answers": [
       "1957-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 205,
@@ -1842,7 +2250,9 @@
     "answers": [
       "1974-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 206,
@@ -1851,7 +2261,9 @@
     "answers": [
       "1812-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 207,
@@ -1860,7 +2272,9 @@
     "answers": [
       "1933-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 208,
@@ -1869,7 +2283,9 @@
     "answers": [
       "1992-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 209,
@@ -1878,7 +2294,9 @@
     "answers": [
       "1957-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 210,
@@ -1887,7 +2305,9 @@
     "answers": [
       "1966-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 211,
@@ -1896,7 +2316,9 @@
     "answers": [
       "1991-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 212,
@@ -1905,7 +2327,9 @@
     "answers": [
       "1937-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 213,
@@ -1914,7 +2338,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 214,
@@ -1923,7 +2349,9 @@
     "answers": [
       "1975-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 215,
@@ -1932,7 +2360,9 @@
     "answers": [
       "2000-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 216,
@@ -1941,7 +2371,9 @@
     "answers": [
       "1988-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 217,
@@ -1950,7 +2382,9 @@
     "answers": [
       "1885-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 218,
@@ -1959,7 +2393,9 @@
     "answers": [
       "1969-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 219,
@@ -1968,7 +2404,9 @@
     "answers": [
       "1959-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 220,
@@ -1977,7 +2415,9 @@
     "answers": [
       "1981-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 221,
@@ -1986,7 +2426,9 @@
     "answers": [
       "1941-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 222,
@@ -1995,7 +2437,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 223,
@@ -2004,7 +2448,9 @@
     "answers": [
       "1870-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 224,
@@ -2013,7 +2459,9 @@
     "answers": [
       "1844-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 225,
@@ -2022,7 +2470,9 @@
     "answers": [
       "1962-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 226,
@@ -2031,7 +2481,9 @@
     "answers": [
       "1993-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 227,
@@ -2040,7 +2492,9 @@
     "answers": [
       "1930-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 228,
@@ -2049,7 +2503,9 @@
     "answers": [
       "1947-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 229,
@@ -2058,7 +2514,9 @@
     "answers": [
       "1965-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 230,
@@ -2067,7 +2525,9 @@
     "answers": [
       "1938-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 231,
@@ -2076,7 +2536,9 @@
     "answers": [
       "1971-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 232,
@@ -2085,7 +2547,9 @@
     "answers": [
       "1986-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 233,
@@ -2094,7 +2558,9 @@
     "answers": [
       "1970-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 234,
@@ -2103,7 +2569,9 @@
     "answers": [
       "1936-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 235,
@@ -2112,7 +2580,9 @@
     "answers": [
       "1980-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 236,
@@ -2121,7 +2591,9 @@
     "answers": [
       "1907-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 237,
@@ -2130,7 +2602,9 @@
     "answers": [
       "2011-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 238,
@@ -2139,7 +2613,9 @@
     "answers": [
       "1815-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 239,
@@ -2148,7 +2624,9 @@
     "answers": [
       "1938-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 240,
@@ -2157,7 +2635,9 @@
     "answers": [
       "1917-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 241,
@@ -2166,7 +2646,9 @@
     "answers": [
       "1982-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 242,
@@ -2175,7 +2657,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 243,
@@ -2184,7 +2668,9 @@
     "answers": [
       "1925-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 244,
@@ -2193,7 +2679,9 @@
     "answers": [
       "1926-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 245,
@@ -2202,7 +2690,9 @@
     "answers": [
       "1911-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 246,
@@ -2211,7 +2701,9 @@
     "answers": [
       "1971-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 247,
@@ -2220,7 +2712,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 248,
@@ -2229,7 +2723,9 @@
     "answers": [
       "1930-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 249,
@@ -2238,7 +2734,9 @@
     "answers": [
       "1911-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 250,
@@ -2247,7 +2745,9 @@
     "answers": [
       "1954-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 251,
@@ -2256,7 +2756,9 @@
     "answers": [
       "1976-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 252,
@@ -2265,7 +2767,9 @@
     "answers": [
       "1947-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 253,
@@ -2274,7 +2778,9 @@
     "answers": [
       "1974-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 254,
@@ -2283,7 +2789,9 @@
     "answers": [
       "1970-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 255,
@@ -2292,7 +2800,9 @@
     "answers": [
       "1960-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 256,
@@ -2301,7 +2811,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 257,
@@ -2310,7 +2822,9 @@
     "answers": [
       "1866-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 258,
@@ -2319,7 +2833,9 @@
     "answers": [
       "1892-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 259,
@@ -2328,7 +2844,9 @@
     "answers": [
       "1916-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 260,
@@ -2337,7 +2855,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 261,
@@ -2346,7 +2866,9 @@
     "answers": [
       "1891-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 262,
@@ -2355,7 +2877,9 @@
     "answers": [
       "1900-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 263,
@@ -2364,7 +2888,9 @@
     "answers": [
       "1984-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 264,
@@ -2373,7 +2899,9 @@
     "answers": [
       "1942-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 265,
@@ -2382,7 +2910,9 @@
     "answers": [
       "1826-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 266,
@@ -2391,7 +2921,9 @@
     "answers": [
       "1967-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 267,
@@ -2400,7 +2932,9 @@
     "answers": [
       "1928-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 268,
@@ -2409,7 +2943,9 @@
     "answers": [
       "1965-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 269,
@@ -2418,7 +2954,9 @@
     "answers": [
       "1990-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 270,
@@ -2427,7 +2965,9 @@
     "answers": [
       "1975-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 271,
@@ -2436,7 +2976,9 @@
     "answers": [
       "1892-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 272,
@@ -2445,7 +2987,9 @@
     "answers": [
       "1889-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 273,
@@ -2454,7 +2998,9 @@
     "answers": [
       "1961-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 274,
@@ -2463,7 +3009,9 @@
     "answers": [
       "1969-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 275,
@@ -2472,7 +3020,9 @@
     "answers": [
       "1926-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 276,
@@ -2481,7 +3031,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 277,
@@ -2490,7 +3042,9 @@
     "answers": [
       "1975-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 278,
@@ -2499,7 +3053,9 @@
     "answers": [
       "1959-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 279,
@@ -2508,7 +3064,9 @@
     "answers": [
       "1847-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 280,
@@ -2517,7 +3075,9 @@
     "answers": [
       "1837-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 281,
@@ -2526,7 +3086,9 @@
     "answers": [
       "1796-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 282,
@@ -2535,7 +3097,9 @@
     "answers": [
       "2002-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 283,
@@ -2544,7 +3108,9 @@
     "answers": [
       "1927-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 284,
@@ -2553,7 +3119,9 @@
     "answers": [
       "1989-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 285,
@@ -2562,7 +3130,9 @@
     "answers": [
       "1944-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 286,
@@ -2571,7 +3141,9 @@
     "answers": [
       "1972-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 287,
@@ -2580,7 +3152,9 @@
     "answers": [
       "1993-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 288,
@@ -2589,7 +3163,9 @@
     "answers": [
       "1982-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 289,
@@ -2598,7 +3174,9 @@
     "answers": [
       "1869-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 290,
@@ -2607,7 +3185,9 @@
     "answers": [
       "1965-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 291,
@@ -2616,7 +3196,9 @@
     "answers": [
       "1969-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 292,
@@ -2625,7 +3207,9 @@
     "answers": [
       "1963-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 293,
@@ -2634,7 +3218,9 @@
     "answers": [
       "1937-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 294,
@@ -2643,7 +3229,9 @@
     "answers": [
       "1941-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 295,
@@ -2652,7 +3240,9 @@
     "answers": [
       "1965-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 296,
@@ -2661,7 +3251,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 297,
@@ -2670,7 +3262,9 @@
     "answers": [
       "1893-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 298,
@@ -2679,7 +3273,9 @@
     "answers": [
       "1898-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 299,
@@ -2688,7 +3284,9 @@
     "answers": [
       "1974-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 300,
@@ -2697,7 +3295,9 @@
     "answers": [
       "1925-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 301,
@@ -2706,7 +3306,9 @@
     "answers": [
       "1975-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 302,
@@ -2715,7 +3317,9 @@
     "answers": [
       "1964-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 303,
@@ -2724,7 +3328,9 @@
     "answers": [
       "1904-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 304,
@@ -2733,7 +3339,9 @@
     "answers": [
       "1940-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 305,
@@ -2742,7 +3350,9 @@
     "answers": [
       "1942-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 306,
@@ -2751,7 +3361,9 @@
     "answers": [
       "1800-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 307,
@@ -2760,7 +3372,9 @@
     "answers": [
       "1916-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 308,
@@ -2769,7 +3383,9 @@
     "answers": [
       "1955-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 309,
@@ -2778,7 +3394,9 @@
     "answers": [
       "1933-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 310,
@@ -2787,7 +3405,9 @@
     "answers": [
       "1787-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 311,
@@ -2796,7 +3416,9 @@
     "answers": [
       "1986-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 312,
@@ -2805,7 +3427,9 @@
     "answers": [
       "1957-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 313,
@@ -2814,7 +3438,9 @@
     "answers": [
       "1940-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 314,
@@ -2823,7 +3449,9 @@
     "answers": [
       "1920-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 315,
@@ -2832,7 +3460,9 @@
     "answers": [
       "1993-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 316,
@@ -2841,7 +3471,9 @@
     "answers": [
       "1988-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 317,
@@ -2850,7 +3482,9 @@
     "answers": [
       "1988-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 318,
@@ -2859,7 +3493,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 319,
@@ -2868,7 +3504,9 @@
     "answers": [
       "1966-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 320,
@@ -2877,7 +3515,9 @@
     "answers": [
       "1885-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 321,
@@ -2886,7 +3526,9 @@
     "answers": [
       "-300-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 322,
@@ -2895,7 +3537,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 323,
@@ -2904,7 +3548,9 @@
     "answers": [
       "1983-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 324,
@@ -2913,7 +3559,9 @@
     "answers": [
       "1931-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 325,
@@ -2922,7 +3570,9 @@
     "answers": [
       "1978-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 326,
@@ -2931,7 +3581,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 327,
@@ -2940,7 +3592,9 @@
     "answers": [
       "1996-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 328,
@@ -2949,7 +3603,9 @@
     "answers": [
       "1997-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 329,
@@ -2958,7 +3614,9 @@
     "answers": [
       "1905-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 330,
@@ -2967,7 +3625,9 @@
     "answers": [
       "1952-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 331,
@@ -2976,7 +3636,9 @@
     "answers": [
       "1945-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 332,
@@ -2985,7 +3647,9 @@
     "answers": [
       "1927-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 333,
@@ -2994,7 +3658,9 @@
     "answers": [
       "1906-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 334,
@@ -3003,7 +3669,9 @@
     "answers": [
       "1997-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 335,
@@ -3012,7 +3680,9 @@
     "answers": [
       "1941-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 336,
@@ -3021,7 +3691,9 @@
     "answers": [
       "1948-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 337,
@@ -3030,7 +3702,9 @@
     "answers": [
       "1933-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 338,
@@ -3039,7 +3713,9 @@
     "answers": [
       "1931-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 339,
@@ -3048,7 +3724,9 @@
     "answers": [
       "1906-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 340,
@@ -3057,7 +3735,9 @@
     "answers": [
       "1965-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 341,
@@ -3066,7 +3746,9 @@
     "answers": [
       "1966-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 342,
@@ -3075,7 +3757,9 @@
     "answers": [
       "1893-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 343,
@@ -3084,7 +3768,9 @@
     "answers": [
       "1911-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 344,
@@ -3093,7 +3779,9 @@
     "answers": [
       "1910-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 345,
@@ -3102,7 +3790,9 @@
     "answers": [
       "1937-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 346,
@@ -3111,7 +3801,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 347,
@@ -3120,7 +3812,9 @@
     "answers": [
       "1962-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 348,
@@ -3129,7 +3823,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 349,
@@ -3138,7 +3834,9 @@
     "answers": [
       "1962-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 350,
@@ -3147,7 +3845,9 @@
     "answers": [
       "1985-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 351,
@@ -3156,7 +3856,9 @@
     "answers": [
       "1910-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 352,
@@ -3165,7 +3867,9 @@
     "answers": [
       "1937-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 353,
@@ -3174,7 +3878,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 354,
@@ -3183,7 +3889,9 @@
     "answers": [
       "1926-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 355,
@@ -3192,7 +3900,9 @@
     "answers": [
       "1939-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 356,
@@ -3201,7 +3911,9 @@
     "answers": [
       "1896-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 357,
@@ -3210,7 +3922,9 @@
     "answers": [
       "1987-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 358,
@@ -3219,7 +3933,9 @@
     "answers": [
       "2009-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 359,
@@ -3228,7 +3944,9 @@
     "answers": [
       "1979-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 360,
@@ -3237,7 +3955,9 @@
     "answers": [
       "1943-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 361,
@@ -3246,7 +3966,9 @@
     "answers": [
       "1962-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 362,
@@ -3255,7 +3977,9 @@
     "answers": [
       "1939-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 363,
@@ -3264,7 +3988,9 @@
     "answers": [
       "1943-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 364,
@@ -3273,7 +3999,9 @@
     "answers": [
       "2011-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 365,
@@ -3282,7 +4010,9 @@
     "answers": [
       "1944-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 366,
@@ -3291,7 +4021,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 367,
@@ -3300,7 +4032,9 @@
     "answers": [
       "1978-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 368,
@@ -3309,7 +4043,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 369,
@@ -3318,7 +4054,9 @@
     "answers": [
       "1947-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 370,
@@ -3327,7 +4065,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 371,
@@ -3336,7 +4076,9 @@
     "answers": [
       "1931-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 372,
@@ -3345,7 +4087,9 @@
     "answers": [
       "1997-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 373,
@@ -3354,7 +4098,9 @@
     "answers": [
       "1949-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 374,
@@ -3363,7 +4109,9 @@
     "answers": [
       "1963-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 375,
@@ -3372,7 +4120,9 @@
     "answers": [
       "1918-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 376,
@@ -3381,7 +4131,9 @@
     "answers": [
       "1998-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 377,
@@ -3390,7 +4142,9 @@
     "answers": [
       "1996-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 378,
@@ -3399,7 +4153,9 @@
     "answers": [
       "2002-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 379,
@@ -3408,7 +4164,9 @@
     "answers": [
       "1982-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 380,
@@ -3417,7 +4175,9 @@
     "answers": [
       "1963-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 381,
@@ -3426,7 +4186,9 @@
     "answers": [
       "1943-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 382,
@@ -3435,7 +4197,9 @@
     "answers": [
       "1975-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 383,
@@ -3444,7 +4208,9 @@
     "answers": [
       "1746-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 384,
@@ -3453,7 +4219,9 @@
     "answers": [
       "1924-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 385,
@@ -3462,7 +4230,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 386,
@@ -3471,7 +4241,9 @@
     "answers": [
       "1973-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 387,
@@ -3480,7 +4252,9 @@
     "answers": [
       "1934-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 388,
@@ -3489,7 +4263,9 @@
     "answers": [
       "1965-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 389,
@@ -3498,7 +4274,9 @@
     "answers": [
       "1969-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 390,
@@ -3507,7 +4285,9 @@
     "answers": [
       "1931-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 391,
@@ -3516,7 +4296,9 @@
     "answers": [
       "1925-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 392,
@@ -3525,7 +4307,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 393,
@@ -3534,7 +4318,9 @@
     "answers": [
       "1984-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 394,
@@ -3543,7 +4329,9 @@
     "answers": [
       "1910-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 395,
@@ -3552,7 +4340,9 @@
     "answers": [
       "1970-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 396,
@@ -3561,7 +4351,9 @@
     "answers": [
       "2005-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 397,
@@ -3570,7 +4362,9 @@
     "answers": [
       "1993-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 398,
@@ -3579,7 +4373,9 @@
     "answers": [
       "1918-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 399,
@@ -3588,7 +4384,9 @@
     "answers": [
       "1894-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 400,
@@ -3597,7 +4395,9 @@
     "answers": [
       "1938-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 401,
@@ -3606,7 +4406,9 @@
     "answers": [
       "1984-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 402,
@@ -3615,7 +4417,9 @@
     "answers": [
       "1879-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 403,
@@ -3624,7 +4428,9 @@
     "answers": [
       "1951-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 404,
@@ -3633,7 +4439,9 @@
     "answers": [
       "2006-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 405,
@@ -3642,7 +4450,9 @@
     "answers": [
       "1898-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 406,
@@ -3651,7 +4461,9 @@
     "answers": [
       "1873-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 407,
@@ -3660,7 +4472,9 @@
     "answers": [
       "1945-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 408,
@@ -3669,7 +4483,9 @@
     "answers": [
       "1812-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 409,
@@ -3678,7 +4494,9 @@
     "answers": [
       "1932-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 410,
@@ -3687,7 +4505,9 @@
     "answers": [
       "1940-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 411,
@@ -3696,7 +4516,9 @@
     "answers": [
       "1949-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 412,
@@ -3705,7 +4527,9 @@
     "answers": [
       "1913-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 413,
@@ -3714,7 +4538,9 @@
     "answers": [
       "1995-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 414,
@@ -3723,7 +4549,9 @@
     "answers": [
       "1873-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 415,
@@ -3732,7 +4560,9 @@
     "answers": [
       "1897-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 416,
@@ -3741,7 +4571,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 417,
@@ -3750,7 +4582,9 @@
     "answers": [
       "1865-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 418,
@@ -3759,7 +4593,9 @@
     "answers": [
       "1969-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 419,
@@ -3768,7 +4604,9 @@
     "answers": [
       "1917-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 420,
@@ -3777,7 +4615,9 @@
     "answers": [
       "1914-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 421,
@@ -3786,7 +4626,9 @@
     "answers": [
       "1826-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 422,
@@ -3795,7 +4637,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 423,
@@ -3804,7 +4648,9 @@
     "answers": [
       "1934-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 424,
@@ -3813,7 +4659,9 @@
     "answers": [
       "1970-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 425,
@@ -3822,7 +4670,9 @@
     "answers": [
       "1912-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 426,
@@ -3831,7 +4681,9 @@
     "answers": [
       "1915-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 427,
@@ -3840,7 +4692,9 @@
     "answers": [
       "1915-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 428,
@@ -3849,7 +4703,9 @@
     "answers": [
       "1937-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 429,
@@ -3858,7 +4714,9 @@
     "answers": [
       "1921-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 430,
@@ -3867,7 +4725,9 @@
     "answers": [
       "1998-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 431,
@@ -3876,7 +4736,9 @@
     "answers": [
       "1982-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 432,
@@ -3885,7 +4747,9 @@
     "answers": [
       "1970-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 433,
@@ -3894,7 +4758,9 @@
     "answers": [
       "1989-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 434,
@@ -3903,7 +4769,9 @@
     "answers": [
       "1937-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 435,
@@ -3912,7 +4780,9 @@
     "answers": [
       "1906-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 436,
@@ -3921,7 +4791,9 @@
     "answers": [
       "1947-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 437,
@@ -3930,7 +4802,9 @@
     "answers": [
       "1993-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 438,
@@ -3939,7 +4813,9 @@
     "answers": [
       "2000-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 439,
@@ -3948,7 +4824,9 @@
     "answers": [
       "1965-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 440,
@@ -3957,7 +4835,9 @@
     "answers": [
       "1965-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 441,
@@ -3966,7 +4846,9 @@
     "answers": [
       "1973-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 442,
@@ -3975,7 +4857,9 @@
     "answers": [
       "1999-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 443,
@@ -3984,7 +4868,9 @@
     "answers": [
       "1994-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 444,
@@ -3993,7 +4879,9 @@
     "answers": [
       "1867-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 445,
@@ -4002,7 +4890,9 @@
     "answers": [
       "1981-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 446,
@@ -4011,7 +4901,9 @@
     "answers": [
       "1938-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 447,
@@ -4020,7 +4912,9 @@
     "answers": [
       "1949-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 448,
@@ -4029,7 +4923,9 @@
     "answers": [
       "1973-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 449,
@@ -4038,7 +4934,9 @@
     "answers": [
       "1903-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 450,
@@ -4047,7 +4945,9 @@
     "answers": [
       "1941-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 451,
@@ -4056,7 +4956,9 @@
     "answers": [
       "1977-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 452,
@@ -4065,7 +4967,9 @@
     "answers": [
       "1847-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 453,
@@ -4074,7 +4978,9 @@
     "answers": [
       "1974-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 454,
@@ -4083,7 +4989,9 @@
     "answers": [
       "1965-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 455,
@@ -4092,7 +5000,9 @@
     "answers": [
       "1979-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 456,
@@ -4101,7 +5011,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 457,
@@ -4110,7 +5022,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 458,
@@ -4119,7 +5033,9 @@
     "answers": [
       "1810-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 459,
@@ -4128,7 +5044,9 @@
     "answers": [
       "1973-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 460,
@@ -4137,7 +5055,9 @@
     "answers": [
       "1944-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 461,
@@ -4146,7 +5066,9 @@
     "answers": [
       "1939-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 462,
@@ -4155,7 +5077,9 @@
     "answers": [
       "0-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 463,
@@ -4164,7 +5088,9 @@
     "answers": [
       "1967-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 464,
@@ -4173,7 +5099,9 @@
     "answers": [
       "1979-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 465,
@@ -4182,7 +5110,9 @@
     "answers": [
       "1990-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 466,
@@ -4191,7 +5121,9 @@
     "answers": [
       "1936-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 467,
@@ -4200,7 +5132,9 @@
     "answers": [
       "1932-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 468,
@@ -4209,7 +5143,9 @@
     "answers": [
       "1895-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 469,
@@ -4218,7 +5154,9 @@
     "answers": [
       "1981-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 470,
@@ -4227,7 +5165,9 @@
     "answers": [
       "1991-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 471,
@@ -4236,7 +5176,9 @@
     "answers": [
       "2010-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 472,
@@ -4245,7 +5187,9 @@
     "answers": [
       "1997-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 473,
@@ -4254,7 +5198,9 @@
     "answers": [
       "1780-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 474,
@@ -4263,7 +5209,9 @@
     "answers": [
       "1915-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 475,
@@ -4272,7 +5220,9 @@
     "answers": [
       "1968-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 476,
@@ -4281,7 +5231,9 @@
     "answers": [
       "1980-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 477,
@@ -4290,7 +5242,9 @@
     "answers": [
       "1893-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 478,
@@ -4299,7 +5253,9 @@
     "answers": [
       "1942-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 479,
@@ -4308,7 +5264,9 @@
     "answers": [
       "1980-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 480,
@@ -4317,7 +5275,9 @@
     "answers": [
       "1981-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 481,
@@ -4326,7 +5286,9 @@
     "answers": [
       "1981-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 482,
@@ -4335,7 +5297,9 @@
     "answers": [
       "1969-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 483,
@@ -4344,7 +5308,9 @@
     "answers": [
       "1984-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 484,
@@ -4353,7 +5319,9 @@
     "answers": [
       "1977-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 485,
@@ -4362,7 +5330,9 @@
     "answers": [
       "1928-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 486,
@@ -4371,7 +5341,9 @@
     "answers": [
       "1940-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 487,
@@ -4380,7 +5352,9 @@
     "answers": [
       "1968-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 488,
@@ -4389,7 +5363,9 @@
     "answers": [
       "1956-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 489,
@@ -4398,7 +5374,9 @@
     "answers": [
       "1983-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 490,
@@ -4407,7 +5385,9 @@
     "answers": [
       "1937-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 491,
@@ -4416,7 +5396,9 @@
     "answers": [
       "1927-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 492,
@@ -4425,7 +5407,9 @@
     "answers": [
       "1969-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 493,
@@ -4434,7 +5418,9 @@
     "answers": [
       "1932-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 494,
@@ -4443,7 +5429,9 @@
     "answers": [
       "1935-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 495,
@@ -4452,7 +5440,9 @@
     "answers": [
       "2011-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 496,
@@ -4461,7 +5451,9 @@
     "answers": [
       "1949-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 497,
@@ -4470,7 +5462,9 @@
     "answers": [
       "1962-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 498,
@@ -4479,7 +5473,9 @@
     "answers": [
       "1934-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 499,
@@ -4488,7 +5484,9 @@
     "answers": [
       "1966-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   },
   {
     "id": 500,
@@ -4497,6 +5495,8 @@
     "answers": [
       "1922-12-31"
     ],
-    "type": "endOfProduction_D3"
+    "type": "single-entity factoid",
+	"property": "end production",
+	"radius": 3
   }
 ]

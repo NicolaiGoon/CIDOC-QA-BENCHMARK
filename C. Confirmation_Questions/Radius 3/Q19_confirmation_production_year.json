@@ -1,0 +1,4502 @@
+[
+{
+    "id":9001,
+    "question": "Was the production of Admiral Stephen Clegg Rowan ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1910.1.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9002,
+    "question": "Was the production of Rockbound Coast, Cape Ann ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1910.9.14>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9003,
+    "question": "Was the production of A Venetian Senator ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1919.6.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9004,
+    "question": "Was the production of Mary Hopkinson ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1926.6.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9005,
+    "question": "Was the production of Temple of Nike Apteros ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1927.5.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9006,
+    "question": "Was the production of Georges Thenault ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1927.8.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9007,
+    "question": "Was the production of Wild Coast, Newport ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.6.72>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9008,
+    "question": "Was the production of Mosaic glass ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.155.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9009,
+    "question": "Was the production of Jar with Four Handles ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.174.29>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9010,
+    "question": "Was the production of Seated Animal Figure ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.264.24>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9011,
+    "question": "Was the production of Three Czechs ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.104>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9012,
+    "question": "Was the production of Last Tree ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.33>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9013,
+    "question": "Was the production of The Pantheon, Paris ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.429>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9014,
+    "question": "Was the production of Purbeck Quarry Men ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.503>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9015,
+    "question": "Was the production of Mending Trawls ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.512>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9016,
+    "question": "Was the production of French Grandmother ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.609>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9017,
+    "question": "Was the production of Charles White ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.620>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9018,
+    "question": "Was the production of Nigger Quarters ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1935.13.682>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9019,
+    "question": "Was the production of The Artist's Children ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1938.10.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9020,
+    "question": "Was the production of Sunny Slopes ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1940.9.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9021,
+    "question": "Was the production of A Reading ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1948.10.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9022,
+    "question": "Was the production of Robert Broome ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1948.2.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9023,
+    "question": "Was the production of Nancy ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.10.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9024,
+    "question": "Was the production of Mr. Francis Nye ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.83>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9025,
+    "question": "Was the production of Bertha ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1952.13.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9026,
+    "question": "Was the production of Musketeer ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1952.13.73>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9027,
+    "question": "Was the production of Pioneers ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1962.8.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9028,
+    "question": "Was the production of Williamsburg Post Office ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9029,
+    "question": "Was the production of Sketch of a Dog Sleeping ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.16.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9030,
+    "question": "Was the production of Feeder ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.84.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9031,
+    "question": "Was the production of Fishmonger, London ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.83.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9032,
+    "question": "Was the production of Greek Lady, Pera ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.80>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9033,
+    "question": "Was the production of Man Astraddle ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.7.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9034,
+    "question": "Was the production of Tepidarium ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.7.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9035,
+    "question": "Was the production of The Puppy-cat and the Baby ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.13.36>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9036,
+    "question": "Was the production of An April Evening ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.13.60>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9037,
+    "question": "Was the production of Earth Day ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.30>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9038,
+    "question": "Was the production of The Fruit Wagon ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1993.4.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9039,
+    "question": "Was the production of Maricopa Indian, Arizona ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.28>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9040,
+    "question": "Was the production of Pimos Indians, Arizona ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.29>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9041,
+    "question": "Was the production of Yosemite Valley, with Clouds ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.50>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9042,
+    "question": "Was the production of Cloud Study ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.59>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9043,
+    "question": "Was the production of Low Bowl ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1995.100.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9044,
+    "question": "Was the production of Nude with Dove and Flowers ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9045,
+    "question": "Was the production of El Veinte de Mayo ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.47.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9046,
+    "question": "Was the production of Stories from the Bible ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.53A-NN>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9047,
+    "question": "Was the production of Wonderland ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.88>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9048,
+    "question": "Was the production of La Natividad ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.91.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9049,
+    "question": "Was the production of Bouncing Golf Ball ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.99.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9050,
+    "question": "Was the production of Gonzales Forehand Multiflash ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.99.44>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9051,
+    "question": "Was the production of Bottle Vase in Gray and White ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.109.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9052,
+    "question": "Was the production of Joe Louis vs. Arturo Goday ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.118.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9053,
+    "question": "Was the production of Wolves Courting at Full Moon ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.124.161>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9054,
+    "question": "Was the production of Three for the Price of a Dog ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.124.23>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9055,
+    "question": "Was the production of Dejaneon and Nassus ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.23.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9056,
+    "question": "Was the production of Fenced Yard, Wellsville, Ohio ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1997.54>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9057,
+    "question": "Was the production of Gathering of black men ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.120.26>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9058,
+    "question": "Was the production of Black workers ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.120.58>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9059,
+    "question": "Was the production of Selena ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.126.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9060,
+    "question": "Was the production of Baseball Bat ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.24.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9061,
+    "question": "Was the production of Livingston, Montana ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.30>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9062,
+    "question": "Was the production of Elsie Clough Street ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.47>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9063,
+    "question": "Was the production of Tramp Art Church ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.84.43>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9064,
+    "question": "Was the production of Nesting Bowls ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.20A-C>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9065,
+    "question": "Was the production of Prairie Patriarch ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.36>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9066,
+    "question": "Was the production of Radish Salad Bowl ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.5A-L>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9067,
+    "question": "Was the production of Soap Bubble Set ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.91>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9068,
+    "question": "Was the production of Granadias ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.47>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9069,
+    "question": "Was the production of Tetuan ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.79.34>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9070,
+    "question": "Was the production of Backs Fronts Windows ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.79.42>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9071,
+    "question": "Was the production of Cradle ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.79.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9072,
+    "question": "Was the production of Time Totem ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.89.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9073,
+    "question": "Was the production of Greek Beaker ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2001.89.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9074,
+    "question": "Was the production of Lilac ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.26.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9075,
+    "question": "Was the production of Monekana ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9076,
+    "question": "Was the production of Sonar ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.70.6A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9077,
+    "question": "Was the production of Prairie Chicken ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.78>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9078,
+    "question": "Was the production of Bottle Form ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2002.8.7>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9079,
+    "question": "Was the production of Cosmic Colonies ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.12.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9080,
+    "question": "Was the production of Silo ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.37.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9081,
+    "question": "Was the production of Wall of Light Red Grey ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.39.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9082,
+    "question": "Was the production of The Hunt (Punch Bowl) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.92.3A>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9083,
+    "question": "Was the production of Dematerialization ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1989.91.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9084,
+    "question": "Was the production of Tricycle (Memphis) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.87.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9085,
+    "question": "Was the production of Girls in Conversation ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.14.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9086,
+    "question": "Was the production of In Sleep ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.6.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9087,
+    "question": "Was the production of Yliaster (Paracelsus) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.53>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9088,
+    "question": "Was the production of Urban Self-Projection ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.77>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9089,
+    "question": "Was the production of Myrtle Booth and Her Trees ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.44.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9090,
+    "question": "Was the production of Joan Miro ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1989.55.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9091,
+    "question": "Was the production of Group Along the Road ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.91>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9092,
+    "question": "Was the production of Sarah Jane ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.65.161>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9093,
+    "question": "Was the production of Devil Jug ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.65.33>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9094,
+    "question": "Was the production of Fuli, China ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1987.19.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9095,
+    "question": "Was the production of A Shoshonee Indian Smoking ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.25.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9096,
+    "question": "Was the production of Colonel Sanders ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1987.51.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9097,
+    "question": "Was the production of Still Life with Pineapple ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.14.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9098,
+    "question": "Was the production of Mrs. George Watson ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.189>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9099,
+    "question": "Was the production of Banana Carrier ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1988.65.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9100,
+    "question": "Was the production of Devil's Lake ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.105.63>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9101,
+    "question": "Was the production of Pleasure and Power ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.29>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9102,
+    "question": "Was the production of Mountain Scene and Waterwheel ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.70.23>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9103,
+    "question": "Was the production of Tibet ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1990.39.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9104,
+    "question": "Was the production of Beale Street Blues ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.27>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9105,
+    "question": "Was the production of Haystack ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.72.53>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9106,
+    "question": "Was the production of Anna Washington Derry ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.91.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9107,
+    "question": "Was the production of Pro Patria Medal ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.93.58>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9108,
+    "question": "Was the production of The Unbelievable City ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.124.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9109,
+    "question": "Was the production of Pioneer Family (model for) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.121>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9110,
+    "question": "Was the production of Study for Relief ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.154.642>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9111,
+    "question": "Was the production of Abbott Lawrence ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9112,
+    "question": "Was the production of Louisa Powers' Hand ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.128>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9113,
+    "question": "Was the production of Within the Window ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.120>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9114,
+    "question": "Was the production of Street in Joliet ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.133>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9115,
+    "question": "Was the production of Pan de Asugar, Brasil ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.21.13>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9116,
+    "question": "Was the production of Edge of Forest ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.21.61>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9117,
+    "question": "Was the production of Sunlight ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.47.15>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9118,
+    "question": "Was the production of Above and Below ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.59>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9119,
+    "question": "Was the production of Yucca Plants ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.64.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9120,
+    "question": "Was the production of The Schooner ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.168>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9121,
+    "question": "Was the production of In the Summer Sea ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.295>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9122,
+    "question": "Was the production of Light Blue Nursery ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.324>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9123,
+    "question": "Was the production of Off York Island, Maine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.327>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9124,
+    "question": "Was the production of Carpet Pink (Silene acaulis) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.104>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9125,
+    "question": "Was the production of Rubus articus ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.200>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9126,
+    "question": "Was the production of Arenaria formosa ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.205>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9127,
+    "question": "Was the production of Veronica wormskjoldii ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.32>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9128,
+    "question": "Was the production of Yucca (Yucca baileyi) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.734>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9129,
+    "question": "Was the production of Girl with Bird ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.49>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9130,
+    "question": "Was the production of Victorian Ruins ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.64>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9131,
+    "question": "Was the production of Prizefighters ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.65.195>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9132,
+    "question": "Was the production of Danube, an Old Mill ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.158>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9133,
+    "question": "Was the production of Autumn, Staten Island ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.161>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9134,
+    "question": "Was the production of The Poultryman ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.211>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9135,
+    "question": "Was the production of Pig Market, Mexico ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.212>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9136,
+    "question": "Was the production of Cockfight, Santo Domingo ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.216>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9137,
+    "question": "Was the production of Boudoir, Chateau de Chaalis ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.284>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9138,
+    "question": "Was the production of The Flower ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.356>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9139,
+    "question": "Was the production of San Rufino, Assisi ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.389>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9140,
+    "question": "Was the production of Path ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.114>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9141,
+    "question": "Was the production of Bulls ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.122>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9142,
+    "question": "Was the production of Horse Study and Rabbits ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.165>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9143,
+    "question": "Was the production of Cow ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.167>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9144,
+    "question": "Was the production of Prisoner's Plea ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.447.38>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9145,
+    "question": "Was the production of Concetta Scaravaglione ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.448>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9146,
+    "question": "Was the production of Expanding Universe ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.449.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9147,
+    "question": "Was the production of Ottoman ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.82.5B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9148,
+    "question": "Was the production of Gregorio ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.33>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9149,
+    "question": "Was the production of Pink Folded Paper ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.44>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9150,
+    "question": "Was the production of Sixth Stone I ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.73>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9151,
+    "question": "Was the production of French Money ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.97>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9152,
+    "question": "Was the production of Inside Out ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.84.99>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9153,
+    "question": "Was the production of Lafayette Street ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.115.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9154,
+    "question": "Was the production of World Unity or Oblivion ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.167.33>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9155,
+    "question": "Was the production of Fly Fishing Medal ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.167.46>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9156,
+    "question": "Was the production of Charles De Coster ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.167.60>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9157,
+    "question": "Was the production of Post Setter ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.74.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9158,
+    "question": "Was the production of The Barkentine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.74.46>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9159,
+    "question": "Was the production of Dry Dock Men ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.74.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9160,
+    "question": "Was the production of Wild Duck Shooting ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.122.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9161,
+    "question": "Was the production of General George Rogers Clark ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.158>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9162,
+    "question": "Was the production of Mrs. James Greenleaf ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.162>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9163,
+    "question": "Was the production of The Bent Tree ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.204>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9164,
+    "question": "Was the production of North-Easter ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.245>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9165,
+    "question": "Was the production of In Church ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.252>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9166,
+    "question": "Was the production of Conde Duque d'Olivarez ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.269>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9167,
+    "question": "Was the production of Bartholomeo Bongo ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.294>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9168,
+    "question": "Was the production of Cyclist ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.170.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9169,
+    "question": "Was the production of Standing Nude Child ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.183.19>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9170,
+    "question": "Was the production of One-punch Knockout ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.194.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9171,
+    "question": "Was the production of Old Fiddler ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.102>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9172,
+    "question": "Was the production of Weighing In ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.193>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9173,
+    "question": "Was the production of Fisherman's Lunch ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.287>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9174,
+    "question": "Was the production of Henry Clay Making a Speech ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.368>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9175,
+    "question": "Was the production of Shacks ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.28.380>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9176,
+    "question": "Was the production of Flood Victims ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.38.90>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9177,
+    "question": "Was the production of Portal Gates ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.117.1A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9178,
+    "question": "Was the production of Martha's Flowers ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.128>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9179,
+    "question": "Was the production of Slant: Chip ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9180,
+    "question": "Was the production of Ninth Ave. Church ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.83.46>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9181,
+    "question": "Was the production of Charles Oliver O'Donnell ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.113.21>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9182,
+    "question": "Was the production of Castle Rock, Marblehead ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.118>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9183,
+    "question": "Was the production of Right to the Jaw ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.122.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9184,
+    "question": "Was the production of Dancing Male Figure ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.127.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9185,
+    "question": "Was the production of Pioneer Family (Dressed) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.145.26>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9186,
+    "question": "Was the production of Still Life with Dogwood ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.146.11>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9187,
+    "question": "Was the production of Tension ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.146.20>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9188,
+    "question": "Was the production of Evangeline ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.64>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9189,
+    "question": "Was the production of Towards the Light ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.74.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9190,
+    "question": "Was the production of From the Sea ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.90.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9191,
+    "question": "Was the production of Emily Smiley Snowden ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.104>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9192,
+    "question": "Was the production of Come to the Moon ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.46>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9193,
+    "question": "Was the production of Foggy Morning, Brittany ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.66.64>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9194,
+    "question": "Was the production of The Top of the World ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1977.66.67>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9195,
+    "question": "Was the production of Architectonic Corner ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.139>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9196,
+    "question": "Was the production of Nude on a Red Sofa ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.148.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9197,
+    "question": "Was the production of Open Construction-A ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.15.13>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9198,
+    "question": "Was the production of George Cochran Lambdin ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.162.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9199,
+    "question": "Was the production of The Smile ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.95.25>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9200,
+    "question": "Was the production of Indian Boy and Pony ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.144.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9201,
+    "question": "Was the production of Standing Artist ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9202,
+    "question": "Was the production of Americana ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9203,
+    "question": "Was the production of Boy and Girl ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.220>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9204,
+    "question": "Was the production of Haywagon ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.23>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9205,
+    "question": "Was the production of Flat Rock Cove ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.244>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9206,
+    "question": "Was the production of Taos Plaza ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.98.57>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9207,
+    "question": "Was the production of Studio Bed ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.122.105>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9208,
+    "question": "Was the production of Seabird ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.122.125>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9209,
+    "question": "Was the production of Boat Builders ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.122.126>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9210,
+    "question": "Was the production of Rosanna ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.122.70>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9211,
+    "question": "Was the production of Cubist Still Life ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.124.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9212,
+    "question": "Was the production of The Isabelle ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.128.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9213,
+    "question": "Was the production of August Memories ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.129A-P>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9214,
+    "question": "Was the production of Surf-Invasion ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.137.50>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9215,
+    "question": "Was the production of Two Heads: Red ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.137.71>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9216,
+    "question": "Was the production of Elysian Fields ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.36.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9217,
+    "question": "Was the production of Distant Provincetown ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.43.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9218,
+    "question": "Was the production of Maquette for Ripples ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.49.13>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9219,
+    "question": "Was the production of Maquette for Tlingit ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1980.49.18>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9220,
+    "question": "Was the production of Summer Horizon ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.128.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9221,
+    "question": "Was the production of White Daisies Rhapsody ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.135>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9222,
+    "question": "Was the production of Dark Still Life ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.154.35>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9223,
+    "question": "Was the production of Guignol ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.154.91>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9224,
+    "question": "Was the production of Blueberry Eyes ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.57>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9225,
+    "question": "Was the production of La Vierge ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.88.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9226,
+    "question": "Was the production of Francesca Di Rimini ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.46.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9227,
+    "question": "Was the production of Texas State Championship Game ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.63.1674>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9228,
+    "question": "Was the production of Castle Oberlahnstein, Rhine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.119>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9229,
+    "question": "Was the production of Pisa from North ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.124>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9230,
+    "question": "Was the production of Estes Park ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.291>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9231,
+    "question": "Was the production of Nude: Study of a Young Girl ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.95.46>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9232,
+    "question": "Was the production of The Star Barber Shop ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.107.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9233,
+    "question": "Was the production of A Study of Trees ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.113.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9234,
+    "question": "Was the production of Cubist Analysis ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.117>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9235,
+    "question": "Was the production of Staircase Glacier ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9236,
+    "question": "Was the production of First Gold Box ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.60.6A-B>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9237,
+    "question": "Was the production of Song of the Torturer ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.68.30>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9238,
+    "question": "Was the production of Long Lesson I ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.68.39>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9239,
+    "question": "Was the production of Christmas Greeting Card ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.78>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9240,
+    "question": "Was the production of Journeys ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2003.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9241,
+    "question": "Was the production of Underwood (Yellow B.G.) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.16.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9242,
+    "question": "Was the production of Rhinebeck, NY ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.21.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9243,
+    "question": "Was the production of Southern Farmland ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.21.41>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9244,
+    "question": "Was the production of Singing and Printing I ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.22.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9245,
+    "question": "Was the production of San Francisco West Side Ridge ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.30.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9246,
+    "question": "Was the production of The American Monument ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.9.1.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9247,
+    "question": "Was the production of Two Part Blue ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.19.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9248,
+    "question": "Was the production of Over the Harbor, Centerport ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.25>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9249,
+    "question": "Was the production of Desert Pass ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.32>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9250,
+    "question": "Was the production of Village Square ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.5.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9251,
+    "question": "Was the production of Young Man in Red Sweater ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2006.24.16>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9252,
+    "question": "Was the production of Eglise Saint Joseph ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2006.24.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9253,
+    "question": "Was the production of Canary Yellow ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2006.26.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9254,
+    "question": "Was the production of Anagama ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2006.26.8>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9255,
+    "question": "Was the production of Red Cylinder ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2007.26.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9256,
+    "question": "Was the production of Al Dente ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2007.36.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9257,
+    "question": "Was the production of The Joseph Henry Medal ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2007.39.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9258,
+    "question": "Was the production of Lotus ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2007.8.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9259,
+    "question": "Was the production of The Weak Bullet ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2008.21.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9260,
+    "question": "Was the production of Butcher Jim, Ute ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2008.36.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9261,
+    "question": "Was the production of Life Mask (Abraham Lincoln) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2009.12>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9262,
+    "question": "Was the production of Devil Face Jug ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2009.5>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9263,
+    "question": "Was the production of Gas Mask, Lower East Side ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.14.9>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9264,
+    "question": "Was the production of LYAM 3D ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.23>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9265,
+    "question": "Was the production of Vermont Landscape ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.4.4>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9266,
+    "question": "Was the production of Parrot ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.56.6>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9267,
+    "question": "Was the production of Washington Crash ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.57>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9268,
+    "question": "Was the production of Portrait of Mnonja ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.16>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9269,
+    "question": "Was the production of Churn ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.18A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9270,
+    "question": "Was the production of Aries, from the Zodiac Series ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.38.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9271,
+    "question": "Was the production of Innocent Age ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.51.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9272,
+    "question": "Was the production of Rain on the Square ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2012.13.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9273,
+    "question": "Was the production of Collection of Curious Spoons ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2012.17A-F>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9274,
+    "question": "Was the production of Slither.walk.fly ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.22>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9275,
+    "question": "Was the production of Mandalas ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.37A-F>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9276,
+    "question": "Was the production of Dresser Drawer ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.54.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9277,
+    "question": "Was the production of Stepping into Shoes ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.54.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9278,
+    "question": "Was the production of Plateau ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.65.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9279,
+    "question": "Was the production of The Clemente Family ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.72.3>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9280,
+    "question": "Was the production of THE FREEDOM STOMPERS ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.8.2.1R-V>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9281,
+    "question": "Was the production of Decision: CHANNELS OF A DREAM ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.8.35.2>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9282,
+    "question": "Was the production of AUDIO ANDRE TUXEDO STYLED ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.8.50.1R-V>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9283,
+    "question": "Was the production of Hypnotic: GOOD SWEET WOMAN ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.8.81>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9284,
+    "question": "Was the production of BLACKBALLED ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.8.98>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9285,
+    "question": "Was the production of Bouillabaisse, Barcelona ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2013.80.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9286,
+    "question": "Was the production of Stable at Cuenca ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2014.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9287,
+    "question": "Was the production of Randy Bias ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2014.17.1>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9288,
+    "question": "Was the production of Glove and Shoe, New York ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2015.2.10>",
+    "answers": ["No"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9289,
+    "question": "Was the production of Gertrude Fairfield ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/XX10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9290,
+    "question": "Was the production of Aymara Girl ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.164%2C658>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9291,
+    "question": "Was the production of Aymara Boy ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.164%2C665>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9292,
+    "question": "Was the production of Pipe Dance, Assiniboine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.453>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9293,
+    "question": "Was the production of Smoking the Shield ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.477>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9294,
+    "question": "Was the production of City Hall ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.48.79>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9295,
+    "question": "Was the production of Rev. Joseph Pilmore ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.48.84>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9296,
+    "question": "Was the production of Oak Tree ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9297,
+    "question": "Was the production of Shepherdess ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.6.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9298,
+    "question": "Was the production of Seconnet Point, Rhode Island ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.142.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9299,
+    "question": "Was the production of Nubien (Baouab) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.54.71>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9300,
+    "question": "Was the production of Head of Osage Indian ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1895.10.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9301,
+    "question": "Was the production of American Panther and Cubs ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1895.10.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9302,
+    "question": "Was the production of Connecticut Woods ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1909.7.54>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9303,
+    "question": "Was the production of One Day in June ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1909.7.62>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9304,
+    "question": "Was the production of Bell Foundry, Germany ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1913.11.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9305,
+    "question": "Was the production of Figurine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.156>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9306,
+    "question": "Was the production of Hookah ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.289>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9307,
+    "question": "Was the production of Dunrobin ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.399>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9308,
+    "question": "Was the production of Charles Frederick Vogel ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1938.3.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9309,
+    "question": "Was the production of Sulphur Mt., Yellowstone ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1947.13.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9310,
+    "question": "Was the production of The Fan ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1947.13.24>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9311,
+    "question": "Was the production of Isaac Praul ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1950.4.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9312,
+    "question": "Was the production of Laura at Fifteen ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.50>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9313,
+    "question": "Was the production of Member of the Yates Family ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1956.1.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9314,
+    "question": "Was the production of Mordecai Manuel Noah ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1957.11.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9315,
+    "question": "Was the production of La Parisienne ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1958.11.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9316,
+    "question": "Was the production of A. Laurason ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1958.5.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9317,
+    "question": "Was the production of Betsy Goodridge ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.9.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9318,
+    "question": "Was the production of R.M. Copeland ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.9.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9319,
+    "question": "Was the production of Portrait of a Child ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.9.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9320,
+    "question": "Was the production of Young Moravian Girl ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1987.32>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9321,
+    "question": "Was the production of Sophi, an Armenian of Brusa ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.137>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9322,
+    "question": "Was the production of First Sight of Alexandria ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.41>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9323,
+    "question": "Was the production of Trieste ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.57>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9324,
+    "question": "Was the production of Turk, Azani ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.78>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9325,
+    "question": "Was the production of J.C. Calhoun ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.81>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9326,
+    "question": "Was the production of Pickle Eater of the Nile ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.66.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9327,
+    "question": "Was the production of Mr. Tredwell ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.27.50.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9328,
+    "question": "Was the production of Girl in a Pink Dress ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.27.60>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9329,
+    "question": "Was the production of Mount Chocorua ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.81>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9330,
+    "question": "Was the production of Gentleman in Masonic Collar ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2000.47.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9331,
+    "question": "Was the production of Naxos/Castle of Paros ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.281>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9332,
+    "question": "Was the production of Beni Hasan ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.306>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9333,
+    "question": "Was the production of Breaking Down the Wild Horse ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.501>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9334,
+    "question": "Was the production of Cortigiana ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.252>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9335,
+    "question": "Was the production of A Scouting Party ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.85.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9336,
+    "question": "Was the production of Lying in Wait ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9337,
+    "question": "Was the production of Setting a Beaver Trap ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.31>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9338,
+    "question": "Was the production of Decay ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.163.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9339,
+    "question": "Was the production of Benjamin Rush Spencer ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.64>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9340,
+    "question": "Was the production of William Wetmore Bookplate ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.66>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9341,
+    "question": "Was the production of Le Duc de Liancourt ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.87>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9342,
+    "question": "Was the production of Wyatt Eaton ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.88.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9343,
+    "question": "Was the production of Thomas Clarkson Wilberfoss ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.88.36>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9344,
+    "question": "Was the production of Scene, Indian River, Florida ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.29.69>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9345,
+    "question": "Was the production of John Swanwick ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2010.16.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9346,
+    "question": "Was the production of Brick Pressing Machine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9347,
+    "question": "Was the production of Cotton Seed Planter ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.3A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9348,
+    "question": "Was the production of Sewing Machine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9349,
+    "question": "Was the production of Il Penseroso ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/XX75>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9350,
+    "question": "Was the production of In the Meadows at Windsor ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.168>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9351,
+    "question": "Was the production of Osage Scalp Dance ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.248%2C930>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9352,
+    "question": "Was the production of Forest and Native House ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.328%2C266>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9353,
+    "question": "Was the production of Andrew John ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.403%2C430>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9354,
+    "question": "Was the production of Mrs. James Morris ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1963.9.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9355,
+    "question": "Was the production of Ball Play (La Crosse) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1966.48.69>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9356,
+    "question": "Was the production of Man, Woman, Dog and Stag ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.14.47>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9357,
+    "question": "Was the production of Portrait of Nathaniel Searle ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.125>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9358,
+    "question": "Was the production of Supremacy ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.6.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9359,
+    "question": "Was the production of Jar with Handles ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.326.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9360,
+    "question": "Was the production of A Tree Study ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1930.12.55>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9361,
+    "question": "Was the production of Field Sketch of Rocky Canyon ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1947.13.46>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9362,
+    "question": "Was the production of Sir Guy Carelton ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1950.4.20>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9363,
+    "question": "Was the production of George Partridge Richardson ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1950.4.25>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9364,
+    "question": "Was the production of Natalie at Seven ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.73>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9365,
+    "question": "Was the production of Ballerine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1952.13.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9366,
+    "question": "Was the production of Snowballs ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1952.13.91>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9367,
+    "question": "Was the production of Cardinal Grosbeak ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1953.3.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9368,
+    "question": "Was the production of Irish Gentleman ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1956.11.25>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9369,
+    "question": "Was the production of Watching ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1958.11.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9370,
+    "question": "Was the production of Andre Joseph Villard ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1961.9.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9371,
+    "question": "Was the production of Cotopaxi ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.12>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9372,
+    "question": "Was the production of Buffalo, Gulf of Nicomedia ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.55>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9373,
+    "question": "Was the production of Water Carrier, Venice ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.83>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9374,
+    "question": "Was the production of Austin, Nevada ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.132>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9375,
+    "question": "Was the production of Joven criolla ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.91.18>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9376,
+    "question": "Was the production of Retrato de caballero ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1996.91.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9377,
+    "question": "Was the production of Dionysius ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1998.45>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9378,
+    "question": "Was the production of Villajoyosa, Spain ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.20>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9379,
+    "question": "Was the production of Burnham's Hotel ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.65.144>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9380,
+    "question": "Was the production of Greek Lady, Brusa ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.147>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9381,
+    "question": "Was the production of Castle of Corfu ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.346>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9382,
+    "question": "Was the production of Christ and the Pharisees ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.70.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9383,
+    "question": "Was the production of Mariner's Fancy, Celebra ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.65.298>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9384,
+    "question": "Was the production of Elizabeth Gibson Powers ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.30>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9385,
+    "question": "Was the production of William H. King ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.71>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9386,
+    "question": "Was the production of Choir Boy ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.88.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9387,
+    "question": "Was the production of Girl in White ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1969.147>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9388,
+    "question": "Was the production of Rosebud ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.355.769>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9389,
+    "question": "Was the production of Christmas Greens ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.84.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9390,
+    "question": "Was the production of The Carpenter's Shop ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.84.71>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9391,
+    "question": "Was the production of Emperor of Norfolk ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.122.21>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9392,
+    "question": "Was the production of Forest Interior with Stream ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.155>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9393,
+    "question": "Was the production of St. Jerome ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.69.22>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9394,
+    "question": "Was the production of Gen. John Gibbon ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.88.18>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9395,
+    "question": "Was the production of Great White Heron ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1975.20.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9396,
+    "question": "Was the production of The Town Pump ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.113.20>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9397,
+    "question": "Was the production of Samuel Hall Gregory ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.55>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9398,
+    "question": "Was the production of The True Mother Goose ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.16.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9399,
+    "question": "Was the production of A Garden Path ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.26>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9400,
+    "question": "Was the production of The Wealth of Autumn ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.47>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9401,
+    "question": "Was the production of Parlor Cabinet ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9402,
+    "question": "Was the production of Mary Fletcher ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.15.3>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9403,
+    "question": "Was the production of Utah, Utah Lake ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.29.70>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9404,
+    "question": "Was the production of The Tap on the Window ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.33.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9405,
+    "question": "Was the production of Cloudy Moon ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2009.21.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9406,
+    "question": "Was the production of Washing Machine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.17>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9407,
+    "question": "Was the production of Ship Steering Apparatus ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.21>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9408,
+    "question": "Was the production of Chunka-ah-luta (Red Dog) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.128%2C428>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9409,
+    "question": "Was the production of Ball-play Dance, Choctaw ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.427>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9410,
+    "question": "Was the production of Mitherless Bairn ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.54.24>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9411,
+    "question": "Was the production of La Gouvernante Fidele ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.54.46>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9412,
+    "question": "Was the production of High Cliff, Coast of Maine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1909.7.29>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9413,
+    "question": "Was the production of Thomas Hopkinson ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1926.6.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9414,
+    "question": "Was the production of Miniature Ship ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1929.8.492>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9415,
+    "question": "Was the production of Jane Stone ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1934.11.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9416,
+    "question": "Was the production of Beulah Appleton ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1942.11.7>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9417,
+    "question": "Was the production of Rock Tower near Marmelito ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1947.13.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9418,
+    "question": "Was the production of Upper Falls, Yellowstone ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1947.13.34>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9419,
+    "question": "Was the production of On the Soda Butte Creek ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1947.13.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9420,
+    "question": "Was the production of Ebenezer Martin ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1949.2.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9421,
+    "question": "Was the production of Freda ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.14.27>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9422,
+    "question": "Was the production of Pillar ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.297>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9423,
+    "question": "Was the production of Prancing Horse Weathervane ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.12.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9424,
+    "question": "Was the production of A Native Daughter ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1992.13.10>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9425,
+    "question": "Was the production of Boats on the Sea ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.146>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9426,
+    "question": "Was the production of In Winter, Kiowa ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.161>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9427,
+    "question": "Was the production of Niagara in Summer, from Below ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1994.91.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9428,
+    "question": "Was the production of Captain Noah Rich ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.27.76>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9429,
+    "question": "Was the production of Anne Hume Shippen ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.87.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9430,
+    "question": "Was the production of Mazatlan, Mexico ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1999.97.41>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9431,
+    "question": "Was the production of Brook Trout Decoy ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1986.65.43>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9432,
+    "question": "Was the production of A Pine Tree ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.14.158>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9433,
+    "question": "Was the production of Old Woman Seated ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1967.54.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9434,
+    "question": "Was the production of Captain Charles McKnight ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.137>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9435,
+    "question": "Was the production of Proserpine (fragment) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.102>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9436,
+    "question": "Was the production of Mold of a Woman's Hand ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.172>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9437,
+    "question": "Was the production of Captain John Grant ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.31>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9438,
+    "question": "Was the production of John Elder ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.88>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9439,
+    "question": "Was the production of Grandma Moran ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.193>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9440,
+    "question": "Was the production of Crow Creek ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.446.179>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9441,
+    "question": "Was the production of Large Head in Profile ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.84.28>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9442,
+    "question": "Was the production of Coon Alley ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.84.73>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9443,
+    "question": "Was the production of Salt Water Ponds ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.122.61>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9444,
+    "question": "Was the production of A Southerly Wind ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.122.72>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9445,
+    "question": "Was the production of Napoleon as Emperor ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.117>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9446,
+    "question": "Was the production of Good Friday Morning ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.138>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9447,
+    "question": "Was the production of Portrait of Rosalba Peale ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1978.71>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9448,
+    "question": "Was the production of Still Life with Fan and Roses ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.149>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9449,
+    "question": "Was the production of The Country Store ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.5.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9450,
+    "question": "Was the production of The Chap-Book (The Blue Lady) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.111.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9451,
+    "question": "Was the production of Church, Eton ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.249>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9452,
+    "question": "Was the production of Old Houses, Lausanne ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.88>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9453,
+    "question": "Was the production of Marshall Pass, Colorado ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2004.29.49>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9454,
+    "question": "Was the production of Winter Skating in New Jersey ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2005.21>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9455,
+    "question": "Was the production of Toy Bicycle Rider ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9456,
+    "question": "Was the production of Mousetrap ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.15>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9457,
+    "question": "Was the production of Tobacco Cutting Machine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.20>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9458,
+    "question": "Was the production of Heating Stove ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.2A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9459,
+    "question": "Was the production of Governor for Steam Engines ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9460,
+    "question": "Was the production of Mount Healthy, Ohio ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.95.159>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9461,
+    "question": "Was the production of Mountain Pool ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.95.173>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9462,
+    "question": "Was the production of The Young Sabot Maker ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.95.49>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9463,
+    "question": "Was the production of Newspaper Boy ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.95.85>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9464,
+    "question": "Was the production of Araucanian Man ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.164%2C670>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9465,
+    "question": "Was the production of No Heart (Nan-che-ning-ga) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.258%2C362>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9466,
+    "question": "Was the production of Great Hero, a chief ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.386%2C321>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9467,
+    "question": "Was the production of Mrs. Charles Boynton Darling ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1937.6.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9468,
+    "question": "Was the production of William Mather Smith ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1944.7.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9469,
+    "question": "Was the production of Member of the Schuyler Family ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1950.4.38>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9470,
+    "question": "Was the production of Old Mesilla Plaza ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1951.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9471,
+    "question": "Was the production of Mrs. Lloyd ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1956.11.58>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9472,
+    "question": "Was the production of Antwerp Cathedral ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1962.13.8>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9473,
+    "question": "Was the production of Sketch for Lombardy Bleachery ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1965.14.5>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9474,
+    "question": "Was the production of Castle at Corfu, Greece ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1991.56.149>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9475,
+    "question": "Was the production of Faith ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.22>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9476,
+    "question": "Was the production of Katherine Foote ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1968.155.93>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9477,
+    "question": "Was the production of Classical Landscape ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1970.185>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9478,
+    "question": "Was the production of Christ at Emmaus ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1971.292.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9479,
+    "question": "Was the production of Portrait of Miss Hoe ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1972.84.16>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9480,
+    "question": "Was the production of William Corbett's School ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.4>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9481,
+    "question": "Was the production of Young Michelangelo ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.53>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9482,
+    "question": "Was the production of Lumbermen's Camp ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.130.6>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9483,
+    "question": "Was the production of Boy in a Landscape ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1973.152.1>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9484,
+    "question": "Was the production of Model for Hodgkins Medal ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1974.88.20>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9485,
+    "question": "Was the production of Thomas Davis ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1976.32.2>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9486,
+    "question": "Was the production of Mr. Laughlin ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1979.5.11>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9487,
+    "question": "Was the production of Jonathan Jones Wheeler ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1981.35>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9488,
+    "question": "Was the production of Brittany Landscape ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1982.68>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9489,
+    "question": "Was the production of The Wye near Ross ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.275>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9490,
+    "question": "Was the production of Porth Dinlleyn, North Wales ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.83.279>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9491,
+    "question": "Was the production of Evening on the Maas ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1983.90.150>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9492,
+    "question": "Was the production of Winter Sunset ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1984.23>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9493,
+    "question": "Was the production of [Boy and Dog] ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2009.44.22>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9494,
+    "question": "Was the production of Paper Bag Making Machine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.13>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9495,
+    "question": "Was the production of Extension Ladder ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.14>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9496,
+    "question": "Was the production of Water Feed for Boilers ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.24>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9497,
+    "question": "Was the production of Fence Fabricating Machine ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2011.37.9>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9498,
+    "question": "Was the production of Head of a Black Man ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/2012.69A-B>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9499,
+    "question": "Was the production of Lawrence Barrett As Cassius ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/XX46>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+},
+{
+    "id":9500,
+    "question": "Was the production of O-mata-ah-luta (Red Plume) ended before 1900?",
+    "entity":  "<http://data.americanart.si.edu/object/id/1985.66.128%2C430>",
+    "answers": ["Yes"],
+    "type":"confirmation",
+	"property":"production_year",
+    "radius": 3
+}
+]

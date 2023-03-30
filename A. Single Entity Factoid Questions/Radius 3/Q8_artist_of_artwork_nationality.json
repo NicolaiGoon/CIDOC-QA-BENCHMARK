@@ -6,7 +6,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3002,
@@ -15,7 +17,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3003,
@@ -24,7 +28,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3004,
@@ -33,7 +39,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3005,
@@ -42,7 +50,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3006,
@@ -51,7 +61,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3007,
@@ -60,7 +72,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3008,
@@ -69,7 +83,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3009,
@@ -78,7 +94,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3010,
@@ -87,7 +105,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3011,
@@ -96,7 +116,9 @@
     "answers": [
       "Dutch"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3012,
@@ -105,7 +127,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3013,
@@ -114,7 +138,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3014,
@@ -123,7 +149,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3015,
@@ -132,7 +160,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3016,
@@ -141,7 +171,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3017,
@@ -150,7 +182,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3018,
@@ -159,7 +193,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3019,
@@ -168,7 +204,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3020,
@@ -177,7 +215,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3021,
@@ -186,7 +226,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3022,
@@ -195,7 +237,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3023,
@@ -204,7 +248,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3024,
@@ -213,7 +259,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3025,
@@ -222,7 +270,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3026,
@@ -231,7 +281,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3027,
@@ -240,7 +292,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3028,
@@ -249,7 +303,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3029,
@@ -258,7 +314,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3030,
@@ -267,7 +325,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3031,
@@ -276,7 +336,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3032,
@@ -285,7 +347,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3033,
@@ -294,7 +358,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3034,
@@ -303,7 +369,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3035,
@@ -312,7 +380,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3036,
@@ -321,7 +391,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3037,
@@ -330,7 +402,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3038,
@@ -339,7 +413,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3039,
@@ -348,7 +424,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3040,
@@ -357,7 +435,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3041,
@@ -366,7 +446,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3042,
@@ -375,7 +457,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3043,
@@ -384,7 +468,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3044,
@@ -393,7 +479,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3045,
@@ -402,7 +490,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3046,
@@ -411,7 +501,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3047,
@@ -420,7 +512,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3048,
@@ -429,7 +523,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3049,
@@ -438,7 +534,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3050,
@@ -447,7 +545,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3051,
@@ -456,7 +556,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3052,
@@ -465,7 +567,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3053,
@@ -474,7 +578,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3054,
@@ -483,7 +589,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3055,
@@ -492,7 +600,9 @@
     "answers": [
       "Belgian"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3056,
@@ -501,7 +611,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3057,
@@ -510,7 +622,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3058,
@@ -519,7 +633,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3059,
@@ -528,7 +644,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3060,
@@ -537,7 +655,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3061,
@@ -546,7 +666,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3062,
@@ -555,7 +677,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3063,
@@ -564,7 +688,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3064,
@@ -573,7 +699,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3065,
@@ -582,7 +710,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3066,
@@ -591,7 +721,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3067,
@@ -600,7 +732,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3068,
@@ -609,7 +743,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3069,
@@ -618,7 +754,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3070,
@@ -627,7 +765,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3071,
@@ -636,7 +776,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3072,
@@ -645,7 +787,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3073,
@@ -654,7 +798,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3074,
@@ -663,7 +809,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3075,
@@ -672,7 +820,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3076,
@@ -681,7 +831,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3077,
@@ -690,7 +842,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3078,
@@ -699,7 +853,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3079,
@@ -708,7 +864,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3080,
@@ -717,7 +875,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3081,
@@ -726,7 +886,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3082,
@@ -735,7 +897,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3083,
@@ -744,7 +908,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3084,
@@ -753,7 +919,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3085,
@@ -762,7 +930,9 @@
     "answers": [
       "French"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3086,
@@ -771,7 +941,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3087,
@@ -780,7 +952,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3088,
@@ -789,7 +963,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3089,
@@ -798,7 +974,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3090,
@@ -807,7 +985,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3091,
@@ -816,7 +996,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3092,
@@ -825,7 +1007,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3093,
@@ -834,7 +1018,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3094,
@@ -843,7 +1029,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3095,
@@ -852,7 +1040,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3096,
@@ -861,7 +1051,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3097,
@@ -870,7 +1062,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3098,
@@ -879,7 +1073,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3099,
@@ -888,7 +1084,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3100,
@@ -897,7 +1095,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3101,
@@ -906,7 +1106,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3102,
@@ -915,7 +1117,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3103,
@@ -924,7 +1128,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3104,
@@ -933,7 +1139,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3105,
@@ -942,7 +1150,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3106,
@@ -951,7 +1161,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3107,
@@ -960,7 +1172,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3108,
@@ -969,7 +1183,9 @@
     "answers": [
       "English"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3109,
@@ -978,7 +1194,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3110,
@@ -987,7 +1205,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3111,
@@ -996,7 +1216,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3112,
@@ -1005,7 +1227,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3113,
@@ -1014,7 +1238,9 @@
     "answers": [
       "Dutch"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3114,
@@ -1023,7 +1249,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3115,
@@ -1032,7 +1260,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3116,
@@ -1041,7 +1271,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3117,
@@ -1050,7 +1282,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3118,
@@ -1059,7 +1293,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3119,
@@ -1068,7 +1304,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3120,
@@ -1077,7 +1315,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3121,
@@ -1086,7 +1326,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3122,
@@ -1095,7 +1337,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3123,
@@ -1104,7 +1348,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3124,
@@ -1113,7 +1359,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3125,
@@ -1122,7 +1370,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3126,
@@ -1131,7 +1381,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3127,
@@ -1140,7 +1392,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3128,
@@ -1149,7 +1403,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3129,
@@ -1158,7 +1414,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3130,
@@ -1167,7 +1425,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3131,
@@ -1176,7 +1436,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3132,
@@ -1185,7 +1447,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3133,
@@ -1194,7 +1458,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3134,
@@ -1203,7 +1469,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3135,
@@ -1212,7 +1480,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3136,
@@ -1221,7 +1491,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3137,
@@ -1230,7 +1502,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3138,
@@ -1239,7 +1513,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3139,
@@ -1248,7 +1524,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3140,
@@ -1257,7 +1535,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3141,
@@ -1266,7 +1546,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3142,
@@ -1275,7 +1557,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3143,
@@ -1284,7 +1568,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3144,
@@ -1293,7 +1579,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3145,
@@ -1302,7 +1590,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3146,
@@ -1311,7 +1601,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3147,
@@ -1320,7 +1612,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3148,
@@ -1329,7 +1623,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3149,
@@ -1338,7 +1634,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3150,
@@ -1347,7 +1645,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3151,
@@ -1356,7 +1656,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3152,
@@ -1365,7 +1667,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3153,
@@ -1374,7 +1678,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3154,
@@ -1383,7 +1689,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3155,
@@ -1392,7 +1700,9 @@
     "answers": [
       "Mexican"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3156,
@@ -1401,7 +1711,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3157,
@@ -1410,7 +1722,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3158,
@@ -1419,7 +1733,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3159,
@@ -1428,7 +1744,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3160,
@@ -1437,7 +1755,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3161,
@@ -1446,7 +1766,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3162,
@@ -1455,7 +1777,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3163,
@@ -1464,7 +1788,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3164,
@@ -1473,7 +1799,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3165,
@@ -1482,7 +1810,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3166,
@@ -1491,7 +1821,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3167,
@@ -1500,7 +1832,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3168,
@@ -1509,7 +1843,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3169,
@@ -1518,7 +1854,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3170,
@@ -1527,7 +1865,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3171,
@@ -1536,7 +1876,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3172,
@@ -1545,7 +1887,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3173,
@@ -1554,7 +1898,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3174,
@@ -1563,7 +1909,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3175,
@@ -1572,7 +1920,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3176,
@@ -1581,7 +1931,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3177,
@@ -1590,7 +1942,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3178,
@@ -1599,7 +1953,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3179,
@@ -1608,7 +1964,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3180,
@@ -1617,7 +1975,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3181,
@@ -1626,7 +1986,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3182,
@@ -1635,7 +1997,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3183,
@@ -1644,7 +2008,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3184,
@@ -1653,7 +2019,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3185,
@@ -1662,7 +2030,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3186,
@@ -1671,7 +2041,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3187,
@@ -1680,7 +2052,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3188,
@@ -1689,7 +2063,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3189,
@@ -1698,7 +2074,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3190,
@@ -1707,7 +2085,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3191,
@@ -1716,7 +2096,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3192,
@@ -1725,7 +2107,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3193,
@@ -1734,7 +2118,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3194,
@@ -1743,7 +2129,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3195,
@@ -1752,7 +2140,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3196,
@@ -1761,7 +2151,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3197,
@@ -1770,7 +2162,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3198,
@@ -1779,7 +2173,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3199,
@@ -1788,7 +2184,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3200,
@@ -1797,7 +2195,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3201,
@@ -1806,7 +2206,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3202,
@@ -1815,7 +2217,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3203,
@@ -1824,7 +2228,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3204,
@@ -1833,7 +2239,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3205,
@@ -1842,7 +2250,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3206,
@@ -1851,7 +2261,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3207,
@@ -1860,7 +2272,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3208,
@@ -1869,7 +2283,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3209,
@@ -1878,7 +2294,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3210,
@@ -1887,7 +2305,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3211,
@@ -1896,7 +2316,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3212,
@@ -1905,7 +2327,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3213,
@@ -1914,7 +2338,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3214,
@@ -1923,7 +2349,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3215,
@@ -1932,7 +2360,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3216,
@@ -1941,7 +2371,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3217,
@@ -1950,7 +2382,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3218,
@@ -1959,7 +2393,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3219,
@@ -1968,7 +2404,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3220,
@@ -1977,7 +2415,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3221,
@@ -1986,7 +2426,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3222,
@@ -1995,7 +2437,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3223,
@@ -2004,7 +2448,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3224,
@@ -2013,7 +2459,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3225,
@@ -2022,7 +2470,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3226,
@@ -2031,7 +2481,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3227,
@@ -2040,7 +2492,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3228,
@@ -2049,7 +2503,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3229,
@@ -2058,7 +2514,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3230,
@@ -2067,7 +2525,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3231,
@@ -2076,7 +2536,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3232,
@@ -2085,7 +2547,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3233,
@@ -2094,7 +2558,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3234,
@@ -2103,7 +2569,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3235,
@@ -2112,7 +2580,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3236,
@@ -2121,7 +2591,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3237,
@@ -2130,7 +2602,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3238,
@@ -2139,7 +2613,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3239,
@@ -2148,7 +2624,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3240,
@@ -2157,7 +2635,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3241,
@@ -2166,7 +2646,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3242,
@@ -2175,7 +2657,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3243,
@@ -2184,7 +2668,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3244,
@@ -2193,7 +2679,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3245,
@@ -2202,7 +2690,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3246,
@@ -2211,7 +2701,9 @@
     "answers": [
       "Italian-Swiss"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3247,
@@ -2220,7 +2712,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3248,
@@ -2229,7 +2723,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3249,
@@ -2238,7 +2734,9 @@
     "answers": [
       "English"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3250,
@@ -2247,7 +2745,9 @@
     "answers": [
       "Mexican"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3251,
@@ -2256,7 +2756,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3252,
@@ -2265,7 +2767,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3253,
@@ -2274,7 +2778,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3254,
@@ -2283,7 +2789,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3255,
@@ -2292,7 +2800,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3256,
@@ -2301,7 +2811,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3257,
@@ -2310,7 +2822,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3258,
@@ -2319,7 +2833,9 @@
     "answers": [
       "Belgian"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3259,
@@ -2328,7 +2844,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3260,
@@ -2337,7 +2855,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3261,
@@ -2346,7 +2866,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3262,
@@ -2355,7 +2877,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3263,
@@ -2364,7 +2888,9 @@
     "answers": [
       "Uruguayan"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3264,
@@ -2373,7 +2899,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3265,
@@ -2382,7 +2910,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3266,
@@ -2391,7 +2921,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3267,
@@ -2400,7 +2932,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3268,
@@ -2409,7 +2943,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3269,
@@ -2418,7 +2954,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3270,
@@ -2427,7 +2965,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3271,
@@ -2436,7 +2976,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3272,
@@ -2445,7 +2987,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3273,
@@ -2454,7 +2998,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3274,
@@ -2463,7 +3009,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3275,
@@ -2472,7 +3020,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3276,
@@ -2481,7 +3031,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3277,
@@ -2490,7 +3042,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3278,
@@ -2499,7 +3053,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3279,
@@ -2508,7 +3064,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3280,
@@ -2517,7 +3075,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3281,
@@ -2526,7 +3086,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3282,
@@ -2535,7 +3097,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3283,
@@ -2544,7 +3108,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3284,
@@ -2553,7 +3119,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3285,
@@ -2562,7 +3130,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3286,
@@ -2571,7 +3141,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3287,
@@ -2580,7 +3152,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3288,
@@ -2589,7 +3163,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3289,
@@ -2598,7 +3174,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3290,
@@ -2607,7 +3185,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3291,
@@ -2616,7 +3196,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3292,
@@ -2625,7 +3207,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3293,
@@ -2634,7 +3218,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3294,
@@ -2643,7 +3229,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3295,
@@ -2652,7 +3240,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3296,
@@ -2661,7 +3251,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3297,
@@ -2670,7 +3262,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3298,
@@ -2679,7 +3273,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3299,
@@ -2688,7 +3284,9 @@
     "answers": [
       "French"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3300,
@@ -2697,7 +3295,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3301,
@@ -2706,7 +3306,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3302,
@@ -2715,7 +3317,9 @@
     "answers": [
       "Scottish"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3303,
@@ -2724,7 +3328,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3304,
@@ -2733,7 +3339,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3305,
@@ -2742,7 +3350,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3306,
@@ -2751,7 +3361,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3307,
@@ -2760,7 +3372,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3308,
@@ -2769,7 +3383,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3309,
@@ -2778,7 +3394,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3310,
@@ -2787,7 +3405,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3311,
@@ -2796,7 +3416,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3312,
@@ -2805,7 +3427,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3313,
@@ -2814,7 +3438,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3314,
@@ -2823,7 +3449,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3315,
@@ -2832,7 +3460,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3316,
@@ -2841,7 +3471,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3317,
@@ -2850,7 +3482,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3318,
@@ -2859,7 +3493,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3319,
@@ -2868,7 +3504,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3320,
@@ -2877,7 +3515,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3321,
@@ -2886,7 +3526,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3322,
@@ -2895,7 +3537,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3323,
@@ -2904,7 +3548,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3324,
@@ -2913,7 +3559,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3325,
@@ -2922,7 +3570,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3326,
@@ -2931,7 +3581,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3327,
@@ -2940,7 +3592,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3328,
@@ -2949,7 +3603,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3329,
@@ -2958,7 +3614,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3330,
@@ -2967,7 +3625,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3331,
@@ -2976,7 +3636,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3332,
@@ -2985,7 +3647,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3333,
@@ -2994,7 +3658,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3334,
@@ -3003,7 +3669,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3335,
@@ -3012,7 +3680,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3336,
@@ -3021,7 +3691,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3337,
@@ -3030,7 +3702,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3338,
@@ -3039,7 +3713,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3339,
@@ -3048,7 +3724,9 @@
     "answers": [
       "Mexican"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3340,
@@ -3057,7 +3735,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3341,
@@ -3066,7 +3746,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3342,
@@ -3075,7 +3757,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3343,
@@ -3084,7 +3768,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3344,
@@ -3093,7 +3779,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3345,
@@ -3102,7 +3790,9 @@
     "answers": [
       "French"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3346,
@@ -3111,7 +3801,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3347,
@@ -3120,7 +3812,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3348,
@@ -3129,7 +3823,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3349,
@@ -3138,7 +3834,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3350,
@@ -3147,7 +3845,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3351,
@@ -3156,7 +3856,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3352,
@@ -3165,7 +3867,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3353,
@@ -3174,7 +3878,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3354,
@@ -3183,7 +3889,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3355,
@@ -3192,7 +3900,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3356,
@@ -3201,7 +3911,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3357,
@@ -3210,7 +3922,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3358,
@@ -3219,7 +3933,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3359,
@@ -3228,7 +3944,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3360,
@@ -3237,7 +3955,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3361,
@@ -3246,7 +3966,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3362,
@@ -3255,7 +3977,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3363,
@@ -3264,7 +3988,9 @@
     "answers": [
       "Danish"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3364,
@@ -3273,7 +3999,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3365,
@@ -3282,7 +4010,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3366,
@@ -3291,7 +4021,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3367,
@@ -3300,7 +4032,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3368,
@@ -3309,7 +4043,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3369,
@@ -3318,7 +4054,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3370,
@@ -3327,7 +4065,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3371,
@@ -3336,7 +4076,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3372,
@@ -3345,7 +4087,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3373,
@@ -3354,7 +4098,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3374,
@@ -3363,7 +4109,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3375,
@@ -3372,7 +4120,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3376,
@@ -3381,7 +4131,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3377,
@@ -3390,7 +4142,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3378,
@@ -3399,7 +4153,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3379,
@@ -3408,7 +4164,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3380,
@@ -3417,7 +4175,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3381,
@@ -3426,7 +4186,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3382,
@@ -3435,7 +4197,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3383,
@@ -3444,7 +4208,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3384,
@@ -3453,7 +4219,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3385,
@@ -3462,7 +4230,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3386,
@@ -3471,7 +4241,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3387,
@@ -3480,7 +4252,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3388,
@@ -3489,7 +4263,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3389,
@@ -3498,7 +4274,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3390,
@@ -3507,7 +4285,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3391,
@@ -3516,7 +4296,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3392,
@@ -3525,7 +4307,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3393,
@@ -3534,7 +4318,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3394,
@@ -3543,7 +4329,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3395,
@@ -3552,7 +4340,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3396,
@@ -3561,7 +4351,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3397,
@@ -3570,7 +4362,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3398,
@@ -3579,7 +4373,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3399,
@@ -3588,7 +4384,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3400,
@@ -3597,7 +4395,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3401,
@@ -3606,7 +4406,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3402,
@@ -3615,7 +4417,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3403,
@@ -3624,7 +4428,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3404,
@@ -3633,7 +4439,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3405,
@@ -3642,7 +4450,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3406,
@@ -3651,7 +4461,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3407,
@@ -3660,7 +4472,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3408,
@@ -3669,7 +4483,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3409,
@@ -3678,7 +4494,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3410,
@@ -3687,7 +4505,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3411,
@@ -3696,7 +4516,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3412,
@@ -3705,7 +4527,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3413,
@@ -3714,7 +4538,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3414,
@@ -3723,7 +4549,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3415,
@@ -3732,7 +4560,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3416,
@@ -3741,7 +4571,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3417,
@@ -3750,7 +4582,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3418,
@@ -3759,7 +4593,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3419,
@@ -3768,7 +4604,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3420,
@@ -3777,7 +4615,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3421,
@@ -3786,7 +4626,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3422,
@@ -3795,7 +4637,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3423,
@@ -3804,7 +4648,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3424,
@@ -3813,7 +4659,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3425,
@@ -3822,7 +4670,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3426,
@@ -3831,7 +4681,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3427,
@@ -3840,7 +4692,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3428,
@@ -3849,7 +4703,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3429,
@@ -3858,7 +4714,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3430,
@@ -3867,7 +4725,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3431,
@@ -3876,7 +4736,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3432,
@@ -3885,7 +4747,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3433,
@@ -3894,7 +4758,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3434,
@@ -3903,7 +4769,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3435,
@@ -3912,7 +4780,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3436,
@@ -3921,7 +4791,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3437,
@@ -3930,7 +4802,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3438,
@@ -3939,7 +4813,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3439,
@@ -3948,7 +4824,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3440,
@@ -3957,7 +4835,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3441,
@@ -3966,7 +4846,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3442,
@@ -3975,7 +4857,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3443,
@@ -3984,7 +4868,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3444,
@@ -3993,7 +4879,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3445,
@@ -4002,7 +4890,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3446,
@@ -4011,7 +4901,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3447,
@@ -4020,7 +4912,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3448,
@@ -4029,7 +4923,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3449,
@@ -4038,7 +4934,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3450,
@@ -4047,7 +4945,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3451,
@@ -4056,7 +4956,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3452,
@@ -4065,7 +4967,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3453,
@@ -4074,7 +4978,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3454,
@@ -4083,7 +4989,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3455,
@@ -4092,7 +5000,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3456,
@@ -4101,7 +5011,9 @@
     "answers": [
       "English"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3457,
@@ -4110,7 +5022,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3458,
@@ -4119,7 +5033,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3459,
@@ -4128,7 +5044,9 @@
     "answers": [
       "Uruguayan"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3460,
@@ -4137,7 +5055,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3461,
@@ -4146,7 +5066,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3462,
@@ -4155,7 +5077,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3463,
@@ -4164,7 +5088,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3464,
@@ -4173,7 +5099,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3465,
@@ -4182,7 +5110,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3466,
@@ -4191,7 +5121,9 @@
     "answers": [
       "Swiss"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3467,
@@ -4200,7 +5132,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3468,
@@ -4209,7 +5143,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3469,
@@ -4218,7 +5154,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3470,
@@ -4227,7 +5165,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3471,
@@ -4236,7 +5176,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3472,
@@ -4245,7 +5187,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3473,
@@ -4254,7 +5198,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3474,
@@ -4263,7 +5209,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3475,
@@ -4272,7 +5220,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3476,
@@ -4281,7 +5231,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3477,
@@ -4290,7 +5242,9 @@
     "answers": [
       "English"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3478,
@@ -4299,7 +5253,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3479,
@@ -4308,7 +5264,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3480,
@@ -4317,7 +5275,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3481,
@@ -4326,7 +5286,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3482,
@@ -4335,7 +5297,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3483,
@@ -4344,7 +5308,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3484,
@@ -4353,7 +5319,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3485,
@@ -4362,7 +5330,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3486,
@@ -4371,7 +5341,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3487,
@@ -4380,7 +5352,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3488,
@@ -4389,7 +5363,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3489,
@@ -4398,7 +5374,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3490,
@@ -4407,7 +5385,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3491,
@@ -4416,7 +5396,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3492,
@@ -4425,7 +5407,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3493,
@@ -4434,7 +5418,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3494,
@@ -4443,7 +5429,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3495,
@@ -4452,7 +5440,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3496,
@@ -4461,7 +5451,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3497,
@@ -4470,7 +5462,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3498,
@@ -4479,7 +5473,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3499,
@@ -4488,7 +5484,9 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   },
   {
     "id": 3500,
@@ -4497,6 +5495,8 @@
     "answers": [
       "American"
     ],
-    "type": "nationalityOfCreator_D3"
+    "type": "single-entity factoid",
+	"property": "nationalityOfCreator",
+	"radius": 3
   }
 ]

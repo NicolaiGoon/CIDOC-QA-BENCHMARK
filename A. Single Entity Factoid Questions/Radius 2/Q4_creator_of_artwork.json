@@ -6,7 +6,9 @@
     "answers": [
       "Henry Colton Shumway"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1002,
@@ -15,7 +17,9 @@
     "answers": [
       "Lloyd C. Foltz"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1003,
@@ -24,7 +28,9 @@
     "answers": [
       "Paul Henry Ramirez"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1004,
@@ -33,7 +39,9 @@
     "answers": [
       "Ian Hornak"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1005,
@@ -42,7 +50,9 @@
     "answers": [
       "Paula Bartron"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1006,
@@ -51,7 +61,9 @@
     "answers": [
       "Ralston Crawford"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1007,
@@ -60,7 +72,9 @@
     "answers": [
       "Helen Hyde"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1008,
@@ -69,7 +83,9 @@
     "answers": [
       "Charles Walter Stetson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1009,
@@ -78,7 +94,9 @@
     "answers": [
       "John Hultberg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1010,
@@ -87,7 +105,9 @@
     "answers": [
       "Kurt Seligmann"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1011,
@@ -96,7 +116,9 @@
     "answers": [
       "Hugh E. McKay"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1012,
@@ -105,7 +127,9 @@
     "answers": [
       "Benny Andrews"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1013,
@@ -114,7 +138,9 @@
     "answers": [
       "Bertha E. Jaques"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1014,
@@ -123,7 +149,9 @@
     "answers": [
       "Trevor Dixon"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1015,
@@ -132,7 +160,9 @@
     "answers": [
       "William Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1016,
@@ -141,7 +171,9 @@
     "answers": [
       "Louis Kurz"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1017,
@@ -150,7 +182,9 @@
     "answers": [
       "Leigh Palmer"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1018,
@@ -159,7 +193,9 @@
     "answers": [
       "Jean Charlot"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1019,
@@ -168,7 +204,9 @@
     "answers": [
       "Red Robin"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1020,
@@ -177,7 +215,9 @@
     "answers": [
       "Ruben Trejo"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1021,
@@ -186,7 +226,9 @@
     "answers": [
       "Gene Davis"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1022,
@@ -195,7 +237,9 @@
     "answers": [
       "Albert Heckman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1023,
@@ -204,7 +248,9 @@
     "answers": [
       "Leon R. Pescheret"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1024,
@@ -213,7 +259,9 @@
     "answers": [
       "Eleanor Modrakowska"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1025,
@@ -222,7 +270,9 @@
     "answers": [
       "Douglas Coffey"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1026,
@@ -231,7 +281,9 @@
     "answers": [
       "Henry Ossawa Tanner"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1027,
@@ -240,7 +292,9 @@
     "answers": [
       "Bertha E. Jaques"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1028,
@@ -249,7 +303,9 @@
     "answers": [
       "Jean Charlot"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1029,
@@ -258,7 +314,9 @@
     "answers": [
       "Philip Moulthrop"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1030,
@@ -267,7 +325,9 @@
     "answers": [
       "Kathy Vargas"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1031,
@@ -276,7 +336,9 @@
     "answers": [
       "Robert Disraeli"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1032,
@@ -285,7 +347,9 @@
     "answers": [
       "Jacob Kainen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1033,
@@ -294,7 +358,9 @@
     "answers": [
       "William H. Johnson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1034,
@@ -303,7 +369,9 @@
     "answers": [
       "H. Bolton Jones"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1035,
@@ -312,7 +380,9 @@
     "answers": [
       "Marc Maiorana"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1036,
@@ -321,7 +391,9 @@
     "answers": [
       "Eddie Arning"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1037,
@@ -330,7 +402,9 @@
     "answers": [
       "Werner Drewes"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1038,
@@ -339,7 +413,9 @@
     "answers": [
       "Carl Moon"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1039,
@@ -348,7 +424,9 @@
     "answers": [
       "José Guadalupe Posada"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1040,
@@ -357,7 +435,9 @@
     "answers": [
       "Harry Gottlieb"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1041,
@@ -366,7 +446,9 @@
     "answers": [
       "Louis Lozowick"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1042,
@@ -375,7 +457,9 @@
     "answers": [
       "Adolf Dehn"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1043,
@@ -384,7 +468,9 @@
     "answers": [
       "Thomas Hart Benton"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1044,
@@ -393,7 +479,9 @@
     "answers": [
       "Hubert Denis Etcheverry"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1045,
@@ -402,7 +490,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1046,
@@ -411,7 +501,9 @@
     "answers": [
       "Robert Clements"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1047,
@@ -420,7 +512,9 @@
     "answers": [
       "Alexander Calder"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1048,
@@ -429,7 +523,9 @@
     "answers": [
       "Lily Harmon"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1049,
@@ -438,7 +534,9 @@
     "answers": [
       "Gene Davis"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1050,
@@ -447,7 +545,9 @@
     "answers": [
       "Paul Manship"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1051,
@@ -456,7 +556,9 @@
     "answers": [
       "Tony Oursler"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1052,
@@ -465,7 +567,9 @@
     "answers": [
       "John Cameron"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1053,
@@ -474,7 +578,9 @@
     "answers": [
       "Nura"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1054,
@@ -483,7 +589,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1055,
@@ -492,7 +600,9 @@
     "answers": [
       "Rockne Krebs"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1056,
@@ -501,7 +611,9 @@
     "answers": [
       "Reginald Pollack"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1057,
@@ -510,7 +622,9 @@
     "answers": [
       "Isabelle Greenberger"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1058,
@@ -519,7 +633,9 @@
     "answers": [
       "Catherine M. Howell"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1059,
@@ -528,7 +644,9 @@
     "answers": [
       "Roy DeCarava"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1060,
@@ -537,7 +655,9 @@
     "answers": [
       "Herman A. Webster"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1061,
@@ -546,7 +666,9 @@
     "answers": [
       "Gabrielle de Veaux Clements"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1062,
@@ -555,7 +677,9 @@
     "answers": [
       "Balcomb Greene"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1063,
@@ -564,7 +688,9 @@
     "answers": [
       "Man Ray"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1064,
@@ -573,7 +699,9 @@
     "answers": [
       "Rembrandt Van Rijn"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1065,
@@ -582,7 +710,9 @@
     "answers": [
       "Pat Hickman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1066,
@@ -591,7 +721,9 @@
     "answers": [
       "James Earle Fraser"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1067,
@@ -600,7 +732,9 @@
     "answers": [
       "Merritt Mauzey"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1068,
@@ -609,7 +743,9 @@
     "answers": [
       "Ronald Hayes Pearson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1069,
@@ -618,7 +754,9 @@
     "answers": [
       "Geoff Winningham"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1070,
@@ -627,7 +765,9 @@
     "answers": [
       "Edward Kemeys"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1071,
@@ -636,7 +776,9 @@
     "answers": [
       "Abbo Ostrowsky"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1072,
@@ -645,7 +787,9 @@
     "answers": [
       "Guy MacCoy"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1073,
@@ -654,7 +798,9 @@
     "answers": [
       "John Wood"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1074,
@@ -663,7 +809,9 @@
     "answers": [
       "Solon H. Borglum"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1075,
@@ -672,7 +820,9 @@
     "answers": [
       "Frank Paulin"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1076,
@@ -681,7 +831,9 @@
     "answers": [
       "Janet Fish"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1077,
@@ -690,7 +842,9 @@
     "answers": [
       "Albert Sterner"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1078,
@@ -699,7 +853,9 @@
     "answers": [
       "Peter Milton"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1079,
@@ -708,7 +864,9 @@
     "answers": [
       "Hiram Powers"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1080,
@@ -717,7 +875,9 @@
     "answers": [
       "David Teniers"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1081,
@@ -726,7 +886,9 @@
     "answers": [
       "William H. Johnson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1082,
@@ -735,7 +897,9 @@
     "answers": [
       "Fred Uhl Ball"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1083,
@@ -744,7 +908,9 @@
     "answers": [
       "William Penhallow Henderson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1084,
@@ -753,7 +919,9 @@
     "answers": [
       "Gene Davis"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1085,
@@ -762,7 +930,9 @@
     "answers": [
       "George Elbert Burr"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1086,
@@ -771,7 +941,9 @@
     "answers": [
       "Alice Pike Barney"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1087,
@@ -780,7 +952,9 @@
     "answers": [
       "Christy Oates"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1088,
@@ -789,7 +963,9 @@
     "answers": [
       "Adja Yunkers"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1089,
@@ -798,7 +974,9 @@
     "answers": [
       "F. Luis Mora"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1090,
@@ -807,7 +985,9 @@
     "answers": [
       "Raphael Montañez Ortiz"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1091,
@@ -816,7 +996,9 @@
     "answers": [
       "Joseph Margulies"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1092,
@@ -825,7 +1007,9 @@
     "answers": [
       "Mingering Mike"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1093,
@@ -834,7 +1018,9 @@
     "answers": [
       "Todd Webb"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1094,
@@ -843,7 +1029,9 @@
     "answers": [
       "Marguerite Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1095,
@@ -852,7 +1040,9 @@
     "answers": [
       "Thomas Coleman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1096,
@@ -861,7 +1051,9 @@
     "answers": [
       "Luis Cruz Azaceta"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1097,
@@ -870,7 +1062,9 @@
     "answers": [
       "Alma Thomas"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1098,
@@ -879,7 +1073,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1099,
@@ -888,7 +1084,9 @@
     "answers": [
       "George de Forest Brush"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1100,
@@ -897,7 +1095,9 @@
     "answers": [
       "Edward Timothy Hurley"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1101,
@@ -906,7 +1106,9 @@
     "answers": [
       "John Alexander"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1102,
@@ -915,7 +1117,9 @@
     "answers": [
       "Wood Gaylor"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1103,
@@ -924,7 +1128,9 @@
     "answers": [
       "Jo Lathwood"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1104,
@@ -933,7 +1139,9 @@
     "answers": [
       "Gardner Symons"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1105,
@@ -942,7 +1150,9 @@
     "answers": [
       "Mabel Dwight"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1106,
@@ -951,7 +1161,9 @@
     "answers": [
       "Lewis Aubineau"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1107,
@@ -960,7 +1172,9 @@
     "answers": [
       "Moses Soyer"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1108,
@@ -969,7 +1183,9 @@
     "answers": [
       "Hananiah Harari"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1109,
@@ -978,7 +1194,9 @@
     "answers": [
       "Muriel Streeter"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1110,
@@ -987,7 +1205,9 @@
     "answers": [
       "Andrew R. Butler"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1111,
@@ -996,7 +1216,9 @@
     "answers": [
       "Cory Arcangel"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1112,
@@ -1005,7 +1227,9 @@
     "answers": [
       "Thomas Moran"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1113,
@@ -1014,7 +1238,9 @@
     "answers": [
       "Lissa Hunter"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1114,
@@ -1023,7 +1249,9 @@
     "answers": [
       "Alfred T. Agate"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1115,
@@ -1032,7 +1260,9 @@
     "answers": [
       "Alice Pike Barney"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1116,
@@ -1041,7 +1271,9 @@
     "answers": [
       "Awa Tsireh"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1117,
@@ -1050,7 +1282,9 @@
     "answers": [
       "Lynn Courtlandt Hastings"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1118,
@@ -1059,7 +1293,9 @@
     "answers": [
       "Thomas Moran"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1119,
@@ -1068,7 +1304,9 @@
     "answers": [
       "J. Alden Weir"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1120,
@@ -1077,7 +1315,9 @@
     "answers": [
       "Athena Tacha"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1121,
@@ -1086,7 +1326,9 @@
     "answers": [
       "Enrico Glicenstein"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1122,
@@ -1095,7 +1337,9 @@
     "answers": [
       "John Rogers"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1123,
@@ -1104,7 +1348,9 @@
     "answers": [
       "Michael Goldberg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1124,
@@ -1113,7 +1359,9 @@
     "answers": [
       "John P. Wise"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1125,
@@ -1122,7 +1370,9 @@
     "answers": [
       "Michael Mazur"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1126,
@@ -1131,7 +1381,9 @@
     "answers": [
       "Walter Gay"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1127,
@@ -1140,7 +1392,9 @@
     "answers": [
       "Carl Van Vechten"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1128,
@@ -1149,7 +1403,9 @@
     "answers": [
       "Herb Jackson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1129,
@@ -1158,7 +1414,9 @@
     "answers": [
       "David Bates"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1130,
@@ -1167,7 +1425,9 @@
     "answers": [
       "William Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1131,
@@ -1176,7 +1436,9 @@
     "answers": [
       "William H. Johnson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1132,
@@ -1185,7 +1447,9 @@
     "answers": [
       "Craig Nutt"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1133,
@@ -1194,7 +1458,9 @@
     "answers": [
       "Emily Burling Waite"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1134,
@@ -1203,7 +1469,9 @@
     "answers": [
       "William Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1135,
@@ -1212,7 +1480,9 @@
     "answers": [
       "Robert Deurloo"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1136,
@@ -1221,7 +1491,9 @@
     "answers": [
       "Aaron Bohrod"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1137,
@@ -1230,7 +1502,9 @@
     "answers": [
       "José Guadalupe Posada"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1138,
@@ -1239,7 +1513,9 @@
     "answers": [
       "Stacey Lee Webber"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1139,
@@ -1248,7 +1524,9 @@
     "answers": [
       "Herman Hartwich"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1140,
@@ -1257,7 +1535,9 @@
     "answers": [
       "John M. Foster"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1141,
@@ -1266,7 +1546,9 @@
     "answers": [
       "Ed Bosley"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1142,
@@ -1275,7 +1557,9 @@
     "answers": [
       "Lonnie Vigil"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1143,
@@ -1284,7 +1568,9 @@
     "answers": [
       "Otto H. Bacher"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1144,
@@ -1293,7 +1579,9 @@
     "answers": [
       "Harry Brodsky"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1145,
@@ -1302,7 +1590,9 @@
     "answers": [
       "Cristina Córdova"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1146,
@@ -1311,7 +1601,9 @@
     "answers": [
       "William H. Johnson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1147,
@@ -1320,7 +1612,9 @@
     "answers": [
       "Gordon Grant"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1148,
@@ -1329,7 +1623,9 @@
     "answers": [
       "Robert S. Duncanson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1149,
@@ -1338,7 +1634,9 @@
     "answers": [
       "Grant Wood"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1150,
@@ -1347,7 +1645,9 @@
     "answers": [
       "Van Wageman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1151,
@@ -1356,7 +1656,9 @@
     "answers": [
       "Frank McClure"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1152,
@@ -1365,7 +1667,9 @@
     "answers": [
       "Sarah Goodridge"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1153,
@@ -1374,7 +1678,9 @@
     "answers": [
       "Chiura Obata"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1154,
@@ -1383,7 +1689,9 @@
     "answers": [
       "Gene Davis"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1155,
@@ -1392,7 +1700,9 @@
     "answers": [
       "Jack Kotz"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1156,
@@ -1401,7 +1711,9 @@
     "answers": [
       "William H. Johnson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1157,
@@ -1410,7 +1722,9 @@
     "answers": [
       "Miye Matsukata"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1158,
@@ -1419,7 +1733,9 @@
     "answers": [
       "Thomas Moran"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1159,
@@ -1428,7 +1744,9 @@
     "answers": [
       "Sean Scully"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1160,
@@ -1437,7 +1755,9 @@
     "answers": [
       "William Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1161,
@@ -1446,7 +1766,9 @@
     "answers": [
       "Henry Bacon"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1162,
@@ -1455,7 +1777,9 @@
     "answers": [
       "George Nakashima"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1163,
@@ -1464,7 +1788,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1164,
@@ -1473,7 +1799,9 @@
     "answers": [
       "Howard Cook"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1165,
@@ -1482,7 +1810,9 @@
     "answers": [
       "Werner Drewes"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1166,
@@ -1491,7 +1821,9 @@
     "answers": [
       "Carl Newman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1167,
@@ -1500,7 +1832,9 @@
     "answers": [
       "Robert Walch"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1168,
@@ -1509,7 +1843,9 @@
     "answers": [
       "John Flanagan"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1169,
@@ -1518,7 +1854,9 @@
     "answers": [
       "Matt Phillips"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1170,
@@ -1527,7 +1865,9 @@
     "answers": [
       "Herman A. Webster"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1171,
@@ -1536,7 +1876,9 @@
     "answers": [
       "Walker Evans"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1172,
@@ -1545,7 +1887,9 @@
     "answers": [
       "Luigi Rist"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1173,
@@ -1554,7 +1898,9 @@
     "answers": [
       "Fred Becker"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1174,
@@ -1563,7 +1909,9 @@
     "answers": [
       "Anthony de Francisci"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1175,
@@ -1572,7 +1920,9 @@
     "answers": [
       "Richard Prince"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1176,
@@ -1581,7 +1931,9 @@
     "answers": [
       "Caleb Charland"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1177,
@@ -1590,7 +1942,9 @@
     "answers": [
       "Alice Pike Barney"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1178,
@@ -1599,7 +1953,9 @@
     "answers": [
       "Olga Albizu"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1179,
@@ -1608,7 +1964,9 @@
     "answers": [
       "Jose Luis Cuevas"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1180,
@@ -1617,7 +1975,9 @@
     "answers": [
       "Rose Mary Gonnella-Butler"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1181,
@@ -1626,7 +1986,9 @@
     "answers": [
       "Walker Evans"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1182,
@@ -1635,7 +1997,9 @@
     "answers": [
       "Tom Lea"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1183,
@@ -1644,7 +2008,9 @@
     "answers": [
       "Christopher Dawson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1184,
@@ -1653,7 +2019,9 @@
     "answers": [
       "Henry Wolf"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1185,
@@ -1662,7 +2030,9 @@
     "answers": [
       "Henry Ray Clark"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1186,
@@ -1671,7 +2041,9 @@
     "answers": [
       "Roger Brown"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1187,
@@ -1680,7 +2052,9 @@
     "answers": [
       "Pamela Hanson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1188,
@@ -1689,7 +2063,9 @@
     "answers": [
       "Allen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1189,
@@ -1698,7 +2074,9 @@
     "answers": [
       "Jess"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1190,
@@ -1707,7 +2085,9 @@
     "answers": [
       "Matthew Pratt"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1191,
@@ -1716,7 +2096,9 @@
     "answers": [
       "Paul Cadmus"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1192,
@@ -1725,7 +2107,9 @@
     "answers": [
       "Thomas W. Nason"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1193,
@@ -1734,7 +2118,9 @@
     "answers": [
       "Richard A. Florsheim"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1194,
@@ -1743,7 +2129,9 @@
     "answers": [
       "Alma Thomas"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1195,
@@ -1752,7 +2140,9 @@
     "answers": [
       "Marion Post Wolcott"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1196,
@@ -1761,7 +2151,9 @@
     "answers": [
       "Lloyd McNeill"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1197,
@@ -1770,7 +2162,9 @@
     "answers": [
       "\"Tattoo Jack\" Cripe"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1198,
@@ -1779,7 +2173,9 @@
     "answers": [
       "Elbridge Ayer Burbank"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1199,
@@ -1788,7 +2184,9 @@
     "answers": [
       "Paul Herzoff"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1200,
@@ -1797,7 +2195,9 @@
     "answers": [
       "Robert Graham"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1201,
@@ -1806,7 +2206,9 @@
     "answers": [
       "Jacques Hnizdovsky"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1202,
@@ -1815,7 +2217,9 @@
     "answers": [
       "George Catlin"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1203,
@@ -1824,7 +2228,9 @@
     "answers": [
       "Lester Johnson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1204,
@@ -1833,7 +2239,9 @@
     "answers": [
       "John Singleton Copley"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1205,
@@ -1842,7 +2250,9 @@
     "answers": [
       "Ingeborg Andreasen-Lindborg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1206,
@@ -1851,7 +2261,9 @@
     "answers": [
       "William H. Johnson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1207,
@@ -1860,7 +2272,9 @@
     "answers": [
       "Bruce Conner"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1208,
@@ -1869,7 +2283,9 @@
     "answers": [
       "Werner Drewes"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1209,
@@ -1878,7 +2294,9 @@
     "answers": [
       "Will H. Bradley"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1210,
@@ -1887,7 +2305,9 @@
     "answers": [
       "Harry Donald Jones"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1211,
@@ -1896,7 +2316,9 @@
     "answers": [
       "George A. Bradshaw"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1212,
@@ -1905,7 +2327,9 @@
     "answers": [
       "Howard Cook"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1213,
@@ -1914,7 +2338,9 @@
     "answers": [
       "Howard Mehring"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1214,
@@ -1923,7 +2349,9 @@
     "answers": [
       "Guy Pene du Bois"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1215,
@@ -1932,7 +2360,9 @@
     "answers": [
       "Louis Lozowick"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1216,
@@ -1941,7 +2371,9 @@
     "answers": [
       "Lee Friedlander"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1217,
@@ -1950,7 +2382,9 @@
     "answers": [
       "Man Ray"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1218,
@@ -1959,7 +2393,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1219,
@@ -1968,7 +2404,9 @@
     "answers": [
       "Ellsworth Kelly"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1220,
@@ -1977,7 +2415,9 @@
     "answers": [
       "George Grosz"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1221,
@@ -1986,7 +2426,9 @@
     "answers": [
       "Luis A. Solari"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1222,
@@ -1995,7 +2437,9 @@
     "answers": [
       "Sir Joshua Reynolds"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1223,
@@ -2004,7 +2448,9 @@
     "answers": [
       "Henri L'Evêque"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1224,
@@ -2013,7 +2459,9 @@
     "answers": [
       "Louis Lozowick"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1225,
@@ -2022,7 +2470,9 @@
     "answers": [
       "Helen Hyde"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1226,
@@ -2031,7 +2481,9 @@
     "answers": [
       "Paul Heinig"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1227,
@@ -2040,7 +2492,9 @@
     "answers": [
       "Albert Heckman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1228,
@@ -2049,7 +2503,9 @@
     "answers": [
       "Toshiko Takaezu"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1229,
@@ -2058,7 +2514,9 @@
     "answers": [
       "Gene Davis"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1230,
@@ -2067,7 +2525,9 @@
     "answers": [
       "W. W. Swallow"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1231,
@@ -2076,7 +2536,9 @@
     "answers": [
       "Jesse Treviño"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1232,
@@ -2085,7 +2547,9 @@
     "answers": [
       "Edward Millman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1233,
@@ -2094,7 +2558,9 @@
     "answers": [
       "George Legrady"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1234,
@@ -2103,7 +2569,9 @@
     "answers": [
       "Harry Donald Jones"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1235,
@@ -2112,7 +2580,9 @@
     "answers": [
       "Denny Winters"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1236,
@@ -2121,7 +2591,9 @@
     "answers": [
       "Georgia Blizzard"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1237,
@@ -2130,7 +2602,9 @@
     "answers": [
       "Gregory Gillespie"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1238,
@@ -2139,7 +2613,9 @@
     "answers": [
       "Katherine Merrill"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1239,
@@ -2148,7 +2624,9 @@
     "answers": [
       "Jon Carsman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1240,
@@ -2157,7 +2635,9 @@
     "answers": [
       "Marguerite Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1241,
@@ -2166,7 +2646,9 @@
     "answers": [
       "Moses Wainer Dykaar"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1242,
@@ -2175,7 +2657,9 @@
     "answers": [
       "Thomas Wilmer Dewing"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1243,
@@ -2184,7 +2668,9 @@
     "answers": [
       "Charles Pollock"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1244,
@@ -2193,7 +2679,9 @@
     "answers": [
       "James Alexander Simpson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1245,
@@ -2202,7 +2690,9 @@
     "answers": [
       "Werner Drewes"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1246,
@@ -2211,7 +2701,9 @@
     "answers": [
       "Dick Evans"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1247,
@@ -2220,7 +2712,9 @@
     "answers": [
       "Ludwig Mactarian"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1248,
@@ -2229,7 +2723,9 @@
     "answers": [
       "De Lancey Gill"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1249,
@@ -2238,7 +2734,9 @@
     "answers": [
       "Tony Berlant"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1250,
@@ -2247,7 +2745,9 @@
     "answers": [
       "Alice Pike Barney"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1251,
@@ -2256,7 +2756,9 @@
     "answers": [
       "Paul Manship"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1252,
@@ -2265,7 +2767,9 @@
     "answers": [
       "John Graham"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1253,
@@ -2274,7 +2778,9 @@
     "answers": [
       "Raymond Breinin"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1254,
@@ -2283,7 +2789,9 @@
     "answers": [
       "Arthur Hammond"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1255,
@@ -2292,7 +2800,9 @@
     "answers": [
       "George Elbert Burr"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1256,
@@ -2301,7 +2811,9 @@
     "answers": [
       "Eldzier Cortor"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1257,
@@ -2310,7 +2822,9 @@
     "answers": [
       "Jean Francois De Vallee"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1258,
@@ -2319,7 +2833,9 @@
     "answers": [
       "Will Barnet"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1259,
@@ -2328,7 +2844,9 @@
     "answers": [
       "Henry Ossawa Tanner"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1260,
@@ -2337,7 +2855,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1261,
@@ -2346,7 +2866,9 @@
     "answers": [
       "Stanley William Hayter"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1262,
@@ -2355,7 +2877,9 @@
     "answers": [
       "Kenneth McGowan"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1263,
@@ -2364,7 +2888,9 @@
     "answers": [
       "Jacob Kainen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1264,
@@ -2373,7 +2899,9 @@
     "answers": [
       "Blanche McManus Mansfield"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1265,
@@ -2382,7 +2910,9 @@
     "answers": [
       "Cliff Lee"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1266,
@@ -2391,7 +2921,9 @@
     "answers": [
       "David Courlander"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1267,
@@ -2400,7 +2932,9 @@
     "answers": [
       "Wolf Kahn"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1268,
@@ -2409,7 +2943,9 @@
     "answers": [
       "Carl Van Vechten"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1269,
@@ -2418,7 +2954,9 @@
     "answers": [
       "Lloyd G. Schermer"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1270,
@@ -2427,7 +2965,9 @@
     "answers": [
       "Joseph Holston"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1271,
@@ -2436,7 +2976,9 @@
     "answers": [
       "Childe Hassam"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1272,
@@ -2445,7 +2987,9 @@
     "answers": [
       "Miriam Schapiro"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1273,
@@ -2454,7 +2998,9 @@
     "answers": [
       "William Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1274,
@@ -2463,7 +3009,9 @@
     "answers": [
       "Clinton Hill"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1275,
@@ -2472,7 +3020,9 @@
     "answers": [
       "Sal Fiorito"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1276,
@@ -2481,7 +3031,9 @@
     "answers": [
       "Anthony de Francisci"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1277,
@@ -2490,7 +3042,9 @@
     "answers": [
       "Carmen Cicero"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1278,
@@ -2499,7 +3053,9 @@
     "answers": [
       "H. Lyman Saÿen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1279,
@@ -2508,7 +3064,9 @@
     "answers": [
       "Eugenie Fish Glaman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1280,
@@ -2517,7 +3075,9 @@
     "answers": [
       "James Swann"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1281,
@@ -2526,7 +3086,9 @@
     "answers": [
       "Jacques Hnizdovsky"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1282,
@@ -2535,7 +3097,9 @@
     "answers": [
       "Benjamin West"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1283,
@@ -2544,7 +3108,9 @@
     "answers": [
       "Andrew Raftery"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1284,
@@ -2553,7 +3119,9 @@
     "answers": [
       "Anna K. Weaver"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1285,
@@ -2562,7 +3130,9 @@
     "answers": [
       "Lou Stovall"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1286,
@@ -2571,7 +3141,9 @@
     "answers": [
       "C. Don Briddell"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1287,
@@ -2580,7 +3152,9 @@
     "answers": [
       "Prentiss Taylor"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1288,
@@ -2589,7 +3163,9 @@
     "answers": [
       "Solon H. Borglum"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1289,
@@ -2598,7 +3174,9 @@
     "answers": [
       "Prentiss Taylor"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1290,
@@ -2607,7 +3185,9 @@
     "answers": [
       "Saul Chase"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1291,
@@ -2616,7 +3196,9 @@
     "answers": [
       "Harry Donald Jones"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1292,
@@ -2625,7 +3207,9 @@
     "answers": [
       "Edmond Casarella"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1293,
@@ -2634,7 +3218,9 @@
     "answers": [
       "Joseph Henry Sharp"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1294,
@@ -2643,7 +3229,9 @@
     "answers": [
       "Gabor Peterdi"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1295,
@@ -2652,7 +3240,9 @@
     "answers": [
       "George Bellows"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1296,
@@ -2661,7 +3251,9 @@
     "answers": [
       "Seong Moy"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1297,
@@ -2670,7 +3262,9 @@
     "answers": [
       "F. A. Du Peyron"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1298,
@@ -2679,7 +3273,9 @@
     "answers": [
       "Herman A. Webster"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1299,
@@ -2688,7 +3284,9 @@
     "answers": [
       "Lisa Norton"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1300,
@@ -2697,7 +3295,9 @@
     "answers": [
       "Louis C. Rosenberg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1301,
@@ -2706,7 +3306,9 @@
     "answers": [
       "Irving Penn"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1302,
@@ -2715,7 +3317,9 @@
     "answers": [
       "Jacob Kainen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1303,
@@ -2724,7 +3328,9 @@
     "answers": [
       "Harold E. Edgerton"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1304,
@@ -2733,7 +3339,9 @@
     "answers": [
       "Birger Sandzen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1305,
@@ -2742,7 +3350,9 @@
     "answers": [
       "Alice Pike Barney"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1306,
@@ -2751,7 +3361,9 @@
     "answers": [
       "Werner Drewes"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1307,
@@ -2760,7 +3372,9 @@
     "answers": [
       "Joan Peterdi"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1308,
@@ -2769,7 +3383,9 @@
     "answers": [
       "Eleanor Coen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1309,
@@ -2778,7 +3394,9 @@
     "answers": [
       "Diana Thorne"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1310,
@@ -2787,7 +3405,9 @@
     "answers": [
       "George Catlin"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1311,
@@ -2796,7 +3416,9 @@
     "answers": [
       "Régis François Gignoux"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1312,
@@ -2805,7 +3427,9 @@
     "answers": [
       "Joseph Cornell"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1313,
@@ -2814,7 +3438,9 @@
     "answers": [
       "Luis Camnitzer"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1314,
@@ -2823,7 +3449,9 @@
     "answers": [
       "Paul Manship"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1315,
@@ -2832,7 +3460,9 @@
     "answers": [
       "Isaac Witkin"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1316,
@@ -2841,7 +3471,9 @@
     "answers": [
       "Richard Misrach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1317,
@@ -2850,7 +3482,9 @@
     "answers": [
       "Frank Edwin Scott"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1318,
@@ -2859,7 +3493,9 @@
     "answers": [
       "Aaron J. Goodelman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1319,
@@ -2868,7 +3504,9 @@
     "answers": [
       "William Penhallow Henderson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1320,
@@ -2877,7 +3515,9 @@
     "answers": [
       "S. L. Margolies"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1321,
@@ -2886,7 +3526,9 @@
     "answers": [
       "Joseph Cornell"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1322,
@@ -2895,7 +3537,9 @@
     "answers": [
       "William T. Wiley"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1323,
@@ -2904,7 +3548,9 @@
     "answers": [
       "George Overbury \"Pop\" Hart"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1324,
@@ -2913,7 +3559,9 @@
     "answers": [
       "Chuzo Tamotzu"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1325,
@@ -2922,7 +3570,9 @@
     "answers": [
       "Richard Lahey"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1326,
@@ -2931,7 +3581,9 @@
     "answers": [
       "Robert Brown"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1327,
@@ -2940,7 +3592,9 @@
     "answers": [
       "James E. Allen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1328,
@@ -2949,7 +3603,9 @@
     "answers": [
       "Sydney Butchkes"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1329,
@@ -2958,7 +3614,9 @@
     "answers": [
       "Lonnie Holley"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1330,
@@ -2967,7 +3625,9 @@
     "answers": [
       "Man Ray"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1331,
@@ -2976,7 +3636,9 @@
     "answers": [
       "George Elbert Burr"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1332,
@@ -2985,7 +3647,9 @@
     "answers": [
       "Jacob Kainen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1333,
@@ -2994,7 +3658,9 @@
     "answers": [
       "José de Creeft"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1334,
@@ -3003,7 +3669,9 @@
     "answers": [
       "Jacob Landau"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1335,
@@ -3012,7 +3680,9 @@
     "answers": [
       "John Marin"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1336,
@@ -3021,7 +3691,9 @@
     "answers": [
       "Jonathan Scott Hartley"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1337,
@@ -3030,7 +3702,9 @@
     "answers": [
       "Theodore J. Richardson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1338,
@@ -3039,7 +3713,9 @@
     "answers": [
       "John Wood Dodge"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1339,
@@ -3048,7 +3724,9 @@
     "answers": [
       "John Fago"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1340,
@@ -3057,7 +3735,9 @@
     "answers": [
       "Charles W. Dahlgreen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1341,
@@ -3066,7 +3746,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1342,
@@ -3075,7 +3757,9 @@
     "answers": [
       "Larry Fuente"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1343,
@@ -3084,7 +3768,9 @@
     "answers": [
       "Harvey R. Zipkin"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1344,
@@ -3093,7 +3779,9 @@
     "answers": [
       "Garo Antreasian"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1345,
@@ -3102,7 +3790,9 @@
     "answers": [
       "Robert Feke"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1346,
@@ -3111,7 +3801,9 @@
     "answers": [
       "May Gearhart"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1347,
@@ -3120,7 +3812,9 @@
     "answers": [
       "William Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1348,
@@ -3129,7 +3823,9 @@
     "answers": [
       "Louis Linck"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1349,
@@ -3138,7 +3834,9 @@
     "answers": [
       "Werner Drewes"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1350,
@@ -3147,7 +3845,9 @@
     "answers": [
       "F. Koralewsky"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1351,
@@ -3156,7 +3856,9 @@
     "answers": [
       "Winckworth Allan Gay"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1352,
@@ -3165,7 +3867,9 @@
     "answers": [
       "Francois Arnal"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1353,
@@ -3174,7 +3878,9 @@
     "answers": [
       "Don Doll, S. J."
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1354,
@@ -3183,7 +3889,9 @@
     "answers": [
       "George Constant"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1355,
@@ -3192,7 +3900,9 @@
     "answers": [
       "Susie Krasnican"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1356,
@@ -3201,7 +3911,9 @@
     "answers": [
       "Mildred Bryant Brooks"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1357,
@@ -3210,7 +3922,9 @@
     "answers": [
       "Stephen John Phillips"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1358,
@@ -3219,7 +3933,9 @@
     "answers": [
       "Irving Penn"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1359,
@@ -3228,7 +3944,9 @@
     "answers": [
       "Asa Cheffetz"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1360,
@@ -3237,7 +3955,9 @@
     "answers": [
       "Eric J. Smith"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1361,
@@ -3246,7 +3966,9 @@
     "answers": [
       "Frederic Edwin Church"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1362,
@@ -3255,7 +3977,9 @@
     "answers": [
       "Tim Tate"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1363,
@@ -3264,7 +3988,9 @@
     "answers": [
       "Louis Bouche"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1364,
@@ -3273,7 +3999,9 @@
     "answers": [
       "Jean Charlot"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1365,
@@ -3282,7 +4010,9 @@
     "answers": [
       "William H. Johnson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1366,
@@ -3291,7 +4021,9 @@
     "answers": [
       "William Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1367,
@@ -3300,7 +4032,9 @@
     "answers": [
       "Marguerite Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1368,
@@ -3309,7 +4043,9 @@
     "answers": [
       "Charles H. Niehaus"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1369,
@@ -3318,7 +4054,9 @@
     "answers": [
       "Harold E. Edgerton"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1370,
@@ -3327,7 +4065,9 @@
     "answers": [
       "Blanche Lazzell"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1371,
@@ -3336,7 +4076,9 @@
     "answers": [
       "Gene Davis"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1372,
@@ -3345,7 +4087,9 @@
     "answers": [
       "Viktor Schreckengost"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1373,
@@ -3354,7 +4098,9 @@
     "answers": [
       "Alexander S. Masley"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1374,
@@ -3363,7 +4109,9 @@
     "answers": [
       "Emanuel Schary"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1375,
@@ -3372,7 +4120,9 @@
     "answers": [
       "Rude Osolnik"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1376,
@@ -3381,7 +4131,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1377,
@@ -3390,7 +4142,9 @@
     "answers": [
       "Alice Pike Barney"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1378,
@@ -3399,7 +4153,9 @@
     "answers": [
       "Edwin L. Fulwider"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1379,
@@ -3408,7 +4164,9 @@
     "answers": [
       "John E. Thompson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1380,
@@ -3417,7 +4175,9 @@
     "answers": [
       "Ernest C. Peixotto"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1381,
@@ -3426,7 +4186,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1382,
@@ -3435,7 +4197,9 @@
     "answers": [
       "Kerr Eby"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1383,
@@ -3444,7 +4208,9 @@
     "answers": [
       "David Haxton"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1384,
@@ -3453,7 +4219,9 @@
     "answers": [
       "Emily Burling Waite"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1385,
@@ -3462,7 +4230,9 @@
     "answers": [
       "Kerr Eby"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1386,
@@ -3471,7 +4241,9 @@
     "answers": [
       "Darryl Arawjo"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1387,
@@ -3480,7 +4252,9 @@
     "answers": [
       "Jennifer Crupi"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1388,
@@ -3489,7 +4263,9 @@
     "answers": [
       "Louis Lozowick"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1389,
@@ -3498,7 +4274,9 @@
     "answers": [
       "Charles Wellington Furlong"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1390,
@@ -3507,7 +4285,9 @@
     "answers": [
       "William Henry Bartlett"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1391,
@@ -3516,7 +4296,9 @@
     "answers": [
       "Dean Meeker"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1392,
@@ -3525,7 +4307,9 @@
     "answers": [
       "Elias A. Bonine"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1393,
@@ -3534,7 +4318,9 @@
     "answers": [
       "Todd Webb"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1394,
@@ -3543,7 +4329,9 @@
     "answers": [
       "Gerald K. Geerlings"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1395,
@@ -3552,7 +4340,9 @@
     "answers": [
       "John James Audubon"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1396,
@@ -3561,7 +4351,9 @@
     "answers": [
       "Alexandre Hogue"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1397,
@@ -3570,7 +4362,9 @@
     "answers": [
       "Herman A. Webster"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1398,
@@ -3579,7 +4373,9 @@
     "answers": [
       "Man Ray"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1399,
@@ -3588,7 +4384,9 @@
     "answers": [
       "Loïs Mailou Jones"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1400,
@@ -3597,7 +4395,9 @@
     "answers": [
       "Homer Dodge Martin"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1401,
@@ -3606,7 +4406,9 @@
     "answers": [
       "J. Alden Weir"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1402,
@@ -3615,7 +4417,9 @@
     "answers": [
       "Irving Penn"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1403,
@@ -3624,7 +4428,9 @@
     "answers": [
       "Robert Morris"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1404,
@@ -3633,7 +4439,9 @@
     "answers": [
       "Augustus Saint-Gaudens"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1405,
@@ -3642,7 +4450,9 @@
     "answers": [
       "Jacob Kainen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1406,
@@ -3651,7 +4461,9 @@
     "answers": [
       "Larry Rivers"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1407,
@@ -3660,7 +4472,9 @@
     "answers": [
       "Edgar Dorsey Taylor"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1408,
@@ -3669,7 +4483,9 @@
     "answers": [
       "Claude Buck"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1409,
@@ -3678,7 +4494,9 @@
     "answers": [
       "Howard Cook"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1410,
@@ -3687,7 +4505,9 @@
     "answers": [
       "Margaret Ann Gaug"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1411,
@@ -3696,7 +4516,9 @@
     "answers": [
       "Margarita Cabrera"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1412,
@@ -3705,7 +4527,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1413,
@@ -3714,7 +4538,9 @@
     "answers": [
       "Alice Pike Barney"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1414,
@@ -3723,7 +4549,9 @@
     "answers": [
       "Louise Nevelson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1415,
@@ -3732,7 +4560,9 @@
     "answers": [
       "Unidentified Puerto Rican Artist"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1416,
@@ -3741,7 +4571,9 @@
     "answers": [
       "Irving Penn"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1417,
@@ -3750,7 +4582,9 @@
     "answers": [
       "Eliot Clark"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1418,
@@ -3759,7 +4593,9 @@
     "answers": [
       "Linda Bills"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1419,
@@ -3768,7 +4604,9 @@
     "answers": [
       "Walker Evans"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1420,
@@ -3777,7 +4615,9 @@
     "answers": [
       "Dong Kingman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1421,
@@ -3786,7 +4626,9 @@
     "answers": [
       "Antonion Zeno Shindler"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1422,
@@ -3795,7 +4637,9 @@
     "answers": [
       "Leonard Maurer"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1423,
@@ -3804,7 +4648,9 @@
     "answers": [
       "Harry Brodsky"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1424,
@@ -3813,7 +4659,9 @@
     "answers": [
       "Mark Tansey"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1425,
@@ -3822,7 +4670,9 @@
     "answers": [
       "Alice Pike Barney"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1426,
@@ -3831,7 +4681,9 @@
     "answers": [
       "Charles Peale Polk"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1427,
@@ -3840,7 +4692,9 @@
     "answers": [
       "Nancy Holt"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1428,
@@ -3849,7 +4703,9 @@
     "answers": [
       "Mingering Mike"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1429,
@@ -3858,7 +4714,9 @@
     "answers": [
       "Howard Cook"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1430,
@@ -3867,7 +4725,9 @@
     "answers": [
       "John Ritto Penniman"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1431,
@@ -3876,7 +4736,9 @@
     "answers": [
       "John Hultberg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1432,
@@ -3885,7 +4747,9 @@
     "answers": [
       "Sir Joshua Reynolds"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1433,
@@ -3894,7 +4758,9 @@
     "answers": [
       "Gerald Sinclair Hayward"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1434,
@@ -3903,7 +4769,9 @@
     "answers": [
       "Rube Goldberg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1435,
@@ -3912,7 +4780,9 @@
     "answers": [
       "E. C. and E. B. Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1436,
@@ -3921,7 +4791,9 @@
     "answers": [
       "B. J. O. Nordfeldt"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1437,
@@ -3930,7 +4802,9 @@
     "answers": [
       "William T. Wiley"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1438,
@@ -3939,7 +4813,9 @@
     "answers": [
       "Peggy Bacon"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1439,
@@ -3948,7 +4824,9 @@
     "answers": [
       "Neil Welliver"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1440,
@@ -3957,7 +4835,9 @@
     "answers": [
       "Julian Schnabel"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1441,
@@ -3966,7 +4846,9 @@
     "answers": [
       "Leonard Maurer"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1442,
@@ -3975,7 +4857,9 @@
     "answers": [
       "Sarah Goodridge"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1443,
@@ -3984,7 +4868,9 @@
     "answers": [
       "Thornton Dial, Sr."
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1444,
@@ -3993,7 +4879,9 @@
     "answers": [
       "Joseph Cornell"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1445,
@@ -4002,7 +4890,9 @@
     "answers": [
       "Sean Scully"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1446,
@@ -4011,7 +4901,9 @@
     "answers": [
       "Edward Lambert"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1447,
@@ -4020,7 +4912,9 @@
     "answers": [
       "Charles K. Gleeson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1448,
@@ -4029,7 +4923,9 @@
     "answers": [
       "Augustus Peck"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1449,
@@ -4038,7 +4934,9 @@
     "answers": [
       "Cass Gilbert"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1450,
@@ -4047,7 +4945,9 @@
     "answers": [
       "Elia Alba"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1451,
@@ -4056,7 +4956,9 @@
     "answers": [
       "Edward S. Hewitt"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1452,
@@ -4065,7 +4967,9 @@
     "answers": [
       "Robert Cottingham"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1453,
@@ -4074,7 +4978,9 @@
     "answers": [
       "Emily Clayton Bishop"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1454,
@@ -4083,7 +4989,9 @@
     "answers": [
       "Marie P. Castegnier"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1455,
@@ -4092,7 +5000,9 @@
     "answers": [
       "Ben Shahn"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1456,
@@ -4101,7 +5011,9 @@
     "answers": [
       "William H. Johnson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1457,
@@ -4110,7 +5022,9 @@
     "answers": [
       "William Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1458,
@@ -4119,7 +5033,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1459,
@@ -4128,7 +5044,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1460,
@@ -4137,7 +5055,9 @@
     "answers": [
       "Jon Serl"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1461,
@@ -4146,7 +5066,9 @@
     "answers": [
       "Norman Rockwell"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1462,
@@ -4155,7 +5077,9 @@
     "answers": [
       "Rembrandt Peale"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1463,
@@ -4164,7 +5088,9 @@
     "answers": [
       "Chester Leich"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1464,
@@ -4173,7 +5099,9 @@
     "answers": [
       "Eric Calvin McDonald"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1465,
@@ -4182,7 +5110,9 @@
     "answers": [
       "Joseph Cornell"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1466,
@@ -4191,7 +5121,9 @@
     "answers": [
       "Aaron Siskind"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1467,
@@ -4200,7 +5132,9 @@
     "answers": [
       "J. Alden Weir"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1468,
@@ -4209,7 +5143,9 @@
     "answers": [
       "Miner Kilbourne Kellogg"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1469,
@@ -4218,7 +5154,9 @@
     "answers": [
       "Herman A. Webster"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1470,
@@ -4227,7 +5165,9 @@
     "answers": [
       "Arthur B. Davies"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1471,
@@ -4236,7 +5176,9 @@
     "answers": [
       "Bertha E. Jaques"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1472,
@@ -4245,7 +5187,9 @@
     "answers": [
       "William Zorach"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1473,
@@ -4254,7 +5198,9 @@
     "answers": [
       "Jacob Kainen"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1474,
@@ -4263,7 +5209,9 @@
     "answers": [
       "Michael J. Gallagher"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1475,
@@ -4272,7 +5220,9 @@
     "answers": [
       "Jeffrey Clancy"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1476,
@@ -4281,7 +5231,9 @@
     "answers": [
       "Ron Fleming"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1477,
@@ -4290,7 +5242,9 @@
     "answers": [
       "William Eggleston"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1478,
@@ -4299,7 +5253,9 @@
     "answers": [
       "Thomas M. Beggs"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1479,
@@ -4308,7 +5264,9 @@
     "answers": [
       "Robert Arneson"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1480,
@@ -4317,7 +5275,9 @@
     "answers": [
       "Loïs Mailou Jones"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1481,
@@ -4326,7 +5286,9 @@
     "answers": [
       "Joan Danziger"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1482,
@@ -4335,7 +5297,9 @@
     "answers": [
       "Lore Lindenfeld"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1483,
@@ -4344,7 +5308,9 @@
     "answers": [
       "Alice Pike Barney"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1484,
@@ -4353,7 +5319,9 @@
     "answers": [
       "Christopher Trull"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1485,
@@ -4362,7 +5330,9 @@
     "answers": [
       "Frank E. Cummings III"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1486,
@@ -4371,7 +5341,9 @@
     "answers": [
       "Syd Carpenter"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1487,
@@ -4380,7 +5352,9 @@
     "answers": [
       "Edgar Nye"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1488,
@@ -4389,7 +5363,9 @@
     "answers": [
       "Louis Abel Truchet"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1489,
@@ -4398,7 +5374,9 @@
     "answers": [
       "Harry Dix"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1490,
@@ -4407,7 +5385,9 @@
     "answers": [
       "Joe Reyes Apodaca"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1491,
@@ -4416,7 +5396,9 @@
     "answers": [
       "James Rosenquist"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1492,
@@ -4425,7 +5407,9 @@
     "answers": [
       "Rosemarie Beck"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1493,
@@ -4434,7 +5418,9 @@
     "answers": [
       "Paul Herzoff"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1494,
@@ -4443,7 +5429,9 @@
     "answers": [
       "Franco Mondini-Ruiz"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1495,
@@ -4452,7 +5440,9 @@
     "answers": [
       "Dirk Staschke"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1496,
@@ -4461,7 +5451,9 @@
     "answers": [
       "John Taylor Arms"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1497,
@@ -4470,7 +5462,9 @@
     "answers": [
       "Robert Field"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1498,
@@ -4479,7 +5473,9 @@
     "answers": [
       "Edward Ruscha"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1499,
@@ -4488,7 +5484,9 @@
     "answers": [
       "Edwin L. Fulwider"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   },
   {
     "id": 1500,
@@ -4497,6 +5495,8 @@
     "answers": [
       "Hiram Powers"
     ],
-    "type": "creatorOf_D2"
+    "type": "single-entity factoid",
+	"property": "creatorOf",
+	"radius": 2
   }
 ]
