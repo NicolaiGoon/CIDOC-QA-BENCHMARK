@@ -1,15 +1,16 @@
 # CIDOC-QA Evaluation Benchmark
 
 This page contains the evaluation collection for Question Answering over CIDOC-CRM.
-In particular 5,000 questions are provided based on 10 query templates (of different depths),
+In particular 10,000 questions are provided based on 20 query templates (of different radius or depths),
 which were produced by using the  Smithsonian American Art Museum (SAAM) KG.
+In particular, there are 5,000 single-entity factoid questions, 2,500 comparative and 2,500 confirmation questions.
 
 The evaluation collection (grouped by each depth) is provided through the folder Benchmark.
 
-## A. SPARQL Queries for Creating the Questions and Answers
+## A. SPARQL Queries for Creating the  Single-Entity Factoid Questions and Answers
 
 Below, we provide the different SPARQL queries that we sent to <https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum>,
-for creating the 5,000 questions.
+for creating the 5,000 single-entity factoid question.
 
 ```sparql
 PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> 
@@ -17,7 +18,7 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>  
 ```
 
-### Question Templates of Depth 1
+### Question Templates of Radius 1
 
 Q1. Which is the art type of {Art Work}?
 
@@ -51,7 +52,7 @@ SELECT ?artwork ?label ?value WHERE {
 } 
 ```
 
-### Question Templates of Depth 2
+### Question Templates of Radius 2
 
 Q4. Who is the creator of {Art Work}?
 
@@ -75,7 +76,7 @@ SELECT distinct ?actor ?label ?placeLabel WHERE {
 } 
 ```
 
-### Question Templates of Depth 3
+### Question Templates of Radius 3
 
 Q6. When the {Art Work} started?
 
@@ -111,7 +112,7 @@ SELECT ?artwork ?label ?nationality WHERE {
 }  
 ```
 
-### Question Templates of Depth 4
+### Question Templates of Radius 4
 
 Q9. Which is the birth place of the creator of {Art Work}?
 
