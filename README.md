@@ -7,7 +7,7 @@ In particular, there are 5,000 single-entity factoid questions, 2,500 comparativ
 
 The evaluation collection (grouped by each depth) is provided through the folder Benchmark.
 
-## A. SPARQL Queries for Creating the  Single-ntity Factoid Questions and Answers
+## A. SPARQL Queries for Creating the  Single-Entity Factoid Questions and Answers
 
 Below, we provide the different SPARQL queries that we sent to <https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum>,
 for creating the 5,000 single-entity factoid question.
