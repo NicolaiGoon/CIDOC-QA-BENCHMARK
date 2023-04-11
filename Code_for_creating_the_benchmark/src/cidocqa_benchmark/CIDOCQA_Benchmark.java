@@ -19,10 +19,7 @@ import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author mountant
- */
+
 public class CIDOCQA_Benchmark {
 
     
